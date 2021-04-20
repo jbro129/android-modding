@@ -8,7 +8,10 @@ A collection of github repositories related to android modding.
 - [ ] Remove unusable projects and duplicates from the list
 - [ ] Make everything look nicer
 
+
 # Mod Menus
+
+
 [New Mod Style Layout And Mod Menu](https://github.com/KMODs-dev/New-Mod-Style-Layout-And-Mod-Menu)
 
 [ImpostorModmenu](https://github.com/Devilx86/ImpostorModmenu)
@@ -73,6 +76,9 @@ A collection of github repositories related to android modding.
 
 [UnityPCModMenu](https://github.com/Francois284Modz/UnityPCModMenu)
 
+[PUBG-MOBILE-Mod-Menu-v1.3.0-Source-Code-By-Sami-Gaming](https://github.com/SamiGamingYt/PUBG-MOBILE-Mod-Menu-v1.3.0-Source-Code-By-Sami-Gaming)
+
+[DLL-Mod-Menu](https://github.com/LGLTeam/DLL-Mod-Menu)
 
 
 
@@ -314,8 +320,12 @@ A collection of github repositories related to android modding.
 
 [ios-resources](https://github.com/Siguza/ios-resources)
 
+[frida-ios-hook](https://github.com/noobpk/frida-ios-hook)
+
+
 
 # Other
+
 
 
 [Game Guardian Il2cpp Script](https://github.com/SliceCast/Game-Guardian-Il2cpp-Script-)
@@ -393,5 +403,11 @@ A collection of github repositories related to android modding.
 [Unity-Mods](https://github.com/Octowolve/Unity-Mods)
 
 [iOS-Tweaks](https://github.com/onewayticket255/iOS-Tweaks)
+
+[ByNameModding](https://github.com/geokar2006/ByNameModding)
+
+[Game-Guardian-Easy-MemoryPatch](https://github.com/geokar2006/Game-Guardian-Easy-MemoryPatch)
+
+[ApkSignatureKill](https://github.com/TimScriptov/ApkSignatureKill)
 
 
