@@ -12,73 +12,73 @@ A collection of github repositories related to android modding.
 # Mod Menus
 
 
-[New Mod Style Layout And Mod Menu](https://github.com/KMODs-dev/New-Mod-Style-Layout-And-Mod-Menu)
+[New Mod Style Layout And Mod Menu](https://github.com/KMODs-dev/New-Mod-Style-Layout-And-Mod-Menu) by KMODs-dev : A mod menu template.
 
-[ImpostorModmenu](https://github.com/Devilx86/ImpostorModmenu)
+[ImpostorModmenu](https://github.com/Devilx86/ImpostorModmenu) by Devilx86 : An Among Us Mod Menu.
 
-[PUBG-Mobile-ESP-External-Mod-Menu-2](https://github.com/LGLTeam/PUBG-Mobile-ESP-External-Mod-Menu-2)
+[PUBG-Mobile-ESP-External-Mod-Menu-2](https://github.com/LGLTeam/PUBG-Mobile-ESP-External-Mod-Menu-2) by LGLTeam : A PUBG external mod menu.
 
-[ModMenu FreeFire Esp](https://github.com/KMODs-dev/ModMenu-FreeFire-Esp)
+[ModMenu FreeFire Esp](https://github.com/KMODs-dev/ModMenu-FreeFire-Esp) by KMODs-dev : A FreeFire ESP mod menu.
 
-[PlatinmodsMenu](https://github.com/FrostyHacker/PlatinmodsMenu)
+[PlatinmodsMenu](https://github.com/FrostyHacker/PlatinmodsMenu) by FrostyHacker : A Platinmods mod menu template.
 
-[FrostyMenu](https://github.com/FrostyHacker/FrostyMenu)
+[FrostyMenu](https://github.com/FrostyHacker/FrostyMenu) by FrostyHacker : A mod menu template.
 
-[Android-Mod-Menu](https://github.com/LGLTeam/Android-Mod-Menu)
+[Android-Mod-Menu](https://github.com/LGLTeam/Android-Mod-Menu) by LGLTeam : A mod menu template.
 
-[Substrate-Template-With-Mod-Menu](https://github.com/Octowolve/Hooking-Template-With-Mod-Menuu)
+[Substrate-Template-With-Mod-Menu](https://github.com/Octowolve/Hooking-Template-With-Mod-Menu) by Octowolve : A mod menu + hooking template.
 
-[iOS-Mod-Menu-Template-for-Theos](https://github.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos)
+[iOS-Mod-Menu-Template-for-Theos](https://github.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos) by joeyjurjens : An iOS mod menu template.
 
-[FloatingModMenu](https://github.com/MrIkso/FloatingModMenu)
+[FloatingModMenu](https://github.com/MrIkso/FloatingModMenu) by MrIkso : A mod menu template.
 
-[iGMM](https://github.com/TheArmKinag/iGMM)
+[iGMM](https://github.com/TheArmKing/iGMM) by TheArmKing : A Unity DLL mod menu template.
 
-[UnityMenu](https://github.com/TechXPlays/UnityMenu)
+[UnityMenu](https://github.com/TechXPlays/UnityMenu) by TechXPlays : A Unity DLL mod menu template.
 
-[UnityModMenuAndroid](https://github.com/AndnixSH/UnityModMenuAndroid)
+[UnityModMenuAndroid](https://github.com/AndnixSH/UnityModMenuAndroid) by AndnixSH : A Unity DLL mod menu template.
 
-[PUBG-Mobile-DESI-ESP-External-Mod-Menu](https://github.com/LGLTeam/PUBG-Mobile-DESI-ESP-External-Mod-Menu)
+[PUBG-Mobile-DESI-ESP-External-Mod-Menu](https://github.com/LGLTeam/PUBG-Mobile-DESI-ESP-External-Mod-Menu) by LGLTeam : A PUBG external mod menu.
 
-[PUBG-Mobile-ESP-External-Mod-Menu-3](https://github.com/LGLTeam/PUBG-Mobile-ESP-External-Mod-Menu-3)
+[PUBG-Mobile-ESP-External-Mod-Menu-3](https://github.com/LGLTeam/PUBG-Mobile-ESP-External-Mod-Menu-3) by LGLTeam : A PUBG external mod menu.
 
-[Android-Mod-Menu-Animation](https://github.com/LGLTeam/Android-Mod-Menu-Animation)
+[Android-Mod-Menu-Animation](https://github.com/LGLTeam/Android-Mod-Menu-Animation) by LGLTeam : A mod menu template with animation.
 
-[NewMod-Layout-Style-FreeFire-ESP-Aimbot](https://github.com/LGLTeam/NewMod-Layout-Style-FreeFire-ESP-Aimbot)
+[NewMod-Layout-Style-FreeFire-ESP-Aimbot](https://github.com/LGLTeam/NewMod-Layout-Style-FreeFire-ESP-Aimbot) by LGLTeam : A FreeFire mod menu wih ESP and aimbot.
 
-[FreeFire-Patching-Mod-Menu](https://github.com/LGLTeam/FreeFire-Patching-Mod-Menu)
+[FreeFire-Patching-Mod-Menu](https://github.com/LGLTeam/FreeFire-Patching-Mod-Menu) by LGLTeam : A FreeFire mod menu.
 
-[FreeFire-Antenna-Hack](https://github.com/LGLTeam/FreeFire-Antenna-Hack)
+[FreeFire-Antenna-Hack](https://github.com/LGLTeam/FreeFire-Antenna-Hack) by LGLTeam : A FreeFire antenna hack.
 
-[FreeFire-ESP-And-Aimbot-3](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot-3)
+[FreeFire-ESP-And-Aimbot-3](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot-3) by LGLTeam : A FreeFire mod menu wih ESP and aimbot.
 
-[VipMod-Mod-Menu-With-Canvas](https://github.com/LGLTeam/VipMod-Mod-Menu-With-Canvas)
+[VipMod-Mod-Menu-With-Canvas](https://github.com/LGLTeam/VipMod-Mod-Menu-With-Canvas) by LGLTeam : A canvas-based mod menu template.
 
-[FreeFire-ESP-And-Aimbot-2](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot-2)
+[FreeFire-ESP-And-Aimbot-2](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot-2) by LGLTeam : A FreeFire mod menu wih ESP and aimbot.
 
-[FreeFire-ESP-And-Aimbot](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot)
+[FreeFire-ESP-And-Aimbot](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot) by LGLTeam : A FreeFire mod menu wih ESP and aimbot.
 
-[Alternative-Android-Mod-Menu](https://github.com/AlternativeAlse/Alternative-Android-Mod-Menu)
+[Alternative-Android-Mod-Menu](https://github.com/AlternativeAlse/Alternative-Android-Mod-Menu) by AlternativeAlse : A mod menu template.
 
-[Mod-Menu-Template](https://github.com/VanHoevenTR/Mod-Menu-Template)
+[Mod-Menu-Template](https://github.com/VanHoevenTR/Mod-Menu-Template) by VanHoevenTR : A mod menu template.
 
-[Pubg-Mobile-Mod-Menu-v1.2.0-Source-Code](https://github.com/SamiGamingYt/Pubg-Mobile-Mod-Menu-v1.2.0-Source-Code)
+[Pubg-Mobile-Mod-Menu-v1.2.0-Source-Code](https://github.com/SamiGamingYt/Pubg-Mobile-Mod-Menu-v1.2.0-Source-Code) by SamiGamingYt : A PUBG mod menu source.
 
-[ModMenu-CMODs](https://github.com/CoRingaModzOfficial/ModMenu-CMODs)
+[ModMenu-CMODs](https://github.com/CoRingaModzOfficial/ModMenu-CMODs) by CoRingaModzOfficial : A mod menu template.
 
-[GodsTeam-Mod-Menu](https://github.com/LGLTeam/GodsTeam-Mod-Menu)
+[GodsTeam-Mod-Menu](https://github.com/LGLTeam/GodsTeam-Mod-Menu) by LGLTeam : A mod menu template.
 
-[ClassicUnityModMenuAndroid](https://github.com/AndnixSH/ClassicUnityModMenuAndroid)
+[ClassicUnityModMenuAndroid](https://github.com/AndnixSH/ClassicUnityModMenuAndroid) by AndnixSH : A Unity DLL mod menu template.
 
-[JFMODSMenu](https://github.com/FrostyHacker/JFMODSMenu)
+[JFMODSMenu](https://github.com/FrostyHacker/JFMODSMenu) by FrostyHacker : A mod menu template.
 
-[FwdAssaultPmt](https://github.com/FrostyHacker/FwdAssaultPmt)
+[FwdAssaultPmt](https://github.com/FrostyHacker/FwdAssaultPmt) by FrostyHacker : A FWD Assault Platinmods mod menu.
 
-[UnityPCModMenu](https://github.com/Francois284Modz/UnityPCModMenu)
+[UnityPCModMenu](https://github.com/Francois284Modz/UnityPCModMenu) by Francois284Modz : A Unity DLL mod menu template.
 
-[PUBG-MOBILE-Mod-Menu-v1.3.0-Source-Code-By-Sami-Gaming](https://github.com/SamiGamingYt/PUBG-MOBILE-Mod-Menu-v1.3.0-Source-Code-By-Sami-Gaming)
+[PUBG-MOBILE-Mod-Menu-v1.3.0-Source-Code-By-Sami-Gaming](https://github.com/SamiGamingYt/PUBG-MOBILE-Mod-Menu-v1.3.0-Source-Code-By-Sami-Gaming) by SamiGamingYt : A PUBG mod menu source.
 
-[DLL-Mod-Menu](https://github.com/LGLTeam/DLL-Mod-Menu)
+[DLL-Mod-Menu](https://github.com/LGLTeam/DLL-Mod-Menu) by LGLTeam : A Unity DLL mod menu template.
 
 
 
@@ -322,6 +322,8 @@ A collection of github repositories related to android modding.
 
 [frida-ios-hook](https://github.com/noobpk/frida-ios-hook)
 
+[AUDeobfuscator](https://github.com/lifeengines/AUDeobfuscator)
+
 
 
 # Other
@@ -409,5 +411,7 @@ A collection of github repositories related to android modding.
 [Game-Guardian-Easy-MemoryPatch](https://github.com/geokar2006/Game-Guardian-Easy-MemoryPatch)
 
 [ApkSignatureKill](https://github.com/TimScriptov/ApkSignatureKill)
+
+[Bullet-Force-Hack-Source](https://github.com/Ioopen/Bullet-Force-Hack-Source)
 
 
