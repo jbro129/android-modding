@@ -86,243 +86,259 @@ A collection of github repositories related to android modding.
 
 
 
-[Tools Injector Mod Menu](https://github.com/T5ive/Tools-Injector-Mod-Menu)
+[Tools Injector Mod Menu](https://github.com/T5ive/Tools-Injector-Mod-Menu) by T5ive : A tool to help automate mod menu creation.
 
-[libil2cpp Patcher](https://github.com/T5ive/libil2cpp-Patcher)
+[libil2cpp Patcher](https://github.com/T5ive/libil2cpp-Patcher) by T5ive : A tool that makes hex editing easier.
 
-[Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
+[Il2CppDumper](https://github.com/Perfare/Il2CppDumper) by Perfare : An il2cpp dumper.
 
-[AssetStudio](https://github.com/Perfare/AssetStudio)
+[AssetStudio](https://github.com/Perfare/AssetStudio) by Prefare : A tool for exploring, extracting and exporting assets and assetbundles.
 
-[Il2CppInspector](https://github.com/djkaty/Il2CppInspector)
+[Il2CppInspector](https://github.com/djkaty/Il2CppInspector) by djkaty : A powerful automated tool for reverse engineering Unity IL2CPP binaries
 
-[Il2CppDumperTool](https://github.com/axhlzy/Il2CppDumperTool)
+[Il2CppDumperTool](https://github.com/axhlzy/Il2CppDumperTool) by axhlzy : A tool to batch breakpoint functions of libil2cpp.so.
 
-[Il2CppTranslator](https://github.com/BitCrackers/Il2CppTranslator)
+[Il2CppTranslator](https://github.com/BitCrackers/Il2CppTranslator) by BitCrackers : A library to help make deobfuscation plugins for Il2CppInsector.
 
-[Frida Il2cpp](https://github.com/AeonLucid/frida-il2cpp)
+[frida](https://github.com/frida/frida) by frida : A dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
-[Memory Manager](https://github.com/connorguerin/Memory-Manager)
+[Frida Il2cpp](https://github.com/AeonLucid/frida-il2cpp) by AeonLucid : A helper library for those that want to play around with Unity il2cpp games.
 
-[APK Medit](https://github.com/aktsk/apk-medit)
+[Memory Manager](https://github.com/connorguerin/Memory-Manager) by connorguerin : C++ memory manager for use with android apps.
 
-[Il2CppDumper YuanShen](https://github.com/kagurazakasanae/Il2CppDumper-YuanShen)
+[APK Medit](https://github.com/aktsk/apk-medit) by aktsk : A memory search and patch tool on debuggable apk without root & ndk.
 
-[Patch Apk](https://github.com/NickstaDB/patch-apk)
+[Il2CppDumper YuanShen](https://github.com/kagurazakasanae/Il2CppDumper-YuanShen) by kagurazakasanae : Modified version of Il2CppDumper allows you to dump methods of UserAssembly.dll of the game Genshin Impact.
 
-[AndroidAppRE](https://github.com/maddiestone/AndroidAppRE)
+[Patch Apk](https://github.com/NickstaDB/patch-apk) by NickstaDB : Wrapper to inject an Objection/Frida gadget into an APK.
 
-[MetaDataStringEditor](https://github.com/JeremieCHN/MetaDataStringEditor)
+[AndroidAppRE](https://github.com/maddiestone/AndroidAppRE) by maddiestone : Android App Reverse Engineering Workshop.
 
-[MonoNativeHook](https://github.com/FateHack/MonoNativeHook)
+[MetaDataStringEditor](https://github.com/JeremieCHN/MetaDataStringEditor) by JeremieCHN : Modify string in file global-metadata.dat.
 
-[Il2CppDumper GUI](https://github.com/AndnixSH/Il2CppDumper-GUI)
+[MonoNativeHook](https://github.com/FateHack/MonoNativeHook) by FateHack : hook image.namespace.class.method.
 
-[DroidPlugin](https://github.com/moz1q1/DroidPlugin)
+[Il2CppDumper GUI](https://github.com/AndnixSH/Il2CppDumper-GUI) by AndnixSH : Simple GUI version of Il2CppDumper
 
-[cydiasubstrate_hooktools](https://github.com/F8LEFT/cydiasubstrate_hooktools)
+[DroidPlugin](https://github.com/moz1q1/DroidPlugin) by moz1q1 : A plugin framework on android,Run any third-party apk without installation, modification or repackage
 
-[Il2CppSDKGenerator](https://github.com/kur0yama/Il2CppSDKGenerator)
+[Il2CppSDKGenerator](https://github.com/kur0yama/Il2CppSDKGenerator) by kur0yama : An Il2Cpp SDK generator for Android (And probably IOS).
 
-[Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
+[Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) by SamboyCoding : WIP Tool to reverse Unity's IL2CPP build process back to the original managed DLLs.
 
-[Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower)
+[Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower) by knah : A tool to generate Managed->IL2CPP proxy assemblies.
 
-[AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin)
+[AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin) by androidmalin : Simply implement plug-inization of the four major components on Android for learning and use.
 
-[Riru-Il2CppDumper](https://github.com/Perfare/Riru-Il2CppDumper)
+[Riru-Il2CppDumper](https://github.com/Perfare/Riru-Il2CppDumper) by Perfare : Using Riru to dump il2cpp data at runtime
 
-[IPAPatch](https://github.com/paradiseduo/IPAPatch)
+[IPAPatch](https://github.com/paradiseduo/IPAPatch) by paradiseduo : Patch iOS Apps, The Easy Way, Without Jailbreak.
 
-[b00m h3adsh0t](https://github.com/lucylow/b00m-h3adsh0t)
+[b00m h3adsh0t](https://github.com/lucylow/b00m-h3adsh0t) by lucylow : Computer Vision Game Development. Neural Network Configurable Aimbot for FPS games with custom training mode.
 
-[scp internal il2cpp](https://github.com/t1f7/scp-internal-il2cpp)
+[scp internal il2cpp](https://github.com/t1f7/scp-internal-il2cpp) by t1f7 : l2cpp internal hack for SCP SL.
 
-[Android Inline Hook ARM64](https://github.com/GToad/Android_Inline_Hook_ARM64)
+[Android Inline Hook ARM64](https://github.com/GToad/Android_Inline_Hook_ARM64) by GToad : Native library hooking that works with arm64.
 
-[Il2cppPatcher](https://github.com/kokonguyen191/Il2cppPatcher)
+[Il2cppPatcher](https://github.com/kokonguyen191/Il2cppPatcher) by kokonguyen191 : Update your Android app mod with just one command.
 
-[Dumpity](https://github.com/sc2ad/Dumpity)
+[Dumpity](https://github.com/sc2ad/Dumpity) by sc2ad : An IL2CPP Dumper that dumps all types into classes that can support reading and writing from .assets files.
 
-[Il2Cpp Modding Codegen](https://github.com/sc2ad/Il2Cpp-Modding-Codegen)
+[Il2Cpp Modding Codegen](https://github.com/sc2ad/Il2Cpp-Modding-Codegen) by sc2ad : Generates code that can be built into a shared library for Il2Cpp modding.
 
-[Android_InlineHook](https://github.com/zhuotong/Android_InlineHook)
+[Android_InlineHook](https://github.com/zhuotong/Android_InlineHook) by zhuotong : Android inline hook framework.
 
-[PackageRenamer](https://github.com/testwhat/PackageRenamer)
+[PackageRenamer](https://github.com/testwhat/PackageRenamer) by testwhat : Change package name of apk.
 
-[FRIDA-DEXDump](https://github.com/hluwa/FRIDA-DEXDump)
+[FRIDA-DEXDump](https://github.com/hluwa/FRIDA-DEXDump) by hluwa : Fast search and dump dex on memory.
 
-[Android-Mem-Edit](https://github.com/mrcang09/Android-Mem-Edit)
+[Android-Mem-Edit](https://github.com/mrcang09/Android-Mem-Edit) by mrcang09 : Android memory plug-in, a memory modification tool for application processes.
 
-[UE4Dumper](https://github.com/kp7742/UE4Dumper)
+[UE4Dumper](https://github.com/kp7742/UE4Dumper) by kp7742 : Unreal Engine 4 Dumper - Dump libUE4.so and Generate Structure SDK.
 
-[Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk)
+[Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk) by ClaudiuGeorgiu : An automatic obfuscation tool for Android apps.
 
-[IL2CPPDumper](https://github.com/kp7742/IL2CPPDumper)
+[IL2CPPDumper](https://github.com/kp7742/IL2CPPDumper) by kp7742 : Dump Lib libil2cpp.so from Memory of Game Process and Generate structure dump.cs.
 
-[XIL2CppDumper](https://github.com/4ch12dy/XIL2CppDumper)
+[XIL2CppDumper](https://github.com/4ch12dy/XIL2CppDumper) by 4ch12dy : IL2CppDumper writed in C++.
 
-[Il2CppParser](https://github.com/tacesrever/Il2CppParser)
+[Il2CppParser](https://github.com/tacesrever/Il2CppParser) by tacesrever : libil2cpp symbol parser for ida.
 
-[MemDumper](https://github.com/kp7742/MemDumper)
+[MemDumper](https://github.com/kp7742/MemDumper) by kp7742 : Dump Memory of Process in Android.
 
-[Android_Inline_Hook](https://github.com/GToad/Android_Inline_Hook)
+[Android_Inline_Hook](https://github.com/GToad/Android_Inline_Hook) by GToad: Native library hooking that works with thumb-2 and arm32.
 
-[IL2CppResolver](https://github.com/MJx0/IL2CppResolver)
+[IL2CppResolver](https://github.com/MJx0/IL2CppResolver) by  : Resolve il2cpp calls for internal unity engine functions
 
-[Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy)
+[Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy) by yukiarrr : Unity IL2CPP Disassembler (for apk).
 
-[GGInjector](https://github.com/saiaapiz14/GGInjector)
+[GGInjector](https://github.com/saiaapiz14/GGInjector) by saiaapiz14 : Inject shared library by using GameGuardian.
 
-[KiwiApkProtect](https://github.com/iKiwiSec/KiwiApkProtect)
+[KiwiApkProtect](https://github.com/iKiwiSec/KiwiApkProtect) by iKiwiSec : encryption for mobile android applications.
 
-[Android-Hooking-Template](https://github.com/joeyjurjens/Android-Hooking-Template)
+[Android-Hooking-Template](https://github.com/joeyjurjens/Android-Hooking-Template) by joeyjurjens : Just a simple hooking template which makes use of Cydia Substrate.
 
-[And64InlineHook](https://github.com/Rprop/And64InlineHook)
+[And64InlineHook](https://github.com/Rprop/And64InlineHook) by Rprop : Lightweight ARMv8-A(ARM64, AArch64, Little-Endian) Inline Hook Library for Android C/C++.
 
-[DumpDex](https://github.com/aos3618/DumpDex)
+[DumpDex](https://github.com/aos3618/DumpDex) by aos3618 : A very simple dump dex file unpacking tool based on Xposed.
 
-[MonoInjectorKit](https://github.com/MJx0/MonoInjectorKit)
+[MonoInjectorKit](https://github.com/MJx0/MonoInjectorKit) by MJx0 : DLL injector for mono backend games.
 
-[Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook)
+[Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook) by ele7enxxh : thumb16 thumb32 arm32 inlineHook in Android.
 
-[VirtualFastHook](https://github.com/turing-technician/VirtualFastHook)
+[VirtualFastHook](https://github.com/turing-technician/VirtualFastHook) by turing-technician : Android application hooking tool based on FastHook + VirtualApp.
 
-[FastHook](https://github.com/turing-technician/FastHook)
+[FastHook](https://github.com/turing-technician/FastHook) by turing-technician : Android ART Hook.
 
-[DLGMemor](https://github.com/DeviLeo/DLGMemor)
+[DLGMemor](https://github.com/DeviLeo/DLGMemor) by DeviLeo : A memory editor and viewer for iOS (Jailed or not Jailed).
 
-[AndroidProjectCreator](https://github.com/ThisIsLibra/AndroidProjectCreator)
+[AndroidProjectCreator](https://github.com/ThisIsLibra/AndroidProjectCreator) by ThisIsLibra : Convert an APK to an Android Studio Project using multiple open-source decompilers.
 
-[SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)
+[SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife) by android-notes : android ui debugging tool.
 
-[SandHook](https://github.com/ganyao114/SandHook)
+[SandHook](https://github.com/ganyao114/SandHook) by ganyao114 : Android ART Hook/Native Inline Hook/Single Instruction Hook.
 
-[MonoDumperKit](https://github.com/MJx0/MonoDumperKit)
+[MonoDumperKit](https://github.com/MJx0/MonoDumperKit) by MJx0 : DLL dumper for mono backend games.
 
-[whale](https://github.com/asLody/whale)
+[whale](https://github.com/asLody/whale) by asLody : Hook Framework for Android/IOS/Linux/MacOS.
 
-[KittyMemory](https://github.com/MJx0/KittyMemory)
+[KittyMemory](https://github.com/MJx0/KittyMemory) by MJx0 : This library aims for runtime code patching for both Android and iOS.
 
-[Android-Disassembler](https://github.com/KYHSGeekCode/Android-Disassembler)
+[Android-Disassembler](https://github.com/KYHSGeekCode/Android-Disassembler) by KYHSGeekCode : 
 
-[mem](https://github.com/MobileForensicsResearch/mem)
+[mem](https://github.com/MobileForensicsResearch/mem) by MobileForensicsResearch : 
 
-[UABE](https://github.com/DerPopo/UABE)
+[UABE](https://github.com/DerPopo/UABE) by DerPopo : 
 
-[ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)
+[ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin) by iReaderAndroid : 
 
-[VirtualAppEx](https://github.com/xxxyanchenxxx/VirtualAppEx)
+[VirtualAppEx](https://github.com/xxxyanchenxxx/VirtualAppEx) by xxxyanchenxxx : 
 
-[VirtualApp](https://github.com/asLody/VirtualApp)
+[VirtualApp](https://github.com/asLody/VirtualApp) by asLody : 
 
-[VirtualHook_Mono_SO](https://github.com/cjyanyi/VirtualHook_Mono_SO)
+[VirtualHook_Mono_SO](https://github.com/cjyanyi/VirtualHook_Mono_SO) by cjyanyi : 
 
-[PokemonGoDumper](https://github.com/Jumboperson/PokemonGoDumper)
+[PokemonGoDumper](https://github.com/Jumboperson/PokemonGoDumper) by Jumboperson : 
 
-[Il2CppDumper](https://github.com/Jumboperson/Il2CppDumper)
+[Il2CppDumper](https://github.com/Jumboperson/Il2CppDumper) by Jumboperson : 
 
-[ILSpy](https://github.com/icsharpcode/ILSpy)
+[ILSpy](https://github.com/icsharpcode/ILSpy) by icsharpcode : 
 
-[fridump](https://github.com/Nightbringer21/fridump)
+[fridump](https://github.com/Nightbringer21/fridump) by Nightbringer21 : 
 
-[UtinyRipper](https://github.com/mafaca/UtinyRipper)
+[UtinyRipper](https://github.com/mafaca/UtinyRipper) by mafaca : 
 
-[frida-unpack](https://github.com/dstmath/frida-unpack)
+[frida-unpack](https://github.com/dstmath/frida-unpack) by dstmath : 
 
-[dumpDex](https://github.com/WrBug/dumpDex)
+[dumpDex](https://github.com/WrBug/dumpDex) by WrBug : 
 
-[DynamicAPK](https://github.com/CtripMobile/DynamicAPK)
+[DynamicAPK](https://github.com/CtripMobile/DynamicAPK) by CtripMobile : 
 
-[atlas](https://github.com/alibaba/atlas)
+[atlas](https://github.com/alibaba/atlas) by alibaba : 
 
-[ApkSignatureKiller](https://github.com/L-JINBIN/ApkSignatureKiller)
+[ApkSignatureKiller](https://github.com/L-JINBIN/ApkSignatureKiller) by L-JINBIN : 
 
-[drizzleDumper](https://github.com/DrizzleRisk/drizzleDumper)
+[drizzleDumper](https://github.com/DrizzleRisk/drizzleDumper) by DrizzleRisk : 
 
-[android_unpacker](https://github.com/CheckPointSW/android_unpacker)
+[android_unpacker](https://github.com/CheckPointSW/android_unpacker) by CheckPointSW : 
 
-[AppSpear](https://github.com/UchihaL/AppSpear)
+[AppSpear](https://github.com/UchihaL/AppSpear) by UchihaL : 
 
-[android-unpacker](https://github.com/strazzere/android-unpacker)
+[android-unpacker](https://github.com/strazzere/android-unpacker) by strazzere : 
 
-[APKiD](https://github.com/rednaga/APKiD)
+[APKiD](https://github.com/rednaga/APKiD) by rednaga : 
 
-[VirtualHook](https://github.com/PAGalaxyLab/VirtualHook)
+[VirtualHook](https://github.com/PAGalaxyLab/VirtualHook) by PAGalaxyLab : 
 
-[simplify](https://github.com/CalebFenton/simplify)
+[simplify](https://github.com/CalebFenton/simplify) by CalebFenton : 
 
-[dnSpy](https://github.com/dnSpy/dnSpy)
+[dnSpy](https://github.com/dnSpy/dnSpy) by dnSpy : 
 
-[DexHunter](https://github.com/zyq8709/DexHunter)
+[DexHunter](https://github.com/zyq8709/DexHunter) by zyq8709 : 
 
-[AndHook](https://github.com/asLody/AndHook)
+[xHook](https://github.com/iqiyi/xHook) by iqiyi : 
 
-[xHook](https://github.com/iqiyi/xHook)
+[dexdump](https://github.com/smartdone/dexdump) by smartdone : 
 
-[dexdump](https://github.com/smartdone/dexdump)
+[Dobby](https://github.com/jmpews/Dobby) by jmpews : 
 
-[Dobby](https://github.com/jmpews/Dobby)
+[RePlugin](https://github.com/Qihoo360/RePlugin) by Qihoo360 : 
 
-[RePlugin](https://github.com/Qihoo360/RePlugin)
+[AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader) by mmin18 : 
 
-[AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader)
+[VirtualAPK](https://github.com/didi/VirtualAPK) by didi : 
 
-[VirtualAPK](https://github.com/didi/VirtualAPK)
+[AndroidApktool](https://github.com/imkiwa/AndroidApktool) by imkiwa : 
 
-[AndroidApktool](https://github.com/imkiwa/AndroidApktool)
+[Apktool](https://github.com/iBotPeaches/Apktool) by iBotPeaches : 
 
-[Apktool](https://github.com/iBotPeaches/Apktool)
+[tinker](https://github.com/Tencent/tinker) by Tencent : 
 
-[tinker](https://github.com/Tencent/tinker)
+[jadx](https://github.com/skylot/jadx) by skylot : 
 
-[jadx](https://github.com/skylot/jadx)
+[dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) by singwhatiwanna : 
 
-[dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
+[Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework) by limpoxe : 
 
-[Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework)
+[AndResGuard](https://github.com/shwenzhang/AndResGuard) by shwenzhang : 
 
-[AndResGuard](https://github.com/shwenzhang/AndResGuard)
+[ApkToolPlus](https://github.com/linchaolong/ApkToolPlus) by linchaolong : 
 
-[ApkToolPlus](https://github.com/linchaolong/ApkToolPlus)
+[PG3D-CryptoPrefsGenerator](https://github.com/jbro129/PG3D-CryptoPrefsGenerator) by jbro129 : 
 
-[PG3D-CryptoPrefsGenerator](https://github.com/jbro129/PG3D-CryptoPrefsGenerator)
+[LibInjector](https://github.com/jbro129/LibInjector) by jbro129 : 
 
-[LibInjector](https://github.com/jbro129/LibInjector)
+[android-modding-tools](https://github.com/jbro129/android-modding-tools) by jbro129 : 
 
-[android-modding-tools](https://github.com/jbro129/android-modding-tools)
+[PG3D-JbroLauncher](https://github.com/jbro129/PG3D-JbroLauncher) by jbro129 : 
 
-[PG3D-JbroLauncher](https://github.com/jbro129/PG3D-JbroLauncher)
+[PackageHook](https://github.com/jbro129/PackageHook) by jbro129 : 
 
-[PackageHook](https://github.com/jbro129/PackageHook)
+[Unity-Substrate-Hook-Android](https://github.com/jbro129/Unity-Substrate-Hook-Android) by jbro129 : 
 
-[Unity-Substrate-Hook-Android](https://github.com/jbro129/Unity-Substrate-Hook-Android)
+[KMrite](https://github.com/MrPictYT-art/KMrite) by MrPictYT-art : 
 
-[KMrite](https://github.com/MrPictYT-art/KMrite)
+[LibDumper](https://github.com/MrPictYT-art/LibDumper) by MrPictYT-art : 
 
-[LibDumper](https://github.com/MrPictYT-art/LibDumper)
+[il2cpp_mono_string](https://github.com/geokar2006/il2cpp_mono_string) by geokar2006 : 
 
-[il2cpp_mono_string](https://github.com/geokar2006/il2cpp_mono_string)
+[Il2CppInspectorPlugins](https://github.com/djkaty/Il2CppInspectorPlugins) by djkaty : 
 
-[Il2CppInspectorPlugins](https://github.com/djkaty/Il2CppInspectorPlugins)
+[AssetStudio](https://github.com/djkaty/AssetStudio) by djkaty : 
 
-[AssetStudio](https://github.com/djkaty/AssetStudio)
+[AutoAPKTool](https://github.com/TheArmKing/AutoAPKTool) by TheArmKing : 
 
-[AutoAPKTool](https://github.com/TheArmKing/AutoAPKTool)
+[AutoSmali](https://github.com/TheArmKing/AutoSmali) by TheArmKing : 
 
-[AutoSmali](https://github.com/TheArmKing/AutoSmali)
+[CSharp-AntiDump](https://github.com/AndnixSH/CSharp-AntiDump) by AndnixSH : 
 
-[CSharp-AntiDump](https://github.com/AndnixSH/CSharp-AntiDump)
+[Hooking-and-Patching-android-template](https://github.com/Djngo/Hooking-and-Patching-android-template) by Djngo : 
 
-[Hooking-and-Patching-android-template](https://github.com/Djngo/Hooking-and-Patching-android-template)
+[AutoToaster](https://github.com/AndnixSH/AutoToaster) by AndnixSH : 
 
-[AutoToaster](https://github.com/AndnixSH/AutoToaster)
+[ios-resources](https://github.com/Siguza/ios-resources) by Siguza : 
 
-[ios-resources](https://github.com/Siguza/ios-resources)
+[frida-ios-hook](https://github.com/noobpk/frida-ios-hook) by noobpk : 
 
-[frida-ios-hook](https://github.com/noobpk/frida-ios-hook)
+[AUDeobfuscator](https://github.com/lifeengines/AUDeobfuscator) by lifeengines : 
 
-[AUDeobfuscator](https://github.com/lifeengines/AUDeobfuscator)
+[AsmResolver](https://github.com/Washi1337/AsmResolver) by Washi1337 : 
+
+[UnityExplorer](https://github.com/sinai-dev/UnityExplorer) by sinai-dev : 
+
+[frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge) by vfsfitvnm : 
+
+[deoptfuscator](https://github.com/Gyoonus/deoptfuscator) by Gyoonus : 
+
+[ImHex](https://github.com/WerWolv/ImHex) by WerWolv : 
+
+[strongR-frida-android](https://github.com/hluwa/strongR-frida-android) by hluwa : 
+
+[apk-mitm](https://github.com/shroudedcode/apk-mitm) by shroudedcode : 
+
+[FakerAndroid](https://github.com/Efaker/FakerAndroid) by Efaker : 
+
+[APKLab](https://github.com/APKLab/APKLab) by APKLab : 
 
 
 
@@ -330,88 +346,89 @@ A collection of github repositories related to android modding.
 
 
 
-[Game Guardian Il2cpp Script](https://github.com/SliceCast/Game-Guardian-Il2cpp-Script-)
+[Game Guardian Il2cpp Script](https://github.com/SliceCast/Game-Guardian-Il2cpp-Script-) by SliceCast : 
 
-[Standoff 2 Hack Source](https://github.com/Oifox/Standoff-2-Hack-Source)
+[Standoff 2 Hack Source](https://github.com/Oifox/Standoff-2-Hack-Source) by Oifox : 
 
-[8 Ball Pool](https://github.com/jonathansilva/8BallPool)
+[8 Ball Pool](https://github.com/jonathansilva/8BallPool) by jonathansilva : 
 
-[androidMemHack](https://github.com/gooooloo/androidMemHack)
+[androidMemHack](https://github.com/gooooloo/androidMemHack) by gooooloo : 
 
-[ESP Source](https://github.com/busmanl30/ESP-Source)
+[ESP Source](https://github.com/busmanl30/ESP-Source) by busmanl30 : 
 
-[injector](https://github.com/flysands/injector)
+[injector](https://github.com/flysands/injector) by flysands : 
 
-[Il2CppQuestTypePatching](https://github.com/sc2ad/Il2CppQuestTypePatching)
+[Il2CppQuestTypePatching](https://github.com/sc2ad/Il2CppQuestTypePatching) by sc2ad : 
 
-[il2cpp-hacking](https://github.com/Octowolve/il2cpp-hacking)
+[il2cpp-hacking](https://github.com/Octowolve/il2cpp-hacking) by Octowolve : 
 
-[Il2CppVersions](https://github.com/nneonneo/Il2CppVersions)
+[Il2CppVersions](https://github.com/nneonneo/Il2CppVersions) by nneonneo : 
 
-[arminject](https://github.com/evilsocket/arminject)
+[arminject](https://github.com/evilsocket/arminject) by evilsocket : 
 
-[MonoString](https://github.com/FateHack/MonoString)
+[MonoString](https://github.com/FateHack/MonoString) by FateHack : 
 
-[beatsaber-hook](https://github.com/sc2ad/beatsaber-hook)
+[beatsaber-hook](https://github.com/sc2ad/beatsaber-hook) by sc2ad : 
 
-[Il2CppHook](https://github.com/sc2ad/Il2CppHook)
+[Il2CppHook](https://github.com/sc2ad/Il2CppHook) by sc2ad : 
 
-[UnityStuff](https://github.com/kp7742/UnityStuff)
+[UnityStuff](https://github.com/kp7742/UnityStuff) by kp7742 : 
 
-[FamgyAndroidInject](https://github.com/famgy/FamgyAndroidInject)
+[FamgyAndroidInject](https://github.com/famgy/FamgyAndroidInject) by famgy : 
 
-[HookDemo](https://github.com/13767004362/HookDemo)
+[HookDemo](https://github.com/13767004362/HookDemo) by 13767004362 : 
 
-[AndroidCydiaHook](https://github.com/russell-shizhen/AndroidCydiaHook)
+[AndroidCydiaHook](https://github.com/russell-shizhen/AndroidCydiaHook) by russell-shizhen : 
 
-[RuntimeProcessNameChange](https://github.com/darvincisec/RuntimeProcessNameChange)
+[RuntimeProcessNameChange](https://github.com/darvincisec/RuntimeProcessNameChange) by darvincisec : 
 
-[PUBGPatcher](https://github.com/kp7742/PUBGPatcher)
+[PUBGPatcher](https://github.com/kp7742/PUBGPatcher) by kp7742 : 
 
-[MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
+[MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) by tanprathan : 
 
-[NativeIORedirect](https://github.com/dolphinwang/NativeIORedirect)
+[NativeIORedirect](https://github.com/dolphinwang/NativeIORedirect) by dolphinwang : 
 
-[devil2cpp](https://github.com/Torres9/devil2cpp)
+[devil2cpp](https://github.com/Torres9/devil2cpp) by Torres9 : 
 
-[ShadowgunLegendsAimbot](https://github.com/GodzExploit/ShadowgunLegendsAimbot)
+[ShadowgunLegendsAimbot](https://github.com/GodzExploit/ShadowgunLegendsAimbot) by GodzExploit : 
 
-[Masskill](https://github.com/AutoTEC1204/Masskill)
+[Masskill](https://github.com/AutoTEC1204/Masskill) by AutoTEC1204 : 
 
-[Pixel-Strike-3D-Mod-Menu-Source-Code](https://github.com/GodzExploit/Pixel-Strike-3D-Mod-Menu-Source-Code)
+[Pixel-Strike-3D-Mod-Menu-Source-Code](https://github.com/GodzExploit/Pixel-Strike-3D-Mod-Menu-Source-Code) by GodzExploit : 
 
-[PixelGun3D-Mod-Menu-Source-Code-SliceCast](https://github.com/GodzExploit/PixelGun3D-Mod-Menu-Source-Code-SliceCast)
+[PixelGun3D-Mod-Menu-Source-Code-SliceCast](https://github.com/GodzExploit/PixelGun3D-Mod-Menu-Source-Code-SliceCast) by GodzExploit : 
 
-[Telekill](https://github.com/Rednick16/Telekill)
+[Telekill](https://github.com/Rednick16/Telekill) by Rednick16 : 
 
-[PidTesting](https://github.com/ArcyMods/PidTesting)
+[PidTesting](https://github.com/ArcyMods/PidTesting) by ArcyMods : 
 
-[AndLua-Modding-Projects](https://github.com/LGLTeam/AndLua-Modding-Projects)
+[AndLua-Modding-Projects](https://github.com/LGLTeam/AndLua-Modding-Projects) by LGLTeam : 
 
-[Decrypted-GG-Lua-Scripts](https://github.com/LGLTeam/Decrypted-GG-Lua-Scripts)
+[Decrypted-GG-Lua-Scripts](https://github.com/LGLTeam/Decrypted-GG-Lua-Scripts) by LGLTeam : 
 
-[PUBG-Mobile-Memory-Hack](https://github.com/LGLTeam/PUBG-Mobile-Memory-Hack)
+[PUBG-Mobile-Memory-Hack](https://github.com/LGLTeam/PUBG-Mobile-Memory-Hack) by LGLTeam : 
 
-[Modding-Shell-Scripts](https://github.com/LGLTeam/Modding-Shell-Scripts)
+[Modding-Shell-Scripts](https://github.com/LGLTeam/Modding-Shell-Scripts) by LGLTeam : 
 
-[pubg_mobile_memory_hacking_examples](https://github.com/atiksoftware/pubg_mobile_memory_hacking_examples)
+[pubg_mobile_memory_hacking_examples](https://github.com/atiksoftware/pubg_mobile_memory_hacking_examples) by atiksoftware : 
 
-[ESPHack](https://github.com/AydikoGamer2424/ESPHack)
+[ESPHack](https://github.com/AydikoGamer2424/ESPHack) by AydikoGamer2424 : 
 
-[esp-source-code-for-ios](https://github.com/MobeanIM/esp-source-code-for-ios)
+[esp-source-code-for-ios](https://github.com/MobeanIM/esp-source-code-for-ios) by MobeanIM : 
 
-[Mini-Militia-Mod-Tools](https://github.com/kp7742/Mini-Militia-Mod-Tools)
+[Mini-Militia-Mod-Tools](https://github.com/kp7742/Mini-Militia-Mod-Tools) by kp7742 : 
 
-[Unity-Mods](https://github.com/Octowolve/Unity-Mods)
+[Unity-Mods](https://github.com/Octowolve/Unity-Mods) by Octowolve : 
 
-[iOS-Tweaks](https://github.com/onewayticket255/iOS-Tweaks)
+[iOS-Tweaks](https://github.com/onewayticket255/iOS-Tweaks) by onewayticket255 : 
 
-[ByNameModding](https://github.com/geokar2006/ByNameModding)
+[ByNameModding](https://github.com/geokar2006/ByNameModding) by geokar2006 : 
 
-[Game-Guardian-Easy-MemoryPatch](https://github.com/geokar2006/Game-Guardian-Easy-MemoryPatch)
+[Game-Guardian-Easy-MemoryPatch](https://github.com/geokar2006/Game-Guardian-Easy-MemoryPatch) by geokar2006 : 
 
-[ApkSignatureKill](https://github.com/TimScriptov/ApkSignatureKill)
+[ApkSignatureKill](https://github.com/TimScriptov/ApkSignatureKill) by TimScriptov : 
 
-[Bullet-Force-Hack-Source](https://github.com/Ioopen/Bullet-Force-Hack-Source)
+[Bullet-Force-Hack-Source](https://github.com/Ioopen/Bullet-Force-Hack-Source) by Ioopen : 
 
+[cydiasubstrate_hooktools](https://github.com/F8LEFT/cydiasubstrate_hooktools) by F8LEFT : 
 
