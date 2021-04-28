@@ -8,6 +8,16 @@ A collection of github repositories related to android modding.
 - [ ] Remove unusable projects and duplicates from the list (*in progress*)
 - [ ] Make everything look nicer (*in progress*)
 
+# Categories
+ - [Mod Menu Templates](https://github.com/jbro129/android-modding/blob/main/README.md#mod-menu-templates)
+ - [Dumping and Unpacking](https://github.com/jbro129/android-modding/blob/main/README.md#dumping-and-unpacking)
+ - [C++ Libraries](https://github.com/jbro129/android-modding/blob/main/README.md#c-libraries)
+ - [Hooking Libraries and Templates](https://github.com/jbro129/android-modding/blob/main/README.md#hooking-libraries-and-templates)
+ - [Modding Projects and Tutorials](https://github.com/jbro129/android-modding/blob/main/README.md#modding-projects-and-tutorials)
+ - [Tools](https://github.com/jbro129/android-modding/blob/main/README.md#tools)
+ - [Frida](https://github.com/jbro129/android-modding/blob/main/README.md#frida)
+ - [Virtual Engines](https://github.com/jbro129/android-modding/blob/main/README.md#virtual-engines)
+ - [Other](https://github.com/jbro129/android-modding/blob/main/README.md#other)
 
 # Mod Menu Templates
 
