@@ -14,7 +14,7 @@ A collection of github repositories related to android modding.
  - [C++ Libraries](https://github.com/jbro129/android-modding/blob/main/README.md#c-libraries)
  - [Hooking Libraries and Templates](https://github.com/jbro129/android-modding/blob/main/README.md#hooking-libraries-and-templates)
  - [Modding Projects and Tutorials](https://github.com/jbro129/android-modding/blob/main/README.md#modding-projects-and-tutorials)
- - [Tools](https://github.com/jbro129/android-modding/blob/main/README.md#tools)
+ - [Modding Tools](https://github.com/jbro129/android-modding/blob/main/README.md#modding-tools)
  - [Frida](https://github.com/jbro129/android-modding/blob/main/README.md#frida)
  - [Virtual Engines](https://github.com/jbro129/android-modding/blob/main/README.md#virtual-engines)
  - [Other](https://github.com/jbro129/android-modding/blob/main/README.md#other)
@@ -253,7 +253,7 @@ A collection of github repositories related to android modding.
 [Bullet-Force-Hack-Source](https://github.com/Ioopen/Bullet-Force-Hack-Source) by Ioopen : Telekill for the game called Bullet Force.
 
 
-# Tools
+# Modding Tools
 
 
 [Tools Injector Mod Menu](https://github.com/T5ive/Tools-Injector-Mod-Menu) by T5ive : A tool to help automate mod menu creation.
