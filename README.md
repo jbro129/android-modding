@@ -106,7 +106,7 @@ A collection of github repositories related to android modding.
 
 [KittyMemory](https://github.com/MJx0/KittyMemory) by MJx0 : This library aims for runtime code patching for both Android and iOS.
 
-[ByNameModding](https://github.com/geokar2006/ByNameModding) by geokar2006 : Modding (hacking) il2cpp games by classes, methods, fields names.
+[ByNameModding](https://github.com/geokar2006/ByNameModding) by geokar2006 : Modding il2cpp games by classes, methods, fields names.
 
 [il2cpp-hacking](https://github.com/Octowolve/il2cpp-hacking) by Octowolve : POC for modding il2cpp using il2cpp functions.
 
@@ -181,6 +181,8 @@ A collection of github repositories related to android modding.
 
 
 [PG3D-JbroLauncher](https://github.com/jbro129/PG3D-JbroLauncher) by jbro129 : Jbro129's Old PG3D Launcher/ CodeInjection App.
+
+[PG3D-Hook](https://github.com/jbro129/PG3D-Hook) by jbro129 : POC Hooking PG3D v16.6.1.
 
 [ImpostorModmenu](https://github.com/Devilx86/ImpostorModmenu) by Devilx86 : An Among Us Mod Menu.
 
@@ -362,6 +364,7 @@ A collection of github repositories related to android modding.
 
 [APKLab](https://github.com/APKLab/APKLab) by APKLab : Android Reverse-Engineering Workbench for VS Code.
 
+[CppDLL](https://github.com/Rprop/CppDLL) by Rprop : A small tool that will help you generate Cpp Header(.h) and Import Library(.lib) from Dynamic Link Library(.dll).
 
 # Frida
 
