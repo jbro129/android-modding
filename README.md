@@ -252,6 +252,8 @@ A collection of github repositories related to android modding.
 
 [Bullet-Force-Hack-Source](https://github.com/Ioopen/Bullet-Force-Hack-Source) by Ioopen : Telekill for the game called Bullet Force.
 
+[PUBG-Putz-Patcher](https://github.com/LGLTeam/PUBG-Putz-Patcher) by DESI ESP and Putri : PUBG Mobile ESP External Mod Menu project.
+
 
 # Modding Tools
 
@@ -375,6 +377,8 @@ A collection of github repositories related to android modding.
 [APKLab](https://github.com/APKLab/APKLab) by APKLab : Android Reverse-Engineering Workbench for VS Code.
 
 [CppDLL](https://github.com/Rprop/CppDLL) by Rprop : A small tool that will help you generate Cpp Header(.h) and Import Library(.lib) from Dynamic Link Library(.dll).
+
+[7-Super-Tool-Mod-Menu-Generator](https://github.com/7Hackers/7-Super-Tool-Mod-Menu-Generator) by 7Hackers : A powerful mod menu generator with offline arm converter and ability to add telekill, chams, patch, hook, etc.
 
 # Frida
 
