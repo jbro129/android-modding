@@ -254,6 +254,8 @@ A collection of github repositories related to android modding.
 
 [PUBG-Putz-Patcher](https://github.com/LGLTeam/PUBG-Putz-Patcher) by DESI ESP and Putri : PUBG Mobile ESP External Mod Menu project.
 
+[PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING](https://github.com/SamiGamingYt/PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING) by SamiGamingYt : PUBG Mobile ESP Menu.
+
 
 # Modding Tools
 
