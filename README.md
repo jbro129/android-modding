@@ -252,6 +252,10 @@ A collection of github repositories related to android modding.
 
 [Bullet-Force-Hack-Source](https://github.com/Ioopen/Bullet-Force-Hack-Source) by Ioopen : Telekill for the game called Bullet Force.
 
+[Pixel-Gun-3D-Mod-Menu-Source-Code](https://github.com/Ioopen/Pixel-Gun-3D-Mod-Menu-Source-Code) by Ioopen : Mod menu code for pg3d.
+
+[Cops-N-Robbers-Mod-Menu-Source-Code](https://github.com/Ioopen/Cops-N-Robbers-Mod-Menu-Source-Code) by Ioopen : Source Code for CNR V9.8.8 mod.
+
 [PUBG-Putz-Patcher](https://github.com/LGLTeam/PUBG-Putz-Patcher) by DESI ESP and Putri : PUBG Mobile ESP External Mod Menu project.
 
 [PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING](https://github.com/SamiGamingYt/PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING) by SamiGamingYt : PUBG Mobile ESP Menu.
@@ -381,6 +385,11 @@ A collection of github repositories related to android modding.
 [CppDLL](https://github.com/Rprop/CppDLL) by Rprop : A small tool that will help you generate Cpp Header(.h) and Import Library(.lib) from Dynamic Link Library(.dll).
 
 [7-Super-Tool-Mod-Menu-Generator](https://github.com/7Hackers/7-Super-Tool-Mod-Menu-Generator) by 7Hackers : A powerful mod menu generator with offline arm converter and ability to add telekill, chams, patch, hook, etc.
+
+[Auto-Il2cppDumper](https://github.com/MrPictYT-art/Auto-Il2cppDumper) by MrPictYT-art : Internal dumper for Unity3d libil2cpp.so.
+
+[LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so.
+
 
 # Frida
 
