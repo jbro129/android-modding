@@ -88,7 +88,7 @@ A collection of github repositories related to android modding.
 
 [UE4Dumper](https://github.com/kp7742/UE4Dumper) by kp7742 : Unreal Engine 4 Dumper - Dump libUE4.so and Generate Structure SDK.
 
-[LibDumper](https://github.com/MrPictYT-art/LibDumper) by MrPictYT-art : APK For Dumping Memory libil2cpp.so / libUE4.so from memory.
+[LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so from memory.
 
 [Dumpity](https://github.com/sc2ad/Dumpity) by sc2ad : An IL2CPP Dumper that dumps all types into classes that can support reading and writing from .assets files.
 
@@ -268,7 +268,7 @@ A collection of github repositories related to android modding.
 
 [libil2cpp Patcher](https://github.com/T5ive/libil2cpp-Patcher) by T5ive : A tool that makes hex editing easier.
 
-[KMrite](https://github.com/MrPictYT-art/KMrite) by MrPictYT-art : Writing into android application lib.so with offset & hex bytes.
+[KMrite](https://github.com/BryanGIG/KMrite) by BryanGIG : Writing into android application lib.so with offset & hex bytes.
 
 [ApkSignatureKiller](https://github.com/L-JINBIN/ApkSignatureKiller) by L-JINBIN : One-click cracking APK signature verification.
 
@@ -386,9 +386,12 @@ A collection of github repositories related to android modding.
 
 [7-Super-Tool-Mod-Menu-Generator](https://github.com/7Hackers/7-Super-Tool-Mod-Menu-Generator) by 7Hackers : A powerful mod menu generator with offline arm converter and ability to add telekill, chams, patch, hook, etc.
 
-[Auto-Il2cppDumper](https://github.com/MrPictYT-art/Auto-Il2cppDumper) by MrPictYT-art : Internal dumper for Unity3d libil2cpp.so.
+[Auto-Il2cppDumper](https://github.com/BryanGIG/Auto-Il2cppDumper) by BryanGIG : Internal dumper for Unity3d libil2cpp.so.
 
 [LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so.
+
+[Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games](https://github.com/MikaCybertron/Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games) by MikaCybertron : Tool Encryption & Decryption JSC Files to Modded Cocos2djs Games
+
 
 
 # Frida
