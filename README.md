@@ -63,6 +63,7 @@ A collection of github repositories related to android modding.
 
 [DLL-Mod-Menu](https://github.com/LGLTeam/DLL-Mod-Menu) by LGLTeam : A Unity DLL mod menu template.
 
+[-Hard-Android-Menu-](https://github.com/KolanHacker/-Hard-Android-Menu-) by KolanHacker : A simple menu.
 
 
 # Dumping and Unpacking
@@ -390,8 +391,7 @@ A collection of github repositories related to android modding.
 
 [LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so.
 
-[Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games](https://github.com/MikaCybertron/Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games) by MikaCybertron : Tool Encryption & Decryption JSC Files to Modded Cocos2djs Games
-
+[Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games](https://github.com/MikaCybertron/Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games) by MikaCybertron : Tool Encryption & Decryption JSC Files to Modded Cocos2djs Games.
 
 
 # Frida
