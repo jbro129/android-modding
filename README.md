@@ -111,6 +111,8 @@ A collection of github repositories related to android modding.
 
 [dexdump](https://github.com/smartdone/dexdump) by smartdone : Xposed plug-in for quick release of the first generation shell.
 
+[BlackDex](https://github.com/CodingGay/BlackDex) by CodingGay : An android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment, can run on any Android mobile phones or emulators, and can unpack APK files in several seconds.
+
 
 # C++ Libraries
 
@@ -391,7 +393,7 @@ A collection of github repositories related to android modding.
 
 [LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so.
 
-[Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games](https://github.com/MikaCybertron/Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games) by MikaCybertron : Tool Encryption & Decryption JSC Files to Modded Cocos2djs Games.
+[Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games](https://github.com/MikaCybertron/Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games] by MikaCybertron : Tool Encryption & Decryption JSC Files to Modded Cocos2djs Games.
 
 
 # Frida
