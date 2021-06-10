@@ -393,7 +393,7 @@ A collection of github repositories related to android modding.
 
 [LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so.
 
-[Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games](https://github.com/MikaCybertron/Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games] by MikaCybertron : Tool Encryption & Decryption JSC Files to Modded Cocos2djs Games.
+[Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games](https://github.com/MikaCybertron/Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games) by MikaCybertron : Tool Encryption & Decryption JSC Files to Modded Cocos2djs Games.
 
 
 # Frida
