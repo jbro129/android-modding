@@ -65,6 +65,8 @@ A collection of github repositories related to android modding.
 
 [-Hard-Android-Menu-](https://github.com/KolanHacker/-Hard-Android-Menu-) by KolanHacker : A simple menu.
 
+[Mod-Menu-With-Memory-hack](https://github.com/LGLTeam/Mod-Menu-With-Memory-hack) by LGLTeam : Mod Menu with memory hack written in Java, which those functions would be called to lib. GameGuardian values can be used for it.
+
 
 # Dumping and Unpacking
 
@@ -137,9 +139,11 @@ A collection of github repositories related to android modding.
 
 [UnityStuff](https://github.com/kp7742/UnityStuff) by kp7742 : A collection of structs and other useful things for hacking 64 bit iOS Unity games.
 
-[XIL2CppDumper](https://github.com/4ch12dy/XIL2CppDumper) by 4ch12dy : IL2CppDumper writed in C++.
+[XIL2CppDumper](https://github.com/4ch12dy/XIL2CppDumper) by 4ch12dy : IL2CppDumper written in C++.
 
 [NativeIORedirect](https://github.com/dolphinwang/NativeIORedirect) by dolphinwang : Native IO Redirect implementation for Android.
+
+[PeachPatch](https://github.com/HimekoEx/PeachPatch) by HimekoEx : Android Runtime Code Patch.
 
 
 # Hooking Libraries and Templates
