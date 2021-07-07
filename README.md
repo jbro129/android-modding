@@ -281,6 +281,8 @@ A collection of github repositories related to android modding.
 
 [dnSpy](https://github.com/dnSpy/dnSpy) by dnSpy : .NET debugger and assembly editor.
 
+[dnSpy.Extension.HoLLy](https://github.com/HoLLy-HaCKeR/dnSpy.Extension.HoLLy) by HoLLy-HaCKeR : A dnSpy extension to aid reversing of obfuscated assemblies.
+
 [Apktool](https://github.com/iBotPeaches/Apktool) by iBotPeaches : A tool for reverse engineering Android apk files.
 
 [jadx](https://github.com/skylot/jadx) by skylot : Dex to Java decompiler.
