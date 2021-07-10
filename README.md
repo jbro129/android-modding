@@ -87,6 +87,8 @@ A collection of github repositories related to android modding.
 
 [Il2CppDumper GUI](https://github.com/AndnixSH/Il2CppDumper-GUI) by AndnixSH : Simple GUI version of Il2CppDumper
 
+[Il2CppDumper-HI3](https://github.com/AndnixSH/Il2CppDumper-HI3) by AndnixSH : Modified Il2CppDumper which can decrypt and dump Honkai Impact 3rd games.
+
 [PokemonGoDumper](https://github.com/Jumboperson/PokemonGoDumper) by Jumboperson : A POC way to dump Pokemon Go.
 
 [UE4Dumper](https://github.com/kp7742/UE4Dumper) by kp7742 : Unreal Engine 4 Dumper - Dump libUE4.so and Generate Structure SDK.
@@ -267,8 +269,6 @@ A collection of github repositories related to android modding.
 
 [PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING](https://github.com/SamiGamingYt/PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING) by SamiGamingYt : PUBG Mobile ESP Menu.
 
-[Android-Injector](https://github.com/CrackerCat/Android-Injector) by CrackerCat : Inject so & apk to zygote on android. Support armv8 & armv7.
-
 
 # Modding Tools
 
@@ -331,7 +331,7 @@ A collection of github repositories related to android modding.
 
 [DLGMemor](https://github.com/DeviLeo/DLGMemor) by DeviLeo : A memory editor and viewer for iOS (Jailed or not Jailed).
 
-[AssetStudio](https://github.com/Perfare/AssetStudio) by Prefare : A tool for exploring, extracting and exporting assets and assetbundles.
+[AssetStudio](https://github.com/Perfare/AssetStudio) by Perfare : A tool for exploring, extracting and exporting assets and assetbundles.
 
 [AssetStudio](https://github.com/djkaty/AssetStudio) by djkaty : A tool for exploring, extracting and exporting assets and assetbundles.
 
@@ -427,6 +427,8 @@ A collection of github repositories related to android modding.
 
 [Patch Apk](https://github.com/NickstaDB/patch-apk) by NickstaDB : Wrapper to inject an Objection/Frida gadget into an APK.
 
+[frida_dump](https://github.com/lasting-yang/frida_dump) by lasting-yang : frida dump dex, frida dump so.
+
 
 # Virtual Engines
 
@@ -468,6 +470,10 @@ A collection of github repositories related to android modding.
 [Il2CppVersions](https://github.com/nneonneo/Il2CppVersions) by nneonneo : Build scripts & historical header files for every available minor version of Unity's Il2Cpp project.
 
 [arminject](https://github.com/evilsocket/arminject) by evilsocket : An application to dynamically inject a shared object into a running process on ARM architectures.
+
+[Android-Injector](https://github.com/CrackerCat/Android-Injector) by CrackerCat : Inject so & apk to zygote on android. Support armv8 & armv7.
+
+[cpp11-compile-time-string-obfuscation](https://github.com/Rednick16/cpp11-compile-time-string-obfuscation) by Rednick16 : a mini project to obfuscate strings/hex and const char strings/objective c strings.
 
 [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) by tanprathan : The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 
