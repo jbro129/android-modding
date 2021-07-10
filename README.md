@@ -267,6 +267,8 @@ A collection of github repositories related to android modding.
 
 [PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING](https://github.com/SamiGamingYt/PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING) by SamiGamingYt : PUBG Mobile ESP Menu.
 
+[Android-Injector](https://github.com/CrackerCat/Android-Injector) by CrackerCat : Inject so & apk to zygote on android. Support armv8 & armv7.
+
 
 # Modding Tools
 
@@ -354,6 +356,8 @@ A collection of github repositories related to android modding.
 [mem](https://github.com/MobileForensicsResearch/mem) by MobileForensicsResearch : Tool used for dumping memory from Android devices.
 
 [UABE](https://github.com/DerPopo/UABE) by DerPopo : Unity Assets Bundle Extractor.
+
+[UABEA](https://github.com/nesrak1/UABEA) by nesrak1 : C# UABE for newer versions of unity.
 
 [ILSpy](https://github.com/icsharpcode/ILSpy) by icsharpcode : .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more).
 
