@@ -201,6 +201,8 @@ A collection of github repositories related to android modding.
 
 [PG3D-JbroLauncher](https://github.com/jbro129/PG3D-JbroLauncher) by jbro129 : Jbro129's Old PG3D Launcher/ CodeInjection App.
 
+[Fixed-Jbro-ModLauncher](https://github.com/ARandomPerson7/Fixed-Jbro-ModLauncher) by ARandomPerson7 : Mod Launcher by Jbro129 fixed to work with Root instead of VA.
+
 [PG3D-Hook](https://github.com/jbro129/PG3D-Hook) by jbro129 : POC Hooking PG3D v16.6.1.
 
 [ImpostorModmenu](https://github.com/Devilx86/ImpostorModmenu) by Devilx86 : An Among Us Mod Menu.
@@ -268,6 +270,8 @@ A collection of github repositories related to android modding.
 [PUBG-Putz-Patcher](https://github.com/LGLTeam/PUBG-Putz-Patcher) by DESI ESP and Putri : PUBG Mobile ESP External Mod Menu project.
 
 [PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING](https://github.com/SamiGamingYt/PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING) by SamiGamingYt : PUBG Mobile ESP Menu.
+
+[Hook-a-Field-Short-offset-like-0x1-Noob2-pro](https://github.com/7Hackers/Hook-a-Field-Short-offset-like-0x1-Noob2-pro) by 7Hackers : How to hook a field (Short offset like 0x1).
 
 
 # Modding Tools
