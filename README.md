@@ -265,6 +265,8 @@ A collection of github repositories related to android modding.
 
 [Pixel-Gun-3D-Mod-Menu-Source-Code](https://github.com/Ioopen/Pixel-Gun-3D-Mod-Menu-Source-Code) by Ioopen : Mod menu code for pg3d.
 
+[External-PG3D-Injector](https://github.com/SliceCast/External-PG3D-Injector) by SliceCast : Write into android application lib.so with offset & hex bytes externally.
+
 [Cops-N-Robbers-Mod-Menu-Source-Code](https://github.com/Ioopen/Cops-N-Robbers-Mod-Menu-Source-Code) by Ioopen : Source Code for CNR V9.8.8 mod.
 
 [PUBG-Putz-Patcher](https://github.com/LGLTeam/PUBG-Putz-Patcher) by DESI ESP and Putri : PUBG Mobile ESP External Mod Menu project.
