@@ -271,7 +271,11 @@ A collection of github repositories related to android modding.
 
 [PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING](https://github.com/SamiGamingYt/PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING) by SamiGamingYt : PUBG Mobile ESP Menu.
 
+[ESP-1.3.0](https://github.com/ExploitTheLoop/ESP-1.3.0) by ExploitTheLoop : ESP for pubg with updated offsets.
+
 [Hook-a-Field-Short-offset-like-0x1-Noob2-pro](https://github.com/7Hackers/Hook-a-Field-Short-offset-like-0x1-Noob2-pro) by 7Hackers : How to hook a field (Short offset like 0x1).
+
+[writemem](https://github.com/ExploitTheLoop/writemem) by ExploitTheLoop : useful library for writing memory into games like pubg in java no need to use c++.
 
 
 # Modding Tools
@@ -434,6 +438,8 @@ A collection of github repositories related to android modding.
 [Patch Apk](https://github.com/NickstaDB/patch-apk) by NickstaDB : Wrapper to inject an Objection/Frida gadget into an APK.
 
 [frida_dump](https://github.com/lasting-yang/frida_dump) by lasting-yang : frida dump dex, frida dump so.
+
+[OkHttpLogger-Frida](https://github.com/siyujie/OkHttpLogger-Frida) by siyujie : Frida script to intercept okhttp packets.
 
 
 # Virtual Engines
