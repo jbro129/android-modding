@@ -407,6 +407,8 @@ A collection of github repositories related to android modding.
 
 [APKLab](https://github.com/APKLab/APKLab) by APKLab : Android Reverse-Engineering Workbench for VS Code.
 
+[XAPKDetector](https://github.com/horsicq/XAPKDetector) by horsicq : APK/DEX detector for Windows, Linux and MacOS.
+
 [CppDLL](https://github.com/Rprop/CppDLL) by Rprop : A small tool that will help you generate Cpp Header(.h) and Import Library(.lib) from Dynamic Link Library(.dll).
 
 [7-Super-Tool-Mod-Menu-Generator](https://github.com/7Hackers/7-Super-Tool-Mod-Menu-Generator) by 7Hackers : A powerful mod menu generator with offline arm converter and ability to add telekill, chams, patch, hook, etc.
