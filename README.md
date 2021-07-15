@@ -59,7 +59,7 @@ A collection of github repositories related to android modding.
 
 [FwdAssaultPmt](https://github.com/FrostyHacker/FwdAssaultPmt) by FrostyHacker : A FWD Assault Platinmods mod menu.
 
-[UnityPCModMenu](https://github.com/Francois284Modz/UnityPCModMenu) by Francois284Modz : A Unity DLL mod menu template
+[UnityPCModMenu](https://github.com/Francois284Modz/UnityPCModMenu) by Francois284Modz : A Unity DLL mod menu template.
 
 [DLL-Mod-Menu](https://github.com/LGLTeam/DLL-Mod-Menu) by LGLTeam : A Unity DLL mod menu template.
 
@@ -73,9 +73,9 @@ A collection of github repositories related to android modding.
 
 [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) by Perfare : An il2cpp dumper.
 
-[Riru-Il2CppDumper](https://github.com/Perfare/Riru-Il2CppDumper) by Perfare : Using Riru to dump il2cpp data at runtime
+[Riru-Il2CppDumper](https://github.com/Perfare/Riru-Il2CppDumper) by Perfare : Using Riru to dump il2cpp data at runtime.
 
-[Il2CppInspector](https://github.com/djkaty/Il2CppInspector) by djkaty : A powerful automated tool for reverse engineering Unity IL2CPP binaries
+[Il2CppInspector](https://github.com/djkaty/Il2CppInspector) by djkaty : A powerful automated tool for reverse engineering Unity IL2CPP binaries.
 
 [Il2CppInspectorPlugins](https://github.com/djkaty/Il2CppInspectorPlugins) by djkaty : The official repository of plugins for Il2CppInspector.
 
@@ -131,7 +131,7 @@ A collection of github repositories related to android modding.
 
 [MonoInjectorKit](https://github.com/MJx0/MonoInjectorKit) by MJx0 : DLL injector for mono backend games.
 
-[IL2CppResolver](https://github.com/MJx0/IL2CppResolver) by  : Resolve il2cpp calls for internal unity engine functions
+[IL2CppResolver](https://github.com/MJx0/IL2CppResolver) by  : Resolve il2cpp calls for internal unity engine functions.
 
 [Unity-Mods](https://github.com/Octowolve/Unity-Mods) by Octowolve : A collection of unity mods.
 
@@ -181,7 +181,7 @@ A collection of github repositories related to android modding.
 
 [FastHook](https://github.com/turing-technician/FastHook) by turing-technician : Android ART Hook.
 
-[MonoNativeHook](https://github.com/FateHack/MonoNativeHook) by FateHack : hook image.namespace.class.method.
+[MonoNativeHook](https://github.com/FateHack/MonoNativeHook) by FateHack : Hook image.namespace.class.method.
 
 [Hooking-and-Patching-android-template](https://github.com/Djngo/Hooking-and-Patching-android-template) by Djngo : Hooking and binary patching template using Substrate and KittyMemory respectively.
 
@@ -194,6 +194,8 @@ A collection of github repositories related to android modding.
 [AndroidCydiaHook](https://github.com/russell-shizhen/AndroidCydiaHook) by russell-shizhen : Android Cydia Substrate hooks native C code.
 
 [cydiasubstrate_hooktools](https://github.com/F8LEFT/cydiasubstrate_hooktools) by F8LEFT : Java and jni partial function hook project.
+
+[MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) by Misaka-Mikoto-Tech : Hook C# method at runtime without modify dll file (such as UnityEditor.dll).
 
 
 # Modding Projects and Tutorials
@@ -381,6 +383,8 @@ A collection of github repositories related to android modding.
 
 [AndroidApktool](https://github.com/imkiwa/AndroidApktool) by imkiwa : Apktool runs on android.
 
+[apktoolAndroid](https://github.com/vfishv/apktoolAndroid) by vfishv : Apktool on Android.
+
 [tinker](https://github.com/Tencent/tinker) by Tencent : A hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
 
 [AndResGuard](https://github.com/shwenzhang/AndResGuard) by shwenzhang : Proguard resource for Android by wechat team.
@@ -392,6 +396,8 @@ A collection of github repositories related to android modding.
 [AutoSmali](https://github.com/TheArmKing/AutoSmali) by TheArmKing : A simple script that automatically adds your smali popup code for your APK Mods.
 
 [AutoToaster](https://github.com/AndnixSH/AutoToaster) by AndnixSH : Tool to automatically add a smali toast to your APK Mods.
+
+[ApkCrack](https://github.com/iamyours/ApkCrack) by iamyours : A tool that make your apk debuggable for Charles/Fiddler in Android 7.0.
 
 [AUDeobfuscator](https://github.com/lifeengines/AUDeobfuscator) by lifeengines : A simple script to help with the deobfuscation of il2cpp files.
 
