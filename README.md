@@ -3,7 +3,7 @@ A collection of github repositories related to android modding.
 
 # TODO
 
-- [ ] Breakup everything into more categories and adjust accordingly (*in progress*)
+- [x] Breakup everything into more categories and adjust accordingly 
 - [x] Add descriptions for each project 
 - [ ] Remove unusable projects and duplicates from the list (*in progress*)
 - [ ] Make everything look nicer (*in progress*)
@@ -196,6 +196,8 @@ A collection of github repositories related to android modding.
 [cydiasubstrate_hooktools](https://github.com/F8LEFT/cydiasubstrate_hooktools) by F8LEFT : Java and jni partial function hook project.
 
 [MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) by Misaka-Mikoto-Tech : Hook C# method at runtime without modify dll file (such as UnityEditor.dll).
+
+[HookUnityEngineMethod](https://github.com/naivetang/HookUnityEngineMethod) by naivetang : Methods in Hook UnityEngine.
 
 
 # Modding Projects and Tutorials
@@ -451,6 +453,12 @@ A collection of github repositories related to android modding.
 
 [OkHttpLogger-Frida](https://github.com/siyujie/OkHttpLogger-Frida) by siyujie : Frida script to intercept okhttp packets.
 
+[android-injector](https://github.com/hacksysteam/android-injector) by hacksysteam : Android Shared Object Injector using Frida.
+
+[Frida-Injector-for-Android](https://github.com/TimScriptov/Frida-Injector-for-Android) by TimScriptov : Frida injector for Android.
+
+[FridaAndroidInjector](https://github.com/iGio90/FridaAndroidInjector) by iGio90 : Inject frida agents on local processes through an Android app.
+
 
 # Virtual Engines
 
@@ -479,6 +487,8 @@ A collection of github repositories related to android modding.
 
 [AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin) by androidmalin : Simply implement plug-inization of the four major components on Android for learning and use.
 
+[SandBoxHookPlugin](https://github.com/ganyao114/SandBoxHookPlugin) by ganyao114 : demo for inject & hook in sandbox.
+
 
 # Other
 
@@ -494,6 +504,16 @@ A collection of github repositories related to android modding.
 [arminject](https://github.com/evilsocket/arminject) by evilsocket : An application to dynamically inject a shared object into a running process on ARM architectures.
 
 [Android-Injector](https://github.com/CrackerCat/Android-Injector) by CrackerCat : Inject so & apk to zygote on android. Support armv8 & armv7.
+
+[TinyInjector](https://github.com/shunix/TinyInjector) by shunix : Shared Library Injector on Android.
+
+[android-vm-injector](https://github.com/sandin/android-vm-injector) by sandin : Android VM Injector.
+
+[luject](https://github.com/hack0z/luject) by hack0z : A static injector of dynamic library for application (android, iphoneos, macOS, windows, linux).
+
+[AnDroidInject0r](https://github.com/yasserjanah/AnDroidInject0r) by yasserjanah : A Python script to inject existing Android applications with a Meterpreter payload.
+
+[FamgyAndroidInject](https://github.com/famgy/FamgyAndroidInject) by famgy : Android native inject hook inlinehook.
 
 [cpp11-compile-time-string-obfuscation](https://github.com/Rednick16/cpp11-compile-time-string-obfuscation) by Rednick16 : a mini project to obfuscate strings/hex and const char strings/objective c strings.
 
