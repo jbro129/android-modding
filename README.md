@@ -397,6 +397,8 @@ A collection of github repositories related to android modding.
 
 [AutoSmali](https://github.com/TheArmKing/AutoSmali) by TheArmKing : A simple script that automatically adds your smali popup code for your APK Mods.
 
+[Archived-Repos](https://github.com/TheArmKing/Archived-Repos) by TheArmKing : A collection of TheArmKing's old repos or discontinued projects.
+
 [AutoToaster](https://github.com/AndnixSH/AutoToaster) by AndnixSH : Tool to automatically add a smali toast to your APK Mods.
 
 [ApkCrack](https://github.com/iamyours/ApkCrack) by iamyours : A tool that make your apk debuggable for Charles/Fiddler in Android 7.0.
