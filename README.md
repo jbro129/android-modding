@@ -303,6 +303,8 @@ A collection of github repositories related to android modding.
 
 [Apktool](https://github.com/iBotPeaches/Apktool) by iBotPeaches : A tool for reverse engineering Android apk files.
 
+[kikfox](https://github.com/kikfox/kikfox) by kikfox : A resource obfuscated apk decompiling tool.
+
 [jadx](https://github.com/skylot/jadx) by skylot : Dex to Java decompiler.
 
 [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) by SamboyCoding : WIP Tool to reverse Unity's IL2CPP build process back to the original managed DLLs.
