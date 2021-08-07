@@ -97,6 +97,8 @@ A collection of github repositories related to android modding.
 
 [LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so from memory.
 
+[BlackDex](https://github.com/CodingGay/BlackDex) by CodingGay : An android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment, can run on any Android mobile phones or emulators, and can unpack APK files in several seconds.
+
 [Dumpity](https://github.com/sc2ad/Dumpity) by sc2ad : An IL2CPP Dumper that dumps all types into classes that can support reading and writing from .assets files.
 
 [MemDumper](https://github.com/kp7742/MemDumper) by kp7742 : Dump Memory of Process in Android.
@@ -116,8 +118,6 @@ A collection of github repositories related to android modding.
 [DexHunter](https://github.com/zyq8709/DexHunter) by zyq8709 : General Automatic Unpacking Tool for Android Dex Files.
 
 [dexdump](https://github.com/smartdone/dexdump) by smartdone : Xposed plug-in for quick release of the first generation shell.
-
-[BlackDex](https://github.com/CodingGay/BlackDex) by CodingGay : An android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment, can run on any Android mobile phones or emulators, and can unpack APK files in several seconds.
 
 
 # C++ Libraries
@@ -473,6 +473,10 @@ A collection of github repositories related to android modding.
 
 [VirtualApp](https://github.com/asLody/VirtualApp) by asLody : Virtual Engine for Android.
 
+[VirtualApp](https://github.com/2-young-2-simple/VirtualApp) by 2-young-2-simple : VirtualApp With Compatibility Of Android 10/11/12.
+
+[VirtualApp](https://github.com/ServenScorpion/VirtualApp) by ServenScorpion : VirtualApp that supports android 11 application clone, simulated device, simulated wifi, virtual multi-open, Dingding punch card, enterprise micro punch card, plug-in development, XP plug-in, simulated user operation, java hook, c++ hook.
+
 [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) by singwhatiwanna : DL: dynamic load framework in android.
 
 [Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework) by limpoxe : Android plug-in framework, free to install and run plug-in APK, support independent plug-ins and non-independent plug-ins.
@@ -483,7 +487,9 @@ A collection of github repositories related to android modding.
 
 [VirtualAPK](https://github.com/didi/VirtualAPK) by didi : A powerful and lightweight plugin framework for Android.
 
-[DroidPlugin](https://github.com/moz1q1/DroidPlugin) by moz1q1 : A plugin framework on android,Run any third-party apk without installation, modification or repackage
+[BlackBox](https://github.com/nnjun/BlackBox) by nnjun : A virtual engine that supports 5.0-12.0. It can clone and run virtual applications on Android. It has the ability to run without installation and has integrated Xposed framework. The black box can control the virtual application being run and do whatever you want.
+
+[DroidPlugin](https://github.com/moz1q1/DroidPlugin) by moz1q1 : A plugin framework on android,Run any third-party apk without installation, modification or repackage.
 
 [ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin) by iReaderAndroid : Android plug-in patch framework.
 
