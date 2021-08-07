@@ -81,6 +81,8 @@ A collection of github repositories related to android modding.
 
 [Il2CppTranslator](https://github.com/BitCrackers/Il2CppTranslator) by BitCrackers : A library to help make deobfuscation plugins for Il2CppInsector.
 
+[Beebyte-Deobfuscator](https://github.com/OsOmE1/Beebyte-Deobfuscator) by OsOmE1 : A plugin for Il2CppInspector that performs quasi deobfuscation.
+
 [Il2CppDumper](https://github.com/Jumboperson/Il2CppDumper) by Jumboperson : Better version of PokemonGoDumper.
 
 [Il2CppDumper YuanShen](https://github.com/kagurazakasanae/Il2CppDumper-YuanShen) by kagurazakasanae : Modified version of Il2CppDumper allows you to dump methods of UserAssembly.dll of the game Genshin Impact.
@@ -332,6 +334,8 @@ A collection of github repositories related to android modding.
 [Il2CppSDKGenerator](https://github.com/kur0yama/Il2CppSDKGenerator) by kur0yama : An Il2Cpp SDK generator for Android (And probably IOS).
 
 [Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower) by knah : A tool to generate Managed->IL2CPP proxy assemblies.
+
+[Unitor](https://github.com/BitCrackers/Unitor) by BitCrackers : A tool for analyzing and disassembling any unity game. Supports both mono and il2cpp.
 
 [IPAPatch](https://github.com/paradiseduo/IPAPatch) by paradiseduo : Patch iOS Apps, The Easy Way, Without Jailbreak.
 
