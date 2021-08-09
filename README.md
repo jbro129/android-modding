@@ -355,6 +355,8 @@ A collection of github repositories related to android modding.
 
 [AssetStudio](https://github.com/Perfare/AssetStudio) by Perfare : A tool for exploring, extracting and exporting assets and assetbundles.
 
+[AssetRipper](https://github.com/ds5678/AssetRipper) by ds5678 : GUI and API library to work with Engine assets, serialized and bundle files.
+
 [AssetStudio](https://github.com/djkaty/AssetStudio) by djkaty : A tool for exploring, extracting and exporting assets and assetbundles.
 
 [RuntimeProcessNameChange](https://github.com/darvincisec/RuntimeProcessNameChange) by darvincisec : Dynamic Process name change for Android Apps.
