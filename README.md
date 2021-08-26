@@ -49,6 +49,8 @@ A collection of github repositories related to android modding.
 
 [Mod-Menu-Template](https://github.com/VanHoevenTR/Mod-Menu-Template) by VanHoevenTR : A mod menu template.
 
+[FloatingModMenu-Template](https://github.com/VanHoevenTR/FloatingModMenu-Template) by VanHoevenTR : Floating Mod Menu template for Android
+
 [ModMenu-CMODs](https://github.com/CoRingaModzOfficial/ModMenu-CMODs) by CoRingaModzOfficial : A mod menu template.
 
 [GodsTeam-Mod-Menu](https://github.com/LGLTeam/GodsTeam-Mod-Menu) by LGLTeam : A mod menu template.
@@ -530,6 +532,8 @@ A collection of github repositories related to android modding.
 [AnDroidInject0r](https://github.com/yasserjanah/AnDroidInject0r) by yasserjanah : A Python script to inject existing Android applications with a Meterpreter payload.
 
 [FamgyAndroidInject](https://github.com/famgy/FamgyAndroidInject) by famgy : Android native inject hook inlinehook.
+
+[APKDL](https://github.com/TheArmKing/APKDL) by TheArmKing : Download APKs in command line.
 
 [cpp11-compile-time-string-obfuscation](https://github.com/Rednick16/cpp11-compile-time-string-obfuscation) by Rednick16 : a mini project to obfuscate strings/hex and const char strings/objective c strings.
 
