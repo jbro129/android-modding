@@ -47,8 +47,6 @@ A collection of github repositories related to android modding.
 
 [Alternative-Android-Mod-Menu](https://github.com/AlternativeAlse/Alternative-Android-Mod-Menu) by AlternativeAlse : A mod menu template.
 
-[Mod-Menu-Template](https://github.com/VanHoevenTR/Mod-Menu-Template) by VanHoevenTR : A mod menu template.
-
 [FloatingModMenu-Template](https://github.com/VanHoevenTR/FloatingModMenu-Template) by VanHoevenTR : Floating Mod Menu template for Android
 
 [ModMenu-CMODs](https://github.com/CoRingaModzOfficial/ModMenu-CMODs) by CoRingaModzOfficial : A mod menu template.
