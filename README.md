@@ -79,7 +79,7 @@ A collection of github repositories related to android modding.
 
 [Il2CppInspectorPlugins](https://github.com/djkaty/Il2CppInspectorPlugins) by djkaty : The official repository of plugins for Il2CppInspector.
 
-[Il2CppTranslator](https://github.com/BitCrackers/Il2CppTranslator) by BitCrackers : A library to help make deobfuscation plugins for Il2CppInsector.
+[Il2CppTranslator](https://github.com/BitCrackers/Il2CppTranslator) by BitCrackers : A library to help make deobfuscation plugins for Il2CppInspector.
 
 [Beebyte-Deobfuscator](https://github.com/OsOmE1/Beebyte-Deobfuscator) by OsOmE1 : A plugin for Il2CppInspector that performs quasi deobfuscation.
 
