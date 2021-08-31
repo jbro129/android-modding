@@ -299,7 +299,7 @@ A collection of github repositories related to android modding.
 
 [dnSpy](https://github.com/dnSpy/dnSpy) by dnSpy : .NET debugger and assembly editor.
 
-[dnSpyRevived](https://github.com/dnSpyRevived/dnSpy) by dnSpyRevived : dnSpy revived.
+[dnSpy](https://github.com/dnSpyEx/dnSpy) by dnSpyEx : Continuation of the dnSpy project.
 
 [dnSpy.Extension.HoLLy](https://github.com/HoLLy-HaCKeR/dnSpy.Extension.HoLLy) by HoLLy-HaCKeR : A dnSpy extension to aid reversing of obfuscated assemblies.
 
