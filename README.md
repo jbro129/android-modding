@@ -297,6 +297,8 @@ A collection of github repositories related to android modding.
 
 [ApkSignatureKiller](https://github.com/L-JINBIN/ApkSignatureKiller) by L-JINBIN : One-click cracking APK signature verification.
 
+[android-https-patcher](https://github.com/rlxone/android-https-patcher) by rlxone : Patch android apps to allow https traffic sniffing/packet capturing.
+
 [dnSpy](https://github.com/dnSpy/dnSpy) by dnSpy : .NET debugger and assembly editor.
 
 [dnSpy](https://github.com/dnSpyEx/dnSpy) by dnSpyEx : Continuation of the dnSpy project.
