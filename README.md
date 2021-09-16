@@ -221,17 +221,17 @@ A collection of github repositories related to android modding.
 
 [PUBG-Mobile-ESP-External-Mod-Menu-3](https://github.com/LGLTeam/PUBG-Mobile-ESP-External-Mod-Menu-3) by LGLTeam : A PUBG external mod menu.
 
-[NewMod-Layout-Style-FreeFire-ESP-Aimbot](https://github.com/LGLTeam/NewMod-Layout-Style-FreeFire-ESP-Aimbot) by LGLTeam : A FreeFire mod menu wih ESP and aimbot.
+[NewMod-Layout-Style-FreeFire-ESP-Aimbot](https://github.com/LGLTeam/NewMod-Layout-Style-FreeFire-ESP-Aimbot) by LGLTeam : A FreeFire mod menu with ESP and aimbot.
 
 [FreeFire-Patching-Mod-Menu](https://github.com/LGLTeam/FreeFire-Patching-Mod-Menu) by LGLTeam : A FreeFire mod menu.
 
 [FreeFire-Antenna-Hack](https://github.com/LGLTeam/FreeFire-Antenna-Hack) by LGLTeam : A FreeFire antenna hack.
 
-[FreeFire-ESP-And-Aimbot-3](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot-3) by LGLTeam : A FreeFire mod menu wih ESP and aimbot.
+[FreeFire-ESP-And-Aimbot-3](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot-3) by LGLTeam : A FreeFire mod menu with ESP and aimbot.
 
-[FreeFire-ESP-And-Aimbot-2](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot-2) by LGLTeam : A FreeFire mod menu wih ESP and aimbot.
+[FreeFire-ESP-And-Aimbot-2](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot-2) by LGLTeam : A FreeFire mod menu with ESP and aimbot.
 
-[FreeFire-ESP-And-Aimbot](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot) by LGLTeam : A FreeFire mod menu wih ESP and aimbot.
+[FreeFire-ESP-And-Aimbot](https://github.com/LGLTeam/FreeFire-ESP-And-Aimbot) by LGLTeam : A FreeFire mod menu with ESP and aimbot.
 
 [Pubg-Mobile-Mod-Menu-v1.2.0-Source-Code](https://github.com/SamiGamingYt/Pubg-Mobile-Mod-Menu-v1.2.0-Source-Code) by SamiGamingYt : A PUBG mod menu source.
 
@@ -471,6 +471,8 @@ A collection of github repositories related to android modding.
 
 [FridaAndroidInjector](https://github.com/iGio90/FridaAndroidInjector) by iGio90 : Inject frida agents on local processes through an Android app.
 
+[r2frida](https://github.com/nowsecure/r2frida) by nowsecure : Radare2 and Frida better together.
+
 
 # Virtual Engines
 
@@ -506,6 +508,8 @@ A collection of github repositories related to android modding.
 [AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin) by androidmalin : Simply implement plug-inization of the four major components on Android for learning and use.
 
 [SandBoxHookPlugin](https://github.com/ganyao114/SandBoxHookPlugin) by ganyao114 : demo for inject & hook in sandbox.
+
+[VMOSPro_RootXposed_Terminal](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) by HuskyDG :A simple scripting tool that gives you useful features for VMOS or VMOS Pro.
 
 
 # Other
@@ -551,7 +555,11 @@ A collection of github repositories related to android modding.
 
 [CSharp-AntiDump](https://github.com/AndnixSH/CSharp-AntiDump) by AndnixSH : Anti dump in C#.
 
+[NoxDumper](https://github.com/zeroKilo/NoxDumper) by zeroKilo : Simple tool to dump android process memory inside Nox player.
+
 [ios-resources](https://github.com/Siguza/ios-resources) by Siguza : Useful resources for iOS hacking.
+
+[SplitPacker](https://github.com/TheArmKing/SplitPacker) by TheArmKing : Bash script to combine split APKs (android app bundles) into a single APK.
 
 [Modding-Shell-Scripts](https://github.com/LGLTeam/Modding-Shell-Scripts) by LGLTeam : Shell scripts used for modding.
 
