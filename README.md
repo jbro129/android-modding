@@ -285,6 +285,8 @@ A collection of github repositories related to android modding.
 
 [writemem](https://github.com/ExploitTheLoop/writemem) by ExploitTheLoop : useful library for writing memory into games like pubg in java no need to use c++.
 
+[Esp-Mod-Menu](https://github.com/Oifox/Esp-Mod-Menu) by Oifox : Esp for Mod Menu.
+
 
 # Modding Tools
 
@@ -508,6 +510,8 @@ A collection of github repositories related to android modding.
 [AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin) by androidmalin : Simply implement plug-inization of the four major components on Android for learning and use.
 
 [SandBoxHookPlugin](https://github.com/ganyao114/SandBoxHookPlugin) by ganyao114 : demo for inject & hook in sandbox.
+
+[ShellDroid](https://github.com/wuhx/shelldroid) by wuhx : Create Virtual Environment for your Android Apps.
 
 [VMOSPro_RootXposed_Terminal](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) by HuskyDG :A simple scripting tool that gives you useful features for VMOS or VMOS Pro.
 
