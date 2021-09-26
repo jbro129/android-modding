@@ -95,6 +95,8 @@ A collection of github repositories related to android modding.
 
 [UE4Dumper](https://github.com/kp7742/UE4Dumper) by kp7742 : Unreal Engine 4 Dumper - Dump libUE4.so and Generate Structure SDK.
 
+[UnrealDumper-4.25](https://github.com/guttir14/UnrealDumper-4.25) by guttir14 : Unreal Engine 4.23-4.27 Dumper.
+
 [LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so from memory.
 
 [BlackDex](https://github.com/CodingGay/BlackDex) by CodingGay : An android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment, can run on any Android mobile phones or emulators, and can unpack APK files in several seconds.
@@ -520,6 +522,8 @@ A collection of github repositories related to android modding.
 
 
 [Game Guardian Il2cpp Script](https://github.com/SliceCast/Game-Guardian-Il2cpp-Script-) by SliceCast : A game guardian (il2cpp Script) for you guys to use if you want to use this without a mod menu.
+
+[Deobfuscated-Il2cpp-Android-Games](https://github.com/SliceCast/Deobfuscated-Il2cpp-Android-Games) by SliceCast : Some de-obfuscated il2cpp game dumps.
 
 [androidMemHack](https://github.com/gooooloo/androidMemHack) by gooooloo : read and write a memory value of other process.
 
