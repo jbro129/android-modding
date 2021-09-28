@@ -9,16 +9,16 @@ A collection of github repositories related to android modding.
 - [ ] Make everything look nicer (*in progress*)
 
 # Categories
- - [Mod Menu Templates](https://github.com/jbro129/android-modding/blob/main/README.md#mod-menu-templates)
- - [Dumping and Unpacking](https://github.com/jbro129/android-modding/blob/main/README.md#dumping-and-unpacking)
- - [C++ Libraries](https://github.com/jbro129/android-modding/blob/main/README.md#c-libraries)
- - [Hooking Libraries and Templates](https://github.com/jbro129/android-modding/blob/main/README.md#hooking-libraries-and-templates)
- - [Modding Projects and Tutorials](https://github.com/jbro129/android-modding/blob/main/README.md#modding-projects-and-tutorials)
- - [Modding Tools](https://github.com/jbro129/android-modding/blob/main/README.md#modding-tools)
- - [IDA](https://github.com/jbro129/android-modding/blob/main/README.md#IDA)
- - [Frida](https://github.com/jbro129/android-modding/blob/main/README.md#frida)
- - [Virtual Engines](https://github.com/jbro129/android-modding/blob/main/README.md#virtual-engines)
- - [Other](https://github.com/jbro129/android-modding/blob/main/README.md#other)
+ - [Mod Menu Templates](https://github.com/jbro129/android-modding#mod-menu-templates)
+ - [Dumping and Unpacking](https://github.com/jbro129/android-modding#dumping-and-unpacking)
+ - [C++ Libraries](https://github.com/jbro129/android-modding#c-libraries)
+ - [Hooking Libraries and Templates](https://github.com/jbro129/android-modding#hooking-libraries-and-templates)
+ - [Modding Projects and Tutorials](https://github.com/jbro129/android-modding#modding-projects-and-tutorials)
+ - [Modding Tools](https://github.com/jbro129/android-modding#modding-tools)
+ - [IDA](https://github.com/jbro129/android-modding#IDA)
+ - [Frida](https://github.com/jbro129/android-modding#frida)
+ - [Virtual Engines](https://github.com/jbro129/android-modding#virtual-engines)
+ - [Other](https://github.com/jbro129/android-modding#other)
 
 # Mod Menu Templates
 
