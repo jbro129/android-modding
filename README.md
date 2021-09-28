@@ -324,6 +324,10 @@ A collection of github repositories related to android modding.
 
 [IL2CPPDumper](https://github.com/kp7742/IL2CPPDumper) by kp7742 : Dump Lib libil2cpp.so from Memory of Game Process and Generate structure dump.cs.
 
+[ARM-Converter](https://github.com/MikaCybertron/ARM-Converter) by MikaCybertron : Offline ARM64, ARM and THUMB instruction to hex converter.
+
+[Get-New-Offset-with-Pattern-Scan](https://github.com/MikaCybertron/Get-New-Offset-with-Pattern-Scan) by MikaCybertron : Tool to get new offsets with pattern scan for those who don't want to open IDA multiple times for games.
+
 [ImHex](https://github.com/WerWolv/ImHex) by WerWolv : A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 
 [android-modding-tools](https://github.com/jbro129/android-modding-tools) by jbro129 : An android modding tool dump repo.
