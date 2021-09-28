@@ -15,6 +15,7 @@ A collection of github repositories related to android modding.
  - [Hooking Libraries and Templates](https://github.com/jbro129/android-modding/blob/main/README.md#hooking-libraries-and-templates)
  - [Modding Projects and Tutorials](https://github.com/jbro129/android-modding/blob/main/README.md#modding-projects-and-tutorials)
  - [Modding Tools](https://github.com/jbro129/android-modding/blob/main/README.md#modding-tools)
+ - [IDA](https://github.com/jbro129/android-modding/blob/main/README.md#IDA)
  - [Frida](https://github.com/jbro129/android-modding/blob/main/README.md#frida)
  - [Virtual Engines](https://github.com/jbro129/android-modding/blob/main/README.md#virtual-engines)
  - [Other](https://github.com/jbro129/android-modding/blob/main/README.md#other)
@@ -82,6 +83,8 @@ A collection of github repositories related to android modding.
 [Il2CppTranslator](https://github.com/BitCrackers/Il2CppTranslator) by BitCrackers : A library to help make deobfuscation plugins for Il2CppInspector.
 
 [Beebyte-Deobfuscator](https://github.com/OsOmE1/Beebyte-Deobfuscator) by OsOmE1 : A plugin for Il2CppInspector that performs quasi deobfuscation.
+
+[Compiled-Beeless-BeeByte-DeObfuscator](https://github.com/SliceCast/Compiled-Beeless-BeeByte-DeObfuscator) by SliceCast : Compiled Beeless BeeByte deobfuscator.
 
 [Il2CppDumper](https://github.com/Jumboperson/Il2CppDumper) by Jumboperson : Better version of PokemonGoDumper.
 
@@ -442,6 +445,25 @@ A collection of github repositories related to android modding.
 [LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so.
 
 [Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games](https://github.com/MikaCybertron/Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games) by MikaCybertron : Tool Encryption & Decryption JSC Files to Modded Cocos2djs Games.
+
+
+# IDA
+
+[idaplugins-list](https://github.com/onethawt/idaplugins-list) by onethawt : A list of IDA Plugins.
+
+[LazyIDA](https://github.com/L4ys/LazyIDA) by L4ys : Make your IDA Lazy!
+
+[GhIDA](https://github.com/Cisco-Talos/GhIDA) by Cisco-Talos : An IDA Pro plugin that integrates the Ghidra decompiler in IDA.
+
+[SigMaker-x64](https://github.com/ajkhoury/SigMaker-x64) by ajkhoury : IDA SigMaker Plugin.
+
+[lucid](https://github.com/gaasedelen/lucid) by gaasedelen : An Interactive Hex-Rays Microcode Explorer.
+
+[idaemu](https://github.com/36hours/idaemu) by 36hours : IDA plugin use for emulating code.
+
+[Il2CppParser](https://github.com/tacesrever/Il2CppParser) by tacesrever : libil2cpp symbol parser for ida.
+
+[diaphora](https://github.com/joxeankoret/diaphora) by joxeankoret : IDA advanced program diffing tool plugin.
 
 
 # Frida
