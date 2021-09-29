@@ -324,7 +324,7 @@ A collection of github repositories related to android modding.
 
 [IL2CPPDumper](https://github.com/kp7742/IL2CPPDumper) by kp7742 : Dump Lib libil2cpp.so from Memory of Game Process and Generate structure dump.cs.
 
-[ARM-Converter](https://github.com/MikaCybertron/ARM-Converter) by MikaCybertron : Offline ARM64, ARM and THUMB instruction to hex converter.
+[ARM-Converter](https://github.com/MikaCybertron/ARM-Converter) by MikaCybertron : Offline ARM64, ARM, and THUMB instruction to hex converter.
 
 [Get-New-Offset-with-Pattern-Scan](https://github.com/MikaCybertron/Get-New-Offset-with-Pattern-Scan) by MikaCybertron : Tool to get new offsets with pattern scan for those who don't want to open IDA multiple times for games.
 
@@ -452,6 +452,8 @@ A collection of github repositories related to android modding.
 
 
 # IDA
+
+[IDA_Pro_7.5](https://github.com/LGLTeam/IDA_Pro_7.5) by LGLTeam : IDA Pro leak.
 
 [idaplugins-list](https://github.com/onethawt/idaplugins-list) by onethawt : A list of IDA Plugins.
 
