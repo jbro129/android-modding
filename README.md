@@ -340,6 +340,8 @@ A collection of github repositories related to android modding.
 
 [APK Medit](https://github.com/aktsk/apk-medit) by aktsk : A memory search and patch tool on debuggable apk without root & ndk.
 
+[Dexter](https://github.com/MikeAndrson/Dexter) by MikeAndrson : A WIP advanced DEX editor for Android.
+
 [AndroidAppRE](https://github.com/maddiestone/AndroidAppRE) by maddiestone : Android App Reverse Engineering Workshop.
 
 [MetaDataStringEditor](https://github.com/JeremieCHN/MetaDataStringEditor) by JeremieCHN : Modify string in file global-metadata.dat.
