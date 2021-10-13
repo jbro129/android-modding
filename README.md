@@ -172,6 +172,8 @@ A collection of github repositories related to android modding.
 
 [Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook) by ele7enxxh : thumb16 thumb32 arm32 inlineHook in Android.
 
+[ARMPatch](https://github.com/RusJJ/ARMPatch) by RusJJ : Just a hook for ARM applications based on ARMhook, on Cydia's Substrate and on Rprop's And64InlineHook.
+
 [xHook](https://github.com/iqiyi/xHook) by iqiyi : A PLT hook library for Android native ELF.
 
 [Unity-Substrate-Hook-Android](https://github.com/jbro129/Unity-Substrate-Hook-Android) by jbro129 : Android Cydia Substrate MSHookFunction Used On Unity IL2CPP.
