@@ -200,6 +200,8 @@ A collection of github repositories related to android modding.
 
 [HookDemo](https://github.com/13767004362/HookDemo) by 13767004362 : Android plug-in case.
 
+[bhook](https://github.com/bytedance/bhook) by bytedance : A PLT hook framework for Android apps.
+
 [AndroidCydiaHook](https://github.com/russell-shizhen/AndroidCydiaHook) by russell-shizhen : Android Cydia Substrate hooks native C code.
 
 [cydiasubstrate_hooktools](https://github.com/F8LEFT/cydiasubstrate_hooktools) by F8LEFT : Java and jni partial function hook project.
@@ -446,6 +448,10 @@ A collection of github repositories related to android modding.
 
 [APKLab](https://github.com/APKLab/APKLab) by APKLab : Android Reverse-Engineering Workbench for VS Code.
 
+[intellij-java2smali](https://github.com/ollide/intellij-java2smali) by ollide : A plugin for IntelliJ IDEA & Android Studio to easily compile Java & Kotlin files to smali.
+
+[ApkEncryptor](https://github.com/espmihacker/ApkEncryptor) by espmihacker : A android app for encrypting apk.
+
 [XAPKDetector](https://github.com/horsicq/XAPKDetector) by horsicq : APK/DEX detector for Windows, Linux and MacOS.
 
 [CppDLL](https://github.com/Rprop/CppDLL) by Rprop : A small tool that will help you generate Cpp Header(.h) and Import Library(.lib) from Dynamic Link Library(.dll).
@@ -556,6 +562,7 @@ A collection of github repositories related to android modding.
 
 [VMOSPro_RootXposed_Terminal](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) by HuskyDG :A simple scripting tool that gives you useful features for VMOS or VMOS Pro.
 
+[AntiVa-Bypass](https://github.com/ArcyMods/AntiVa-Bypass) by ArcyMods : Offsets and hex's that bypass pg3d's antiva detection.
 
 # Other
 
