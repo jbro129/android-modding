@@ -314,6 +314,8 @@ A collection of github repositories related to android modding.
 
 [android-https-patcher](https://github.com/rlxone/android-https-patcher) by rlxone : Patch android apps to allow https traffic sniffing/packet capturing.
 
+[android-ssl-pinning-bypass](https://github.com/ilya-kozyr/android-ssl-pinning-bypass) by ilya-kozyr : Script to patch apk to allow HTTPS traffic inspection and SSL pinning.
+
 [dnSpy](https://github.com/dnSpy/dnSpy) by dnSpy : .NET debugger and assembly editor.
 
 [dnSpy](https://github.com/dnSpyEx/dnSpy) by dnSpyEx : Continuation of the dnSpy project.
@@ -610,6 +612,8 @@ A collection of github repositories related to android modding.
 [CSharp-AntiDump](https://github.com/AndnixSH/CSharp-AntiDump) by AndnixSH : Anti dump in C#.
 
 [NoxDumper](https://github.com/zeroKilo/NoxDumper) by zeroKilo : Simple tool to dump android process memory inside Nox player.
+
+[uber-apk-signer](https://github.com/patrickfav/uber-apk-signer/) by patrickfav : A cli tool that helps signing and zip aligning single or multiple APKs.
 
 [ios-resources](https://github.com/Siguza/ios-resources) by Siguza : Useful resources for iOS hacking.
 
