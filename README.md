@@ -270,6 +270,8 @@ A collection of github repositories related to android modding.
 
 [beatsaber-hook](https://github.com/sc2ad/beatsaber-hook) by sc2ad : POC for oculus quest beatsaber function hooking (il2cpp).
 
+[DarkMod-Floating](https://github.com/MrDarkRXx/DarkMod-Floating) by MrDarkRXx : Base To Create ModMenus Android By MrDarkRX.
+
 [PUBGPatcher](https://github.com/kp7742/PUBGPatcher) by kp7742 : ESP For PUBG Mobile, Made by KMODs.
 
 [ESPHack](https://github.com/AydikoGamer2424/ESPHack) by AydikoGamer2424 : ESP Hack.
@@ -383,6 +385,8 @@ A collection of github repositories related to android modding.
 [AssetRipper](https://github.com/ds5678/AssetRipper) by ds5678 : GUI and API library to work with Engine assets, serialized and bundle files.
 
 [AssetStudio](https://github.com/djkaty/AssetStudio) by djkaty : A tool for exploring, extracting and exporting assets and assetbundles.
+
+[UnrealPakTool](https://github.com/allcoolthingsatoneplace/UnrealPakTool) by allcoolthingsatoneplace : A tool that can extract .pak files for Unreal Engine 4.
 
 [RuntimeProcessNameChange](https://github.com/darvincisec/RuntimeProcessNameChange) by darvincisec : Dynamic Process name change for Android Apps.
 
