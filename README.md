@@ -290,6 +290,8 @@ A collection of github repositories related to android modding.
 
 [PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING](https://github.com/SamiGamingYt/PUBG-MOBILE-ESP-MOD-MENU-BY-SAMI-GAMING) by SamiGamingYt : PUBG Mobile ESP Menu.
 
+[PUBG_Hack_for_Emulator_in_CPP](https://github.com/Zero-One-Billion/PUBG_Hack_for_Emulator_in_CPP) by Zero-One-Billion : PUBG ESP Hack for Emulator using C++ code.
+
 [ESP-1.3.0](https://github.com/ExploitTheLoop/ESP-1.3.0) by ExploitTheLoop : ESP for pubg with updated offsets.
 
 [Hook-a-Field-Short-offset-like-0x1-Noob2-pro](https://github.com/7Hackers/Hook-a-Field-Short-offset-like-0x1-Noob2-pro) by 7Hackers : How to hook a field (Short offset like 0x1).
@@ -301,6 +303,8 @@ A collection of github repositories related to android modding.
 [GTInternalAndroid](https://github.com/ZTzTopia/GTInternalAndroid) by ZTzTopia : Growtopia android modmenu with ImGui.
 
 [banlose-team-modmenu](https://github.com/goldbocman/banlose-team-modmenu) by goldbocman : eban mod menu.
+
+[Bullet-Force-Source-Code](https://github.com/SliceCast/Bullet-Force-Source-Code) by SliceCast : Bullet Force Source Code for iOS & Android.
 
 
 # Modding Tools
@@ -442,6 +446,8 @@ A collection of github repositories related to android modding.
 
 [AUDeobfuscator](https://github.com/lifeengines/AUDeobfuscator) by lifeengines : A simple script to help with the deobfuscation of il2cpp files.
 
+[GraxCode](https://github.com/GraxCode/threadtear) by threadtear : Multifunctional java deobfuscation tool suite.
+
 [AsmResolver](https://github.com/Washi1337/AsmResolver) by Washi1337 : A library for editing PE files with full .NET metadata support.
 
 [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) by sinai-dev : An in-game explorer and a suite of debugging tools for IL2CPP and Mono Unity games, to aid with modding development.
@@ -493,6 +499,10 @@ A collection of github repositories related to android modding.
 [Il2CppParser](https://github.com/tacesrever/Il2CppParser) by tacesrever : libil2cpp symbol parser for ida.
 
 [diaphora](https://github.com/joxeankoret/diaphora) by joxeankoret : IDA advanced program diffing tool plugin.
+
+[flare-ida](https://github.com/mandiant/flare-ida) by mandiant : IDA Pro utilities from FLARE team.
+
+[HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) by REhints : Hex-Rays Decompiler plugin for better code navigation.
 
 
 # Frida
