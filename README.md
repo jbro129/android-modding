@@ -68,6 +68,8 @@ A collection of github repositories related to android modding.
 
 [Mod-Menu-With-Memory-hack](https://github.com/LGLTeam/Mod-Menu-With-Memory-hack) by LGLTeam : Mod Menu with memory hack written in Java, which those functions would be called to lib. GameGuardian values can be used for it.
 
+[Mod-Menu-Without-Overlay-Permission-Demo](https://github.com/LGLTeam/Mod-Menu-Without-Overlay-Permission-Demo) by LGLTeam : No need overlay permission anymore.
+
 
 # Dumping and Unpacking
 
@@ -410,6 +412,8 @@ A collection of github repositories related to android modding.
 
 [Il2CppDumperTool](https://github.com/axhlzy/Il2CppDumperTool) by axhlzy : A tool to batch breakpoint functions of libil2cpp.so.
 
+[PADumper](https://github.com/BryanGIG/PADumper) by BryanGIG : Easy Dump ELF libil2cpp.so from Android Process Memory.
+
 [mem](https://github.com/MobileForensicsResearch/mem) by MobileForensicsResearch : Tool used for dumping memory from Android devices.
 
 [UABE](https://github.com/DerPopo/UABE) by DerPopo : Unity Assets Bundle Extractor.
@@ -455,6 +459,8 @@ A collection of github repositories related to android modding.
 [deoptfuscator](https://github.com/Gyoonus/deoptfuscator) by Gyoonus : Deobfuscator for Android Application.
 
 [apk-mitm](https://github.com/shroudedcode/apk-mitm) by shroudedcode : A CLI application that automatically prepares Android APK files for HTTPS inspection.
+
+[mitmproxy](https://github.com/mitmproxy/mitmproxy) by mitmproxy : An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
 [FakerAndroid](https://github.com/Efaker/FakerAndroid) by Efaker : A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
 
@@ -606,6 +612,8 @@ A collection of github repositories related to android modding.
 [AnDroidInject0r](https://github.com/yasserjanah/AnDroidInject0r) by yasserjanah : A Python script to inject existing Android applications with a Meterpreter payload.
 
 [FamgyAndroidInject](https://github.com/famgy/FamgyAndroidInject) by famgy : Android native inject hook inlinehook.
+
+[LibChecker](https://github.com/zhaobozhen/LibChecker) by zhaobozhen : An app to view libraries used in apps in your device.
 
 [APKDL](https://github.com/TheArmKing/APKDL) by TheArmKing : Download APKs in command line.
 
