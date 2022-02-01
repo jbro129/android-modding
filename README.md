@@ -30,11 +30,15 @@ A collection of github repositories related to android modding.
 
 [Android-Mod-Menu](https://github.com/LGLTeam/Android-Mod-Menu) by LGLTeam : A mod menu template.
 
+[Mod-Menu-Without-Overlay-Permission-Demo](https://github.com/LGLTeam/Mod-Menu-Without-Overlay-Permission-Demo) by LGLTeam : A mod menu template that doesn't need an overlay permission.
+
 [Substrate-Template-With-Mod-Menu](https://github.com/Octowolve/Hooking-Template-With-Mod-Menu) by Octowolve : A mod menu + hooking template.
 
 [iOS-Mod-Menu-Template-for-Theos](https://github.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos) by joeyjurjens : An iOS mod menu template.
 
 [FloatingModMenu](https://github.com/MrIkso/FloatingModMenu) by MrIkso : A mod menu template.
+
+[Animation-Menu-v1](https://github.com/raunakmods/Animation-Menu-v1) by raunakmods : A mod menu template that has custon animations.
 
 [iGMM](https://github.com/TheArmKing/iGMM) by TheArmKing : A Unity DLL mod menu template.
 
@@ -620,6 +624,8 @@ A collection of github repositories related to android modding.
 [FamgyAndroidInject](https://github.com/famgy/FamgyAndroidInject) by famgy : Android native inject hook inlinehook.
 
 [LibChecker](https://github.com/zhaobozhen/LibChecker) by zhaobozhen : An app to view libraries used in apps in your device.
+
+[Save-Logcat](https://github.com/LGLTeam/Save-Logcat) by LGLTeam : Save local logcat via Java without root.
 
 [APKDL](https://github.com/TheArmKing/APKDL) by TheArmKing : Download APKs in command line.
 
