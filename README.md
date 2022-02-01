@@ -278,6 +278,10 @@ A collection of github repositories related to android modding.
 
 [ESPHack](https://github.com/AydikoGamer2424/ESPHack) by AydikoGamer2424 : ESP Hack.
 
+[Forward-Assault-Esp](https://github.com/DarksideH/Forward-Assault-Esp) by DarksideH : Fwd Assault Esp Mod Menu.
+
+[EspModMenuPubgMobile](https://github.com/jeel188/EspModMenuPubgMobile) by jeel188 : EspModMenuPubgMobile.
+
 [Mini-Militia-Mod-Tools](https://github.com/kp7742/Mini-Militia-Mod-Tools) by kp7742 : Mini Militia Mod Tools.
 
 [Bullet-Force-Hack-Source](https://github.com/Ioopen/Bullet-Force-Hack-Source) by Ioopen : Telekill for the game called Bullet Force.
@@ -488,7 +492,9 @@ A collection of github repositories related to android modding.
 # IDA
 
 
-[IDA_Pro_7.5](https://github.com/LGLTeam/IDA_Pro_7.5) by LGLTeam : IDA Pro leak.
+[IDA_Pro_7.5](https://github.com/LGLTeam/IDA_Pro_7.5) by LGLTeam : IDA Pro 7.5 leak.
+
+[IDA_Pro_7.2](https://github.com/jas502n/IDA_Pro_7.2) by jas502n : IDA Pro 7.2 leak.
 
 [idaplugins-list](https://github.com/onethawt/idaplugins-list) by onethawt : A list of IDA Plugins.
 
@@ -616,6 +622,8 @@ A collection of github repositories related to android modding.
 [LibChecker](https://github.com/zhaobozhen/LibChecker) by zhaobozhen : An app to view libraries used in apps in your device.
 
 [APKDL](https://github.com/TheArmKing/APKDL) by TheArmKing : Download APKs in command line.
+
+[apkeep](https://github.com/EFForg/apkeep) by EFForg : A command-line tool for downloading APK files from various sources.
 
 [cpp11-compile-time-string-obfuscation](https://github.com/Rednick16/cpp11-compile-time-string-obfuscation) by Rednick16 : a mini project to obfuscate strings/hex and const char strings/objective c strings.
 
