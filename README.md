@@ -294,6 +294,8 @@ A collection of github repositories related to android modding.
 
 [External-PG3D-Injector](https://github.com/SliceCast/External-PG3D-Injector) by SliceCast : Write into android application lib.so with offset & hex bytes externally.
 
+[CODM-ESP-Aimbot-Mod-Menu](https://github.com/LGLTeam/CODM-ESP-Aimbot-Mod-Menu) by LGLTeam : CoDM ESP & Aimbot Mod Menu.
+
 [Cops-N-Robbers-Mod-Menu-Source-Code](https://github.com/Ioopen/Cops-N-Robbers-Mod-Menu-Source-Code) by Ioopen : Source Code for CNR V9.8.8 mod.
 
 [PUBG-Putz-Patcher](https://github.com/LGLTeam/PUBG-Putz-Patcher) by DESI ESP and Putri : PUBG Mobile ESP External Mod Menu project.
@@ -355,6 +357,8 @@ A collection of github repositories related to android modding.
 [Get-New-Offset-with-Pattern-Scan](https://github.com/MikaCybertron/Get-New-Offset-with-Pattern-Scan) by MikaCybertron : Tool to get new offsets with pattern scan for those who don't want to open IDA multiple times for games.
 
 [ImHex](https://github.com/WerWolv/ImHex) by WerWolv : A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+
+[biodiff](https://github.com/8051Enthusiast/biodiff) by 8051Enthusiast : Hex diff viewer using alignment algorithms from biology.
 
 [android-modding-tools](https://github.com/jbro129/android-modding-tools) by jbro129 : An android modding tool dump repo.
 
@@ -520,6 +524,8 @@ A collection of github repositories related to android modding.
 
 [HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) by REhints : Hex-Rays Decompiler plugin for better code navigation.
 
+[pr701](https://github.com/pr701/dp701) by dp701 : Dark theme for IDA Pro.
+
 
 # Frida
 
@@ -591,6 +597,8 @@ A collection of github repositories related to android modding.
 [SandBoxHookPlugin](https://github.com/ganyao114/SandBoxHookPlugin) by ganyao114 : demo for inject & hook in sandbox.
 
 [ShellDroid](https://github.com/wuhx/shelldroid) by wuhx : Create Virtual Environment for your Android Apps.
+
+[twoyi](https://github.com/twoyi/twoyi) by twoyi : A lightweight Android container on Android.
 
 [VMOSPro_RootXposed_Terminal](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) by HuskyDG :A simple scripting tool that gives you useful features for VMOS or VMOS Pro.
 
