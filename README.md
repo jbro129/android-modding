@@ -174,6 +174,8 @@ A collection of github repositories related to android modding.
 
 [whale](https://github.com/asLody/whale) by asLody : Hook Framework for Android/IOS/Linux/MacOS.
 
+[android-inline-hook](https://github.com/bytedance/android-inline-hook) by bytedance : An inline hook library for Android apps.
+
 [SandHook](https://github.com/ganyao114/SandHook) by ganyao114 : Android ART Hook/Native Inline Hook/Single Instruction Hook.
 
 [Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook) by ele7enxxh : thumb16 thumb32 arm32 inlineHook in Android.
@@ -317,6 +319,8 @@ A collection of github repositories related to android modding.
 [banlose-team-modmenu](https://github.com/goldbocman/banlose-team-modmenu) by goldbocman : eban mod menu.
 
 [Bullet-Force-Source-Code](https://github.com/SliceCast/Bullet-Force-Source-Code) by SliceCast : Bullet Force Source Code for iOS & Android.
+
+[Combat-Master-Global-Chatspam](https://github.com/Rev/Combat-Master-Global-Chatspam) by Rev : Spams the global chat you see in the lobby of the game :).
 
 
 # Modding Tools
@@ -520,6 +524,8 @@ A collection of github repositories related to android modding.
 
 [diaphora](https://github.com/joxeankoret/diaphora) by joxeankoret : IDA advanced program diffing tool plugin.
 
+[patching](https://github.com/gaasedelen/patching) by gaasedelen : An Interactive Binary Patching Plugin for IDA Pro.
+
 [flare-ida](https://github.com/mandiant/flare-ida) by mandiant : IDA Pro utilities from FLARE team.
 
 [HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) by REhints : Hex-Rays Decompiler plugin for better code navigation.
@@ -603,6 +609,7 @@ A collection of github repositories related to android modding.
 [VMOSPro_RootXposed_Terminal](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) by HuskyDG :A simple scripting tool that gives you useful features for VMOS or VMOS Pro.
 
 [AntiVa-Bypass](https://github.com/ArcyMods/AntiVa-Bypass) by ArcyMods : Offsets and hex's that bypass pg3d's antiva detection.
+
 
 # Other
 
