@@ -26,6 +26,8 @@ A collection of github repositories related to android modding.
 
 [PlatinmodsMenu](https://github.com/FrostyHacker/PlatinmodsMenu) by FrostyHacker : A Platinmods mod menu template.
 
+[Android-Hooking-Patching-Template](https://github.com/LGLTeam/Android-Hooking-Patching-Template) by LGLTeam : Hooking and Patching template for Android.
+
 [FrostyMenu](https://github.com/FrostyHacker/FrostyMenu) by FrostyHacker : A mod menu template.
 
 [Android-Mod-Menu](https://github.com/LGLTeam/Android-Mod-Menu) by LGLTeam : A mod menu template.
@@ -159,6 +161,8 @@ A collection of github repositories related to android modding.
 [NativeIORedirect](https://github.com/dolphinwang/NativeIORedirect) by dolphinwang : Native IO Redirect implementation for Android.
 
 [PeachPatch](https://github.com/HimekoEx/PeachPatch) by HimekoEx : Android Runtime Code Patch.
+
+[Collection-Chams-For-IL2CPP-Unity-Games](https://github.com/DarksideH/Collection-Chams-For-IL2CPP-Unity-Games) by DarksideH : Collection Chams for IL2CPP Unity Game.
 
 
 # Hooking Libraries and Templates
@@ -350,6 +354,8 @@ A collection of github repositories related to android modding.
 
 [jadx](https://github.com/skylot/jadx) by skylot : Dex to Java decompiler.
 
+[fernflower](https://github.com/fesh0r/fernflower) by fesh0r : Unofficial mirror of FernFlower Java decompiler.
+
 [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) by SamboyCoding : WIP Tool to reverse Unity's IL2CPP build process back to the original managed DLLs.
 
 [b00m h3adsh0t](https://github.com/lucylow/b00m-h3adsh0t) by lucylow : Computer Vision Game Development. Neural Network Configurable Aimbot for FPS games with custom training mode.
@@ -528,6 +534,8 @@ A collection of github repositories related to android modding.
 
 [flare-ida](https://github.com/mandiant/flare-ida) by mandiant : IDA Pro utilities from FLARE team.
 
+[sigmakerex](https://github.com/kweatherman/sigmakerex) by kweatherman : IDA Pro signature tool.
+
 [HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) by REhints : Hex-Rays Decompiler plugin for better code navigation.
 
 [pr701](https://github.com/pr701/dp701) by dp701 : Dark theme for IDA Pro.
@@ -564,6 +572,8 @@ A collection of github repositories related to android modding.
 
 [FridaAndroidInjector](https://github.com/iGio90/FridaAndroidInjector) by iGio90 : Inject frida agents on local processes through an Android app.
 
+[android-inject-custom](https://github.com/oleavr/android-inject-custom) by oleavr : Example showing how to use Frida for standalone injection of a custom payload.
+
 [r2frida](https://github.com/nowsecure/r2frida) by nowsecure : Radare2 and Frida better together.
 
 
@@ -594,6 +604,12 @@ A collection of github repositories related to android modding.
 
 [VirtualAppEx](https://github.com/xxxyanchenxxx/VirtualAppEx) by xxxyanchenxxx : VirtualApp 9.0 adaptation.
 
+[VirtualXposed_12](https://github.com/so-lli/VirtualXposed_12) by so-lli : A simple app to use Xposed without root, unlock the bootloader or modify system image, etc. (Android 12 support).
+
+[VirtualXposed](https://github.com/android-hacker/VirtualXposed) by android-hacker : A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
+
+[VirtualAppEx](https://github.com/xxxyanchenxxx/VirtualAppEx) by xxxyanchenxxx : VirtualApp 9.0 adaptation.
+
 [DynamicAPK](https://github.com/CtripMobile/DynamicAPK) by CtripMobile : Solution to implement multi apk dynamic loading and hot fixing for Android App.
 
 [atlas](https://github.com/alibaba/atlas) by alibaba : A powerful Android Dynamic Component Framework.
@@ -613,6 +629,8 @@ A collection of github repositories related to android modding.
 
 # Other
 
+
+[AndroidIDE](https://github.com/itsaky/AndroidIDE) by itsaky : AndroidIDE is an IDE for Android to develop full featured Android apps on Android smartphones.
 
 [Game Guardian Il2cpp Script](https://github.com/SliceCast/Game-Guardian-Il2cpp-Script-) by SliceCast : A game guardian (il2cpp Script) for you guys to use if you want to use this without a mod menu.
 
