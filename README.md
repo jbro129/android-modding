@@ -608,8 +608,6 @@ A collection of github repositories related to android modding.
 
 [VirtualXposed](https://github.com/android-hacker/VirtualXposed) by android-hacker : A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 
-[VirtualAppEx](https://github.com/xxxyanchenxxx/VirtualAppEx) by xxxyanchenxxx : VirtualApp 9.0 adaptation.
-
 [DynamicAPK](https://github.com/CtripMobile/DynamicAPK) by CtripMobile : Solution to implement multi apk dynamic loading and hot fixing for Android App.
 
 [atlas](https://github.com/alibaba/atlas) by alibaba : A powerful Android Dynamic Component Framework.
