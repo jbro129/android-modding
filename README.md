@@ -178,6 +178,8 @@ A collection of github repositories related to android modding.
 
 [whale](https://github.com/asLody/whale) by asLody : Hook Framework for Android/IOS/Linux/MacOS.
 
+[LSPlant](https://github.com/LSPosed/LSPlant) by LSPosed : A hook framework for Android Runtime (ART).
+
 [android-inline-hook](https://github.com/bytedance/android-inline-hook) by bytedance : An inline hook library for Android apps.
 
 [SandHook](https://github.com/ganyao114/SandHook) by ganyao114 : Android ART Hook/Native Inline Hook/Single Instruction Hook.
