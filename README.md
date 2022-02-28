@@ -382,6 +382,8 @@ A collection of github repositories related to android modding.
 
 [APK Medit](https://github.com/aktsk/apk-medit) by aktsk : A memory search and patch tool on debuggable apk without root & ndk.
 
+[Pubg-Memory-Dumper](https://github.com/sahilbisla/Pubg-Memory-Dumper) by sahilbisla : A memory dumper for making ESP for pubg mobile.
+
 [Dexter](https://github.com/MikeAndrson/Dexter) by MikeAndrson : A WIP advanced DEX editor for Android.
 
 [AndroidAppRE](https://github.com/maddiestone/AndroidAppRE) by maddiestone : Android App Reverse Engineering Workshop.
@@ -450,6 +452,10 @@ A collection of github repositories related to android modding.
 
 [APKiD](https://github.com/rednaga/APKiD) by rednaga : Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android.
 
+[Krakatau](https://github.com/Storyyeller/Krakatau) by Krakatau : Java decompiler, assembler, and disassembler.
+
+[raung](https://github.com/skylot/raung) by skylot : Assembler/disassembler for java bytecode.
+
 [simplify](https://github.com/CalebFenton/simplify) by CalebFenton : Android virtual machine and deobfuscator.
 
 [AndroidApktool](https://github.com/imkiwa/AndroidApktool) by imkiwa : Apktool runs on android.
@@ -465,6 +471,8 @@ A collection of github repositories related to android modding.
 [AutoAPKTool](https://github.com/TheArmKing/AutoAPKTool) by TheArmKing : A bash based script that helps you decompile, recompile, signs apks.
 
 [AutoSmali](https://github.com/TheArmKing/AutoSmali) by TheArmKing : A simple script that automatically adds your smali popup code for your APK Mods.
+
+[Image_to_byte_array_converter](https://github.com/geokar2006/Image_to_byte_array_converter) by geokar2006 : This program allows you to convert images to byte array for the mod menu on unity mono.
 
 [Archived-Repos](https://github.com/TheArmKing/Archived-Repos) by TheArmKing : A collection of TheArmKing's old repos or discontinued projects.
 
@@ -597,6 +605,8 @@ A collection of github repositories related to android modding.
 [AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader) by mmin18 : A plugin system that runs like a browser, but instead of load web pages, it load apk plugins which runs natively on Android system.
 
 [VirtualAPK](https://github.com/didi/VirtualAPK) by didi : A powerful and lightweight plugin framework for Android.
+
+[BlackBox](https://github.com/FBlackBox/BlackBox) by FBlackBox : BlackBox is a virtual engine, it can clone and run virtual application on Android, users don't have to install APK file to run the application on devices.
 
 [BlackBox](https://github.com/nnjun/BlackBox) by nnjun : A virtual engine that supports 5.0-12.0. It can clone and run virtual applications on Android. It has the ability to run without installation and has integrated Xposed framework. The black box can control the virtual application being run and do whatever you want.
 
