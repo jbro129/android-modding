@@ -162,6 +162,8 @@ A collection of github repositories related to android modding.
 
 [PeachPatch](https://github.com/HimekoEx/PeachPatch) by HimekoEx : Android Runtime Code Patch.
 
+[ImGui-Text-Marquee](https://github.com/Rev/ImGui-Text-Marquee) by Rev : An easy way to make a text marquee using ImGui.
+
 [Collection-Chams-For-IL2CPP-Unity-Games](https://github.com/DarksideH/Collection-Chams-For-IL2CPP-Unity-Games) by DarksideH : Collection Chams for IL2CPP Unity Game.
 
 
@@ -317,6 +319,8 @@ A collection of github repositories related to android modding.
 [Hook-a-Field-Short-offset-like-0x1-Noob2-pro](https://github.com/7Hackers/Hook-a-Field-Short-offset-like-0x1-Noob2-pro) by 7Hackers : How to hook a field (Short offset like 0x1).
 
 [writemem](https://github.com/ExploitTheLoop/writemem) by ExploitTheLoop : useful library for writing memory into games like pubg in java no need to use c++.
+
+[Emulator-Android-External-Memory-Hacking](https://github.com/josuamanuel13/Emulator-Android-External-Memory-Hacking) by josuamanuel13 : android process/memory library root.
 
 [Esp-Mod-Menu](https://github.com/Oifox/Esp-Mod-Menu) by Oifox : Esp for Mod Menu.
 
@@ -571,6 +575,8 @@ A collection of github repositories related to android modding.
 [frida-unpack](https://github.com/dstmath/frida-unpack) by dstmath : Frida-based shelling tool.
 
 [Patch Apk](https://github.com/NickstaDB/patch-apk) by NickstaDB : Wrapper to inject an Objection/Frida gadget into an APK.
+
+[frida_bypass_ssl_example](https://github.com/lasting-yang/frida_bypass_ssl_example) by lasting-yang : Some tips for frida to assist packet capture.
 
 [frida_dump](https://github.com/lasting-yang/frida_dump) by lasting-yang : frida dump dex, frida dump so.
 
