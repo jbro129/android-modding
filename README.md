@@ -390,6 +390,10 @@ A collection of github repositories related to android modding.
 
 [Dexter](https://github.com/MikeAndrson/Dexter) by MikeAndrson : A WIP advanced DEX editor for Android.
 
+[ApktoolFX](https://github.com/oscar0812/ApktoolFX) by oscar0812 : A GUI for Apktool to make reverse engineering of android apps a breeze.
+
+[dex2jar](https://github.com/ThexXTURBOXx/dex2jar) by ThexXTURBOXx : A fork of the dex2jar project which aims to fix most issues.
+
 [AndroidAppRE](https://github.com/maddiestone/AndroidAppRE) by maddiestone : Android App Reverse Engineering Workshop.
 
 [MetaDataStringEditor](https://github.com/JeremieCHN/MetaDataStringEditor) by JeremieCHN : Modify string in file global-metadata.dat.
@@ -524,9 +528,7 @@ A collection of github repositories related to android modding.
 # IDA
 
 
-[IDA_Pro_7.5](https://github.com/LGLTeam/IDA_Pro_7.5) by LGLTeam : IDA Pro 7.5 leak.
-
-[IDA_Pro_7.2](https://github.com/jas502n/IDA_Pro_7.2) by jas502n : IDA Pro 7.2 leak.
+[IDA-Pro-Leak](https://github.com/IDALeaker/IDA-Pro-Leak) by IDALeaker : Since the original ida pro leak repo got deleted, I decided to upload them here! Enjoy!.
 
 [idaplugins-list](https://github.com/onethawt/idaplugins-list) by onethawt : A list of IDA Plugins.
 
