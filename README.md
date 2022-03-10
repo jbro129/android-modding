@@ -164,6 +164,8 @@ A collection of github repositories related to android modding.
 
 [ImGui-Text-Marquee](https://github.com/Rev/ImGui-Text-Marquee) by Rev : An easy way to make a text marquee using ImGui.
 
+[ImGui-Rainbow-Colour-Cycler](https://github.com/Rev/ImGui-Rainbow-Colour-Cycler) by Rev : An easy way to make a cool rainbow colour cycler using ImGui.
+
 [Collection-Chams-For-IL2CPP-Unity-Games](https://github.com/DarksideH/Collection-Chams-For-IL2CPP-Unity-Games) by DarksideH : Collection Chams for IL2CPP Unity Game.
 
 
@@ -347,6 +349,10 @@ A collection of github repositories related to android modding.
 [android-https-patcher](https://github.com/rlxone/android-https-patcher) by rlxone : Patch android apps to allow https traffic sniffing/packet capturing.
 
 [android-ssl-pinning-bypass](https://github.com/ilya-kozyr/android-ssl-pinning-bypass) by ilya-kozyr : Script to patch apk to allow HTTPS traffic inspection and SSL pinning.
+
+[Classloader-by-S4J](https://github.com/Hyupai/Classloader-by-S4J) by Hyupai : Dynamic classloader.
+
+[ClassLoader](https://github.com/Catherine22/ClassLoader) by Catherine22 : Loading apks or classes without reinstalling your app.
 
 [dnSpy](https://github.com/dnSpy/dnSpy) by dnSpy : .NET debugger and assembly editor.
 
