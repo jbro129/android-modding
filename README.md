@@ -76,6 +76,8 @@ A collection of github repositories related to android modding.
 
 [Mod-Menu-Without-Overlay-Permission-Demo](https://github.com/LGLTeam/Mod-Menu-Without-Overlay-Permission-Demo) by LGLTeam : No need overlay permission anymore.
 
+[MOD-MENU-WITH-MONOSTRING](https://github.com/AllanFuego/MOD-MENU-WITH-MONOSTRING) by AllanFuego : Mod menu template with MonoString hook support.
+
 
 # Dumping and Unpacking
 
@@ -107,6 +109,8 @@ A collection of github repositories related to android modding.
 [UE4Dumper](https://github.com/kp7742/UE4Dumper) by kp7742 : Unreal Engine 4 Dumper - Dump libUE4.so and Generate Structure SDK.
 
 [UnrealDumper-4.25](https://github.com/guttir14/UnrealDumper-4.25) by guttir14 : Unreal Engine 4.23-4.27 Dumper.
+
+[UE4SDKGenerator](https://github.com/D-R-99/UE4SDKGenerator) by D-R-99 : Unrealengine4 SDK Generator for Android supports UE4.18 to UE4.22.
 
 [LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so from memory.
 
@@ -460,6 +464,8 @@ A collection of github repositories related to android modding.
 
 [UABEA](https://github.com/nesrak1/UABEA) by nesrak1 : C# UABE for newer versions of unity.
 
+[UnityAssetReplacer](https://github.com/Skyluker4/UnityAssetReplacer) by Skyluker4 : A tool to replace files in a Unity Asset Bundle from given files.
+
 [ILSpy](https://github.com/icsharpcode/ILSpy) by icsharpcode : .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more).
 
 [UtinyRipper](https://github.com/mafaca/UtinyRipper) by mafaca : GUI and API library to work with Engine assets, serialized and bundle files.
@@ -667,6 +673,8 @@ A collection of github repositories related to android modding.
 [Il2CppVersions](https://github.com/nneonneo/Il2CppVersions) by nneonneo : Build scripts & historical header files for every available minor version of Unity's Il2Cpp project.
 
 [arminject](https://github.com/evilsocket/arminject) by evilsocket : An application to dynamically inject a shared object into a running process on ARM architectures.
+
+[soinject](https://github.com/XutaxKamay/soinject) by XutaxKamay : ELF shared libraries injection to a remote process.
 
 [Android-Injector](https://github.com/CrackerCat/Android-Injector) by CrackerCat : Inject so & apk to zygote on android. Support armv8 & armv7.
 
