@@ -11,6 +11,7 @@ A collection of github repositories related to android modding.
 # Categories
  - [Mod Menu Templates](https://github.com/jbro129/android-modding#mod-menu-templates)
  - [Dumping and Unpacking](https://github.com/jbro129/android-modding#dumping-and-unpacking)
+ - [Packing and Protection](https://github.com/jbro129/android-modding#packing-and-protection)
  - [C++ Libraries](https://github.com/jbro129/android-modding#c-libraries)
  - [Hooking Libraries and Templates](https://github.com/jbro129/android-modding#hooking-libraries-and-templates)
  - [Modding Projects and Tutorials](https://github.com/jbro129/android-modding#modding-projects-and-tutorials)
@@ -135,6 +136,53 @@ A collection of github repositories related to android modding.
 [DexHunter](https://github.com/zyq8709/DexHunter) by zyq8709 : General Automatic Unpacking Tool for Android Dex Files.
 
 [dexdump](https://github.com/smartdone/dexdump) by smartdone : Xposed plug-in for quick release of the first generation shell.
+
+
+# Packing and Protection
+
+[Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk) by ClaudiuGeorgiu : An automatic obfuscation tool for Android apps.
+
+[ApkEncryptor](https://github.com/espmihacker/ApkEncryptor) by espmihacker : A android app for encrypting apk.
+
+[AndResGuard](https://github.com/shwenzhang/AndResGuard) by shwenzhang : Proguard resource for Android by wechat team.
+
+[AabResGuard](https://github.com/bytedance/AabResGuard) by bytedance : Android app bundle resource obfuscation tool.
+
+[ApkToolPlus](https://github.com/linchaolong/ApkToolPlus) by linchaolong : An apk reverse analysis tool (a apk analysis tools).
+
+[dexknife-wj](https://github.com/godlikewangjun/dexknife-wj) by godlikewangjun : APK reinforcement plug-in with signature verification, dex encryption, resource obfuscation.
+
+[anti_Android](https://github.com/TUGOhost/anti_Android) by TUGOhost : Protect Android App anti any attacks and environments.
+
+[AntiDebugandMemoryDump](https://github.com/darvincisec/AntiDebugandMemoryDump) by darvincisec : Anti-Debug and Anti-Memory Dump for Android.
+
+[DetectFrida](https://github.com/darvincisec/DetectFrida) by darvincisec : Detect Frida for Android.
+
+[Oo0Proguard](https://github.com/L-JINBIN/Oo0Proguard) by L-JINBIN : Modified version of Proguard, the obfuscated class name is Oo0 combination.
+
+[KiwiApkProtect](https://github.com/iKiwiSec/KiwiApkProtect) by iKiwiSec : encryption for mobile android applications.
+
+[Bangcle](https://github.com/woxihuannisja/Bangcle) by woxihuannisja : The second generation Android Hardening Protection.
+
+[StormJiagu](https://github.com/codingsf/StormJiagu) by codingsf : Android Dex Protector.
+
+[BlackObfuscator](https://github.com/CodingGay/BlackObfuscator) by CodingGay : An obfuscator for Android APK DexFile.
+
+[BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin) by CodingGay : This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically.
+
+[skidfuscator-java-obfuscator](https://github.com/terminalsin/skidfuscator-java-obfuscator) by terminalsin : Public proof-of-concept obfuscator using the MapleIR framework designed by cts & bibl.
+
+[yGuard](https://github.com/yWorks/yGuard) by yWorks : The open-source Java obfuscation tool working with Ant and Gradle.
+
+[paranoid](https://github.com/MichaelRocks/paranoid) by MichaelRocks : String obfuscator for Android applications.
+
+[Enigma](https://github.com/christopherney/Enigma) by christopherney : Gradle Plugin - Obfuscator String Encryption (Android/Java).
+
+[Obfuscate](https://github.com/adamyaxley/Obfuscate) by adamyaxley : Guaranteed compile-time string literal obfuscation header-only library for C++14.
+
+[cpp11-compile-time-string-obfuscation](https://github.com/Rednick16/cpp11-compile-time-string-obfuscation) by Rednick16 : a mini project to obfuscate strings/hex and const char strings/objective c strings.
+
+[nmmp](https://github.com/maoabc/nmmp) by maoabc : dex-vm used to protect the android classes.dex file.
 
 
 # C++ Libraries
@@ -424,10 +472,6 @@ A collection of github repositories related to android modding.
 
 [Android-Mem-Edit](https://github.com/mrcang09/Android-Mem-Edit) by mrcang09 : Android memory plug-in, a memory modification tool for application processes.
 
-[Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk) by ClaudiuGeorgiu : An automatic obfuscation tool for Android apps.
-
-[KiwiApkProtect](https://github.com/iKiwiSec/KiwiApkProtect) by iKiwiSec : encryption for mobile android applications.
-
 [DLGMemor](https://github.com/DeviLeo/DLGMemor) by DeviLeo : A memory editor and viewer for iOS (Jailed or not Jailed).
 
 [AssetStudio](https://github.com/Perfare/AssetStudio) by Perfare : A tool for exploring, extracting and exporting assets and assetbundles.
@@ -484,10 +528,6 @@ A collection of github repositories related to android modding.
 
 [tinker](https://github.com/Tencent/tinker) by Tencent : A hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
 
-[AndResGuard](https://github.com/shwenzhang/AndResGuard) by shwenzhang : Proguard resource for Android by wechat team.
-
-[ApkToolPlus](https://github.com/linchaolong/ApkToolPlus) by linchaolong : An apk reverse analysis tool (a apk analysis tools).
-
 [AutoAPKTool](https://github.com/TheArmKing/AutoAPKTool) by TheArmKing : A bash based script that helps you decompile, recompile, signs apks.
 
 [AutoSmali](https://github.com/TheArmKing/AutoSmali) by TheArmKing : A simple script that automatically adds your smali popup code for your APK Mods.
@@ -519,8 +559,6 @@ A collection of github repositories related to android modding.
 [APKLab](https://github.com/APKLab/APKLab) by APKLab : Android Reverse-Engineering Workbench for VS Code.
 
 [intellij-java2smali](https://github.com/ollide/intellij-java2smali) by ollide : A plugin for IntelliJ IDEA & Android Studio to easily compile Java & Kotlin files to smali.
-
-[ApkEncryptor](https://github.com/espmihacker/ApkEncryptor) by espmihacker : A android app for encrypting apk.
 
 [XAPKDetector](https://github.com/horsicq/XAPKDetector) by horsicq : APK/DEX detector for Windows, Linux and MacOS.
 
@@ -695,8 +733,6 @@ A collection of github repositories related to android modding.
 [APKDL](https://github.com/TheArmKing/APKDL) by TheArmKing : Download APKs in command line.
 
 [apkeep](https://github.com/EFForg/apkeep) by EFForg : A command-line tool for downloading APK files from various sources.
-
-[cpp11-compile-time-string-obfuscation](https://github.com/Rednick16/cpp11-compile-time-string-obfuscation) by Rednick16 : a mini project to obfuscate strings/hex and const char strings/objective c strings.
 
 [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) by tanprathan : The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 
