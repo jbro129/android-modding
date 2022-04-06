@@ -168,6 +168,8 @@ A collection of github repositories related to android modding.
 
 [BlackObfuscator](https://github.com/CodingGay/BlackObfuscator) by CodingGay : An obfuscator for Android APK DexFile.
 
+[BlackObfuscator-GUI](https://github.com/CodingGay/BlackObfuscator-GUI) by CodingGay : This project is an graphical utility based on BlackObfuscator..
+
 [BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin) by CodingGay : This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically.
 
 [skidfuscator-java-obfuscator](https://github.com/terminalsin/skidfuscator-java-obfuscator) by terminalsin : Public proof-of-concept obfuscator using the MapleIR framework designed by cts & bibl.
