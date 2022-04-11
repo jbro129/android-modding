@@ -400,6 +400,8 @@ A collection of github repositories related to android modding.
 
 [ApkSignatureKiller](https://github.com/L-JINBIN/ApkSignatureKiller) by L-JINBIN : One-click cracking APK signature verification.
 
+[APKKiller](https://github.com/aimardcr/APKKiller) by aimardcr : Bypass android application integrity and signature check.
+
 [android-https-patcher](https://github.com/rlxone/android-https-patcher) by rlxone : Patch android apps to allow https traffic sniffing/packet capturing.
 
 [android-ssl-pinning-bypass](https://github.com/ilya-kozyr/android-ssl-pinning-bypass) by ilya-kozyr : Script to patch apk to allow HTTPS traffic inspection and SSL pinning.
@@ -515,6 +517,10 @@ A collection of github repositories related to android modding.
 [ILSpy](https://github.com/icsharpcode/ILSpy) by icsharpcode : .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more).
 
 [UtinyRipper](https://github.com/mafaca/UtinyRipper) by mafaca : GUI and API library to work with Engine assets, serialized and bundle files.
+
+[APKSignReader](https://github.com/aimardcr/APKSignReader) by aimardcr : Android Application to read installed application signature and dump it as Base64 or C++ format.
+
+[CS-APKSignReader](https://github.com/aimardcr/CS-APKSignReader) by aimardcr : Windows C# version of APKSignReader.
 
 [APKiD](https://github.com/rednaga/APKiD) by rednaga : Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android.
 
@@ -745,6 +751,8 @@ A collection of github repositories related to android modding.
 [AndLua-Modding-Projects](https://github.com/LGLTeam/AndLua-Modding-Projects) by LGLTeam : Collections of AndLua modding related projects.
 
 [Decrypted-GG-Lua-Scripts](https://github.com/LGLTeam/Decrypted-GG-Lua-Scripts) by LGLTeam : Collections of decrypted GameGuardian scripts. For educational purposes only
+
+[GGMod](https://github.com/JealousCat/GGMod) by JealousCat : Provide GameGuardian's MOD tutorials and codes, such as luajava library, repair os.execute function, improve String library, add Canvas, etc.
 
 [PUBG-Mobile-Memory-Hack](https://github.com/LGLTeam/PUBG-Mobile-Memory-Hack) by LGLTeam : PUBG Mobile Memory Hack.
 
