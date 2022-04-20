@@ -2,7 +2,7 @@
 
 #List below is about APK Modding Tools:
 
-APKTools/Disassemblers:
+APKTools/DEX-Disassemblers:
 
 [Android-Disassembler](https://github.com/KYHSGeekCode/Android-Disassembler) by KYHSGeekCode : Capstone-based disassembler application on android.
 
