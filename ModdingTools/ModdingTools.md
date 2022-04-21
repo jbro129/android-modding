@@ -1,8 +1,8 @@
-## Modding Tools
+# Modding Tools
 
-# List below is about APK Modding Tools:
+## List below is about APK Modding Tools:
 
-APKTools/DEX-Disassemblers:
+**APKTools/DEX-Disassemblers:**
 
 [Android-Disassembler](https://github.com/KYHSGeekCode/Android-Disassembler) by KYHSGeekCode : Capstone-based disassembler application on android.
 
@@ -16,9 +16,11 @@ APKTools/DEX-Disassemblers:
 
 [ApktoolFX](https://github.com/oscar0812/ApktoolFX) by oscar0812 : A GUI for Apktool to make reverse engineering of android apps a breeze.
 
+[ApkToolPlus](https://github.com/linchaolong/ApkToolPlus) by linchaolong : An apk reverse analysis tool (a apk analysis tools).
+
 [raung](https://github.com/skylot/raung) by skylot : Assembler/disassembler for java bytecode.
 
-Decompilers:
+**Decompilers:**
 
 [AndroidProjectCreator](https://github.com/ThisIsLibra/AndroidProjectCreator) by ThisIsLibra : Convert an APK to an Android Studio Project using multiple open-source decompilers.
 
@@ -36,7 +38,7 @@ Decompilers:
 
 [Krakatau](https://github.com/Storyyeller/Krakatau) by Krakatau : Java decompiler, assembler, and disassembler.
 
-Deobfuscator:
+**Deobfuscator:**
 
 [deoptfuscator](https://github.com/Gyoonus/deoptfuscator) by Gyoonus : Deobfuscator for Android Application.
 
@@ -44,13 +46,13 @@ Deobfuscator:
 
 [simplify](https://github.com/CalebFenton/simplify) by CalebFenton : Android virtual machine and deobfuscator.
 
-Signature Tools:
+**Signature Tools:**
 
 [ApkSignatureKiller](https://github.com/L-JINBIN/ApkSignatureKiller) by L-JINBIN : One-click cracking APK signature verification.
 
 [APKSignReader](https://github.com/aimardcr/APKSignReader) by aimardcr : Android Application to read installed application signature and dump it as Base64 or C++ format.
 
-Other Tools:
+**Other Tools/Plugins:**
 
 [android-https-patcher](https://github.com/rlxone/android-https-patcher) by rlxone : Patch android apps to allow https traffic sniffing/packet capturing.
 
@@ -90,16 +92,17 @@ Other Tools:
 
 [XAPKDetector](https://github.com/horsicq/XAPKDetector) by horsicq : APK/DEX detector for Windows, Linux and MacOS.
 
-# List below is about Unity/IL2CPP Modding Tools:
+## List below is about Unity/IL2CPP Modding Tools:
 
+**Disassembler**
 
 [Unitor](https://github.com/BitCrackers/Unitor) by BitCrackers : A tool for analyzing and disassembling any unity game. Supports both mono and il2cpp.
 
-Deobfuscator:
+**Deobfuscator:**
 
 [AUDeobfuscator](https://github.com/lifeengines/AUDeobfuscator) by lifeengines : A simple script to help with the deobfuscation of il2cpp files.
 
-Patching:
+**Patching:**
 
 [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) by SamboyCoding : WIP Tool to reverse Unity's IL2CPP build process back to the original managed DLLs.
 
@@ -111,52 +114,79 @@ Patching:
 
 [libil2cpp Patcher](https://github.com/T5ive/libil2cpp-Patcher) by T5ive : A tool that makes hex editing easier.
 
-
-# To Sort/check:
-
-[b00m h3adsh0t](https://github.com/lucylow/b00m-h3adsh0t) by lucylow : Computer Vision Game Development. Neural Network Configurable Aimbot for FPS games with custom training mode.
-
-[ARM-Converter](https://github.com/MikaCybertron/ARM-Converter) by MikaCybertron : Offline ARM64, ARM, and THUMB instruction to hex converter.
-
-[ImHex](https://github.com/WerWolv/ImHex) by WerWolv : A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
-
-[biodiff](https://github.com/8051Enthusiast/biodiff) by 8051Enthusiast : Hex diff viewer using alignment algorithms from biology.
+## Metzger100 doesn't know where to put:
 
 [android-modding-tools](https://github.com/jbro129/android-modding-tools) by jbro129 : An android modding tool dump repo.
 
-[Pubg-Memory-Dumper](https://github.com/sahilbisla/Pubg-Memory-Dumper) by sahilbisla : A memory dumper for making ESP for pubg mobile.
+[apk-mitm](https://github.com/shroudedcode/apk-mitm) by shroudedcode : A CLI application that automatically prepares Android APK files for HTTPS inspection.
 
-[MetaDataStringEditor](https://github.com/JeremieCHN/MetaDataStringEditor) by JeremieCHN : Modify string in file global-metadata.dat.
+[Archived-Repos](https://github.com/TheArmKing/Archived-Repos) by TheArmKing : A collection of TheArmKing's old repos or discontinued projects.
 
-[Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower) by knah : A tool to generate Managed->IL2CPP proxy assemblies.
+[ARM-Converter](https://github.com/MikaCybertron/ARM-Converter) by MikaCybertron : Offline ARM64, ARM, and THUMB instruction to hex converter.
 
-[IPAPatch](https://github.com/paradiseduo/IPAPatch) by paradiseduo : Patch iOS Apps, The Easy Way, Without Jailbreak.
-
-[Il2Cpp Modding Codegen](https://github.com/sc2ad/Il2Cpp-Modding-Codegen) by sc2ad : Generates code that can be built into a shared library for Il2Cpp modding.
-
-[DLGMemor](https://github.com/DeviLeo/DLGMemor) by DeviLeo : A memory editor and viewer for iOS (Jailed or not Jailed).
-
-[AssetStudio](https://github.com/Perfare/AssetStudio) by Perfare : A tool for exploring, extracting and exporting assets and assetbundles.
+[AsmResolver](https://github.com/Washi1337/AsmResolver) by Washi1337 : A library for editing PE files with full .NET metadata support.
 
 [AssetRipper](https://github.com/ds5678/AssetRipper) by ds5678 : GUI and API library to work with Engine assets, serialized and bundle files.
 
+[AssetStudio](https://github.com/Perfare/AssetStudio) by Perfare : A tool for exploring, extracting and exporting assets and assetbundles.
+
 [AssetStudio](https://github.com/djkaty/AssetStudio) by djkaty : A tool for exploring, extracting and exporting assets and assetbundles.
 
-[UnrealPakTool](https://github.com/allcoolthingsatoneplace/UnrealPakTool) by allcoolthingsatoneplace : A tool that can extract .pak files for Unreal Engine 4.
+[Auto-Il2cppDumper](https://github.com/BryanGIG/Auto-Il2cppDumper) by BryanGIG : Internal dumper for Unity3d libil2cpp.so.
 
-[PidTesting](https://github.com/ArcyMods/PidTesting) by ArcyMods : Get the pid of a process.
+[biodiff](https://github.com/8051Enthusiast/biodiff) by 8051Enthusiast : Hex diff viewer using alignment algorithms from biology.
 
-[PG3D-CryptoPrefsGenerator](https://github.com/jbro129/PG3D-CryptoPrefsGenerator) by jbro129 : A PG3D Player Pref Encryption/Decryption Tool.
+[CppDLL](https://github.com/Rprop/CppDLL) by Rprop : A small tool that will help you generate Cpp Header(.h) and Import Library(.lib) from Dynamic Link Library(.dll).
 
-[LibInjector](https://github.com/jbro129/LibInjector) by jbro129 : Write to an android apps lib.so at runtime.
+[DLGMemor](https://github.com/DeviLeo/DLGMemor) by DeviLeo : A memory editor and viewer for iOS (Jailed or not Jailed).
 
-[PackageHook](https://github.com/jbro129/PackageHook) by jbro129 : Hook An Android Applications Package Config And Set It As You Want.
+[dnSpy](https://github.com/dnSpy/dnSpy) by dnSpy : .NET debugger and assembly editor.
+
+[dnSpy](https://github.com/dnSpyEx/dnSpy) by dnSpyEx : Continuation of the dnSpy project.
+
+[dnSpy.Extension.HoLLy](https://github.com/HoLLy-HaCKeR/dnSpy.Extension.HoLLy) by HoLLy-HaCKeR : A dnSpy extension to aid reversing of obfuscated assemblies.
+
+[Emulator-Android-External-Memory-Hacking](https://github.com/josuamanuel13/Emulator-Android-External-Memory-Hacking) by josuamanuel13 : android process/memory library root.
+
+[External-PG3D-Injector](https://github.com/SliceCast/External-PG3D-Injector) by SliceCast : Write into android application lib.so with offset & hex bytes externally.
+
+[Il2Cpp Modding Codegen](https://github.com/sc2ad/Il2Cpp-Modding-Codegen) by sc2ad : Generates code that can be built into a shared library for Il2Cpp modding.
+
+[Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower) by knah : A tool to generate Managed->IL2CPP proxy assemblies.
 
 [Il2CppDumperTool](https://github.com/axhlzy/Il2CppDumperTool) by axhlzy : A tool to batch breakpoint functions of libil2cpp.so.
 
-[PADumper](https://github.com/BryanGIG/PADumper) by BryanGIG : Easy Dump ELF libil2cpp.so from Android Process Memory.
+[ILSpy](https://github.com/icsharpcode/ILSpy) by icsharpcode : .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more).
+
+[Image_to_byte_array_converter](https://github.com/geokar2006/Image_to_byte_array_converter) by geokar2006 : This program allows you to convert images to byte array for the mod menu on unity mono.
+
+[ImHex](https://github.com/WerWolv/ImHex) by WerWolv : A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+
+[IPAPatch](https://github.com/paradiseduo/IPAPatch) by paradiseduo : Patch iOS Apps, The Easy Way, Without Jailbreak.
+
+[LibInjector](https://github.com/jbro129/LibInjector) by jbro129 : Write to an android apps lib.so at runtime.
 
 [mem](https://github.com/MobileForensicsResearch/mem) by MobileForensicsResearch : Tool used for dumping memory from Android devices.
+
+[MetaDataStringEditor](https://github.com/JeremieCHN/MetaDataStringEditor) by JeremieCHN : Modify string in file global-metadata.dat.
+
+[mitmproxy](https://github.com/mitmproxy/mitmproxy) by mitmproxy : An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+[PackageHook](https://github.com/jbro129/PackageHook) by jbro129 : Hook An Android Applications Package Config And Set It As You Want.
+
+[PADumper](https://github.com/BryanGIG/PADumper) by BryanGIG : Easy Dump ELF libil2cpp.so from Android Process Memory.
+
+[PG3D-CryptoPrefsGenerator](https://github.com/jbro129/PG3D-CryptoPrefsGenerator) by jbro129 : A PG3D Player Pref Encryption/Decryption Tool.
+
+[PidTesting](https://github.com/ArcyMods/PidTesting) by ArcyMods : Get the pid of a process.
+
+[Pubg-Memory-Dumper](https://github.com/sahilbisla/Pubg-Memory-Dumper) by sahilbisla : A memory dumper for making ESP for pubg mobile.
+
+[tinker](https://github.com/Tencent/tinker) by Tencent : A hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
+
+[Tool-Converter-ASCII](https://github.com/MikaCybertron/Tool-Converter-ASCII) by MikaCybertron : Offline tool to Converter ASCII to Decimal & Decimal to ASCII.
+
+[Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games](https://github.com/MikaCybertron/Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games) by MikaCybertron : Tool Encryption & Decryption JSC Files to Modded Cocos2djs Games.
 
 [UABE](https://github.com/DerPopo/UABE) by DerPopo : Unity Assets Bundle Extractor.
 
@@ -164,38 +194,10 @@ Patching:
 
 [UnityAssetReplacer](https://github.com/Skyluker4/UnityAssetReplacer) by Skyluker4 : A tool to replace files in a Unity Asset Bundle from given files.
 
-[ILSpy](https://github.com/icsharpcode/ILSpy) by icsharpcode : .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more).
+[UnityExplorer](https://github.com/sinai-dev/UnityExplorer) by sinai-dev : An in-game explorer and a suite of debugging tools for IL2CPP and Mono Unity games, to aid with modding development.
+
+[UnrealPakTool](https://github.com/allcoolthingsatoneplace/UnrealPakTool) by allcoolthingsatoneplace : A tool that can extract .pak files for Unreal Engine 4.
 
 [UtinyRipper](https://github.com/mafaca/UtinyRipper) by mafaca : GUI and API library to work with Engine assets, serialized and bundle files.
 
-[tinker](https://github.com/Tencent/tinker) by Tencent : A hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
-
-[Image_to_byte_array_converter](https://github.com/geokar2006/Image_to_byte_array_converter) by geokar2006 : This program allows you to convert images to byte array for the mod menu on unity mono.
-
-[Archived-Repos](https://github.com/TheArmKing/Archived-Repos) by TheArmKing : A collection of TheArmKing's old repos or discontinued projects.
-
-[AsmResolver](https://github.com/Washi1337/AsmResolver) by Washi1337 : A library for editing PE files with full .NET metadata support.
-
-[UnityExplorer](https://github.com/sinai-dev/UnityExplorer) by sinai-dev : An in-game explorer and a suite of debugging tools for IL2CPP and Mono Unity games, to aid with modding development.
-
-[apk-mitm](https://github.com/shroudedcode/apk-mitm) by shroudedcode : A CLI application that automatically prepares Android APK files for HTTPS inspection.
-
-[mitmproxy](https://github.com/mitmproxy/mitmproxy) by mitmproxy : An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-
-[CppDLL](https://github.com/Rprop/CppDLL) by Rprop : A small tool that will help you generate Cpp Header(.h) and Import Library(.lib) from Dynamic Link Library(.dll).
-
-[7-Super-Tool-Mod-Menu-Generator](https://github.com/7Hackers/7-Super-Tool-Mod-Menu-Generator) by 7Hackers : A powerful mod menu generator with offline arm converter and ability to add telekill, chams, patch, hook, etc.
-
-[Auto-Il2cppDumper](https://github.com/BryanGIG/Auto-Il2cppDumper) by BryanGIG : Internal dumper for Unity3d libil2cpp.so.
-
-[LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so.
-
-[Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games](https://github.com/MikaCybertron/Tool-Encryption-Decryption-JSC-Files-for-Cocos2djs-Games) by MikaCybertron : Tool Encryption & Decryption JSC Files to Modded Cocos2djs Games.
-
-[Tool-Converter-ASCII](https://github.com/MikaCybertron/Tool-Converter-ASCII) by MikaCybertron : Offline tool to Converter ASCII to Decimal & Decimal to ASCII.
-
-[dnSpy](https://github.com/dnSpy/dnSpy) by dnSpy : .NET debugger and assembly editor.
-
-[dnSpy](https://github.com/dnSpyEx/dnSpy) by dnSpyEx : Continuation of the dnSpy project.
-
-[dnSpy.Extension.HoLLy](https://github.com/HoLLy-HaCKeR/dnSpy.Extension.HoLLy) by HoLLy-HaCKeR : A dnSpy extension to aid reversing of obfuscated assemblies.
+[writemem](https://github.com/ExploitTheLoop/writemem) by ExploitTheLoop : useful library for writing memory into games like pubg in java no need to use c++.
