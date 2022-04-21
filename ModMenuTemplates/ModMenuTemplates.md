@@ -1,7 +1,9 @@
-# Mod Menu Templates
+# Mod Menus
 
-List below is about Mod Menus:
+## List below is about Mod Menu Templates:
 
+
+## List below is about Mod Menu Projects:
 
 [New Mod Style Layout And Mod Menu](https://github.com/KMODs-dev/New-Mod-Style-Layout-And-Mod-Menu) by KMODs-dev : A mod menu template.
 
