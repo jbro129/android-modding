@@ -1,6 +1,6 @@
-## C++ Libraries
+# C++ Libraries
 
-# List below is about general C++Libs:
+## List below is about general C++Libs:
 
 
 [KittyMemory](https://github.com/MJx0/KittyMemory) by MJx0 : This library aims for runtime code patching for both Android and iOS.
@@ -9,7 +9,7 @@
 
 [PeachPatch](https://github.com/HimekoEx/PeachPatch) by HimekoEx : Android Runtime Code Patch.
 
-# List below is about IL2CPP/Unity:
+## List below is about IL2CPP/Unity:
 
 
 [ByNameModding](https://github.com/geokar2006/ByNameModding) by geokar2006 : Modding il2cpp games by classes, methods, fields names.
