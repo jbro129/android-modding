@@ -418,9 +418,13 @@ A collection of github repositories related to android modding.
 
 [Apktool](https://github.com/iBotPeaches/Apktool) by iBotPeaches : A tool for reverse engineering Android apk files.
 
+[ApkEasyTool](https://forum.xda-developers.com/t/tool-windows-apk-easy-tool-v1-59-2-2021-04-03.3333960/) by evildog1 : lightweight ApkTool-GUI with many features and adb-support (like adb install).
+
 [kikfox](https://github.com/kikfox/kikfox) by kikfox : A resource obfuscated apk decompiling tool.
 
 [jadx](https://github.com/skylot/jadx) by skylot : Dex to Java decompiler.
+
+[Bytecode-Viewer](https://github.com/Konloch/bytecode-viewer) by Konloch : Powerfull GUI for multiple decompilers like JADX, Fernflower, Krakatau, smali and co. 
 
 [fernflower](https://github.com/fesh0r/fernflower) by fesh0r : Unofficial mirror of FernFlower Java decompiler.
 
@@ -583,10 +587,14 @@ A collection of github repositories related to android modding.
 [Tool-Converter-ASCII](https://github.com/MikaCybertron/Tool-Converter-ASCII) by MikaCybertron : Offline tool to Converter ASCII to Decimal & Decimal to ASCII.
 
 
-# IDA
+# IDA / reverse-engineering platforms
 
 
-[IDA-Pro-Leak](https://github.com/IDALeaker/IDA-Pro-Leak) by IDALeaker : Since the original ida pro leak repo got deleted, I decided to upload them here! Enjoy!.
+[IDA-Pro-Leak](https://github.com/IDALeaker/IDA-Pro-Leak) by IDALeaker : Since the original ida pro leak repo got deleted, I decided to upload them here! Enjoy!
+
+[cutter](https://github.com/rizinorg/cutter) by rizinorg : It aims at being an advanced and customizable reverse engineering platform while keeping the user experience in mind. Cutter is created by reverse engineers for reverse engineers.
+
+[Ghidra](https://github.com/NationalSecurityAgency/ghidra) by NSA : Ghidra is a software reverse engineering framework with a powerfull set of features and tools including a debugging mode.
 
 [idaplugins-list](https://github.com/onethawt/idaplugins-list) by onethawt : A list of IDA Plugins.
 
@@ -773,4 +781,3 @@ A collection of github repositories related to android modding.
 [iOS-Tweaks](https://github.com/onewayticket255/iOS-Tweaks) by onewayticket255 : The source code of the tweaks from the SarahH12099 Repo
 
 [Game-Guardian-Easy-MemoryPatch](https://github.com/geokar2006/Game-Guardian-Easy-MemoryPatch) by geokar2006 : Path any lib hex by offset in game guardian scripts.
-
