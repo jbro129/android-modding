@@ -1,43 +1,8 @@
-# Dumping and Unpacking
+## Dumping and Unpacking
 
-List below is about Dumpers and Unpackers:
-
-
-[Il2CppDumper](https://github.com/Perfare/Il2CppDumper) by Perfare : An il2cpp dumper.
-
-[Riru-Il2CppDumper](https://github.com/Perfare/Riru-Il2CppDumper) by Perfare : Using Riru to dump il2cpp data at runtime.
-
-[Il2CppInspector](https://github.com/djkaty/Il2CppInspector) by djkaty : A powerful automated tool for reverse engineering Unity IL2CPP binaries.
-
-[Il2CppInspectorPlugins](https://github.com/djkaty/Il2CppInspectorPlugins) by djkaty : The official repository of plugins for Il2CppInspector.
-
-[Il2CppTranslator](https://github.com/BitCrackers/Il2CppTranslator) by BitCrackers : A library to help make deobfuscation plugins for Il2CppInspector.
-
-[Beebyte-Deobfuscator](https://github.com/OsOmE1/Beebyte-Deobfuscator) by OsOmE1 : A plugin for Il2CppInspector that performs quasi deobfuscation.
-
-[Compiled-Beeless-BeeByte-DeObfuscator](https://github.com/SliceCast/Compiled-Beeless-BeeByte-DeObfuscator) by SliceCast : Compiled Beeless BeeByte deobfuscator.
-
-[Il2CppDumper](https://github.com/Jumboperson/Il2CppDumper) by Jumboperson : Better version of PokemonGoDumper.
-
-[Il2CppDumper YuanShen](https://github.com/kagurazakasanae/Il2CppDumper-YuanShen) by kagurazakasanae : Modified version of Il2CppDumper allows you to dump methods of UserAssembly.dll of the game Genshin Impact.
-
-[Il2CppDumper GUI](https://github.com/AndnixSH/Il2CppDumper-GUI) by AndnixSH : Simple GUI version of Il2CppDumper
-
-[Il2CppDumper-HI3](https://github.com/AndnixSH/Il2CppDumper-HI3) by AndnixSH : Modified Il2CppDumper which can decrypt and dump Honkai Impact 3rd games.
-
-[PokemonGoDumper](https://github.com/Jumboperson/PokemonGoDumper) by Jumboperson : A POC way to dump Pokemon Go.
-
-[UE4Dumper](https://github.com/kp7742/UE4Dumper) by kp7742 : Unreal Engine 4 Dumper - Dump libUE4.so and Generate Structure SDK.
-
-[UnrealDumper-4.25](https://github.com/guttir14/UnrealDumper-4.25) by guttir14 : Unreal Engine 4.23-4.27 Dumper.
-
-[UE4SDKGenerator](https://github.com/D-R-99/UE4SDKGenerator) by D-R-99 : Unrealengine4 SDK Generator for Android supports UE4.18 to UE4.22.
-
-[LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so from memory.
+# List below is about Dumpers and Unpackers:
 
 [BlackDex](https://github.com/CodingGay/BlackDex) by CodingGay : An android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment, can run on any Android mobile phones or emulators, and can unpack APK files in several seconds.
-
-[Dumpity](https://github.com/sc2ad/Dumpity) by sc2ad : An IL2CPP Dumper that dumps all types into classes that can support reading and writing from .assets files.
 
 [MemDumper](https://github.com/kp7742/MemDumper) by kp7742 : Dump Memory of Process in Android.
 
@@ -56,3 +21,35 @@ List below is about Dumpers and Unpackers:
 [DexHunter](https://github.com/zyq8709/DexHunter) by zyq8709 : General Automatic Unpacking Tool for Android Dex Files.
 
 [dexdump](https://github.com/smartdone/dexdump) by smartdone : Xposed plug-in for quick release of the first generation shell.
+
+# List below is about IL2CPP Dumpers and Unpackers:
+
+[Beebyte-Deobfuscator](https://github.com/OsOmE1/Beebyte-Deobfuscator) by OsOmE1 : A plugin for Il2CppInspector that performs quasi deobfuscation.
+
+[Compiled-Beeless-BeeByte-DeObfuscator](https://github.com/SliceCast/Compiled-Beeless-BeeByte-DeObfuscator) by SliceCast : Compiled Beeless BeeByte deobfuscator.
+
+[Dumpity](https://github.com/sc2ad/Dumpity) by sc2ad : An IL2CPP Dumper that dumps all types into classes that can support reading and writing from .assets files.
+
+[Il2CppDumper GUI](https://github.com/AndnixSH/Il2CppDumper-GUI) by AndnixSH : Simple GUI version of Il2CppDumper
+
+[Il2CppDumper YuanShen](https://github.com/kagurazakasanae/Il2CppDumper-YuanShen) by kagurazakasanae : Modified version of Il2CppDumper allows you to dump methods of UserAssembly.dll of the game Genshin Impact.
+
+[Il2CppDumper-HI3](https://github.com/AndnixSH/Il2CppDumper-HI3) by AndnixSH : Modified Il2CppDumper which can decrypt and dump Honkai Impact 3rd games.
+
+[Il2CppDumper](https://github.com/Perfare/Il2CppDumper) by Perfare : An il2cpp dumper.
+
+[Il2CppDumper](https://github.com/Jumboperson/Il2CppDumper) by Jumboperson : Better version of PokemonGoDumper.
+
+[Il2CppInspector](https://github.com/djkaty/Il2CppInspector) by djkaty : A powerful automated tool for reverse engineering Unity IL2CPP binaries.
+
+[Il2CppInspectorPlugins](https://github.com/djkaty/Il2CppInspectorPlugins) by djkaty : The official repository of plugins for Il2CppInspector.
+
+[Il2CppTranslator](https://github.com/BitCrackers/Il2CppTranslator) by BitCrackers : A library to help make deobfuscation plugins for Il2CppInspector.
+
+[Riru-Il2CppDumper](https://github.com/Perfare/Riru-Il2CppDumper) by Perfare : Using Riru to dump il2cpp data at runtime.
+
+# List below is about Unreal Dumpers and Unpackers:
+
+[UE4Dumper](https://github.com/kp7742/UE4Dumper) by kp7742 : Unreal Engine 4 Dumper - Dump libUE4.so and Generate Structure SDK.
+
+[UnrealDumper-4.25](https://github.com/guttir14/UnrealDumper-4.25) by guttir14 : Unreal Engine 4.23-4.27 Dumper.

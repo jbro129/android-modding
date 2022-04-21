@@ -1,6 +1,6 @@
 ## Modding Tools
 
-#List below is about APK Modding Tools:
+# List below is about APK Modding Tools:
 
 APKTools/DEX-Disassemblers:
 
@@ -15,8 +15,6 @@ APKTools/DEX-Disassemblers:
 [apktoolAndroid](https://github.com/vfishv/apktoolAndroid) by vfishv : Apktool on Android.
 
 [ApktoolFX](https://github.com/oscar0812/ApktoolFX) by oscar0812 : A GUI for Apktool to make reverse engineering of android apps a breeze.
-
-[AutoAPKTool](https://github.com/TheArmKing/AutoAPKTool) by TheArmKing : A bash based script that helps you decompile, recompile, signs apks.
 
 [raung](https://github.com/skylot/raung) by skylot : Assembler/disassembler for java bytecode.
 
@@ -47,8 +45,6 @@ Deobfuscator:
 [simplify](https://github.com/CalebFenton/simplify) by CalebFenton : Android virtual machine and deobfuscator.
 
 Signature Tools:
-
-[CS-APKSignReader](https://github.com/aimardcr/CS-APKSignReader) by aimardcr : Windows C# version of APKSignReader.
 
 [ApkSignatureKiller](https://github.com/L-JINBIN/ApkSignatureKiller) by L-JINBIN : One-click cracking APK signature verification.
 
@@ -94,10 +90,7 @@ Other Tools:
 
 [XAPKDetector](https://github.com/horsicq/XAPKDetector) by horsicq : APK/DEX detector for Windows, Linux and MacOS.
 
-#List below is about Lib Modding Tools:
-
-
-#List below is about Unity/IL2CPP Modding Tools:
+# List below is about Unity/IL2CPP Modding Tools:
 
 
 [Unitor](https://github.com/BitCrackers/Unitor) by BitCrackers : A tool for analyzing and disassembling any unity game. Supports both mono and il2cpp.
@@ -119,7 +112,7 @@ Patching:
 [libil2cpp Patcher](https://github.com/T5ive/libil2cpp-Patcher) by T5ive : A tool that makes hex editing easier.
 
 
-#To Sort:
+# To Sort/check:
 
 [b00m h3adsh0t](https://github.com/lucylow/b00m-h3adsh0t) by lucylow : Computer Vision Game Development. Neural Network Configurable Aimbot for FPS games with custom training mode.
 
