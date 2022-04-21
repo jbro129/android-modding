@@ -1,6 +1,6 @@
 ## C++ Libraries
 
-# List below is about C++Libs:
+# List below is about general C++Libs:
 
 
 [KittyMemory](https://github.com/MJx0/KittyMemory) by MJx0 : This library aims for runtime code patching for both Android and iOS.
