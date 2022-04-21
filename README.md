@@ -16,7 +16,7 @@ A collection of github repositories related to android modding.
  - [Hooking Libraries and Templates](https://github.com/jbro129/android-modding#hooking-libraries-and-templates)
  - [Modding Projects and Tutorials](https://github.com/jbro129/android-modding#modding-projects-and-tutorials)
  - [Modding Tools](https://github.com/jbro129/android-modding#modding-tools)
- - [IDA](https://github.com/jbro129/android-modding#IDA)
+ - [IDA and Reverse-Engineering Platforms](https://github.com/jbro129/android-modding#ida-and-reverse-engineering-platforms)
  - [Frida](https://github.com/jbro129/android-modding#frida)
  - [Virtual Engines](https://github.com/jbro129/android-modding#virtual-engines)
  - [Other](https://github.com/jbro129/android-modding#other)
@@ -587,7 +587,7 @@ A collection of github repositories related to android modding.
 [Tool-Converter-ASCII](https://github.com/MikaCybertron/Tool-Converter-ASCII) by MikaCybertron : Offline tool to Converter ASCII to Decimal & Decimal to ASCII.
 
 
-# IDA / reverse-engineering platforms
+# IDA and Reverse-Engineering Platforms
 
 
 [IDA-Pro-Leak](https://github.com/IDALeaker/IDA-Pro-Leak) by IDALeaker : Since the original ida pro leak repo got deleted, I decided to upload them here! Enjoy!
