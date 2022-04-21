@@ -2,11 +2,11 @@
 
 # List below is about Frida and general plugins:
 
-Frida:
+**Frida:**
 
 [frida](https://github.com/frida/frida) by frida : A dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
-Extensions:
+**Extensions:**
 
 [android-inject-custom](https://github.com/oleavr/android-inject-custom) by oleavr : Example showing how to use Frida for standalone injection of a custom payload.
 
