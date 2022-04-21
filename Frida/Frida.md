@@ -1,6 +1,6 @@
-## Frida
+# Frida
 
-# List below is about Frida and general plugins:
+## List below is about Frida and general plugins:
 
 **Frida:**
 
@@ -34,7 +34,7 @@
 
 [r2frida](https://github.com/nowsecure/r2frida) by nowsecure : Radare2 and Frida better together.
 
-# List below is about IL2CPP for Frida:
+## List below is about IL2CPP for Frida:
 
 [Frida Il2cpp](https://github.com/AeonLucid/frida-il2cpp) by AeonLucid : A helper library for those that want to play around with Unity il2cpp games.
 
