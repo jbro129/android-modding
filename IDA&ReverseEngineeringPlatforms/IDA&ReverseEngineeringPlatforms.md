@@ -1,8 +1,8 @@
-## IDA / reverse-engineering platforms
+# IDA / reverse-engineering platforms
 
-#List below is about IDA & reverse-engineering platforms:
+## List below is about IDA & reverse-engineering platforms:
 
-Actual Software to download.
+**Actual Software to download.**
 
 
 [cutter](https://github.com/rizinorg/cutter) by rizinorg : It aims at being an advanced and customizable reverse engineering platform while keeping the user experience in mind. Cutter is created by reverse engineers for reverse engineers.
@@ -12,7 +12,7 @@ Actual Software to download.
 [IDA-Pro-Leak](https://github.com/IDALeaker/IDA-Pro-Leak) by IDALeaker : Since the original ida pro leak repo got deleted, I decided to upload them here! Enjoy!
 
 
-#List about Plugins for IDA Pro: 
+## List about Plugins for IDA Pro: 
 
 [diaphora](https://github.com/joxeankoret/diaphora) by joxeankoret : IDA advanced program diffing tool plugin.
 
@@ -38,10 +38,10 @@ Actual Software to download.
 
 [lucid](https://github.com/gaasedelen/lucid) by gaasedelen : An Interactive Hex-Rays Microcode Explorer.
 
-#List of Tools for IDA:
+## List of Tools for IDA:
 
 [Get-New-Offset-with-Pattern-Scan](https://github.com/MikaCybertron/Get-New-Offset-with-Pattern-Scan) by MikaCybertron : Tool to get new offsets with pattern scan for those who don't want to open IDA multiple times for games.
 
-#List of Themes for IDA:
+## List of Themes for IDA:
 
 [pr701](https://github.com/pr701/dp701) by dp701 : Dark theme for IDA Pro.
