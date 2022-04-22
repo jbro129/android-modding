@@ -85,6 +85,8 @@ A collection of github repositories related to android modding.
 
 [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) by Perfare : An il2cpp dumper.
 
+[Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) by Perfare : Using Zygisk to dump il2cpp data at runtime.
+
 [Riru-Il2CppDumper](https://github.com/Perfare/Riru-Il2CppDumper) by Perfare : Using Riru to dump il2cpp data at runtime.
 
 [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) by djkaty : A powerful automated tool for reverse engineering Unity IL2CPP binaries.
@@ -193,6 +195,8 @@ A collection of github repositories related to android modding.
 [KittyMemory](https://github.com/MJx0/KittyMemory) by MJx0 : This library aims for runtime code patching for both Android and iOS.
 
 [ByNameModding](https://github.com/geokar2006/ByNameModding) by geokar2006 : Modding il2cpp games by classes, methods, fields names.
+
+[IL2CPP_Resolver](https://github.com/sneakyevilSK/IL2CPP_Resolver) by sneakyevilSK : A run-time API resolver for IL2CPP Unity.
 
 [il2cpp-hacking](https://github.com/Octowolve/il2cpp-hacking) by Octowolve : POC for modding il2cpp using il2cpp functions.
 
@@ -417,6 +421,8 @@ A collection of github repositories related to android modding.
 [dnSpy.Extension.HoLLy](https://github.com/HoLLy-HaCKeR/dnSpy.Extension.HoLLy) by HoLLy-HaCKeR : A dnSpy extension to aid reversing of obfuscated assemblies.
 
 [Apktool](https://github.com/iBotPeaches/Apktool) by iBotPeaches : A tool for reverse engineering Android apk files.
+
+[APKToolGUI](https://github.com/AndnixSH/APKToolGUI) by AndnixSH : GUI for apktool, signapk, zipalign and baksmali utilities.
 
 [ApkEasyTool](https://forum.xda-developers.com/t/tool-windows-apk-easy-tool-v1-59-2-2021-04-03.3333960/) by evildog1 : lightweight ApkTool-GUI with many features and adb-support (like adb install).
 
