@@ -7,7 +7,7 @@ A collection of github repositories related to android modding.
 - [x] Add descriptions for each project 
 - [ ] Remove unusable projects and duplicates from the list (*in progress*)
 - [X] Make everything look nicer
-- [ ] Sort stuff Metzger100 didn't know where to put
+- [ ] Sort stuff miscellaneous projects in moddingtools
 - [ ] Set Links in the Categories-Index of README.md
 
 # Categories
