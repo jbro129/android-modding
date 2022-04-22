@@ -114,7 +114,7 @@
 
 [libil2cpp Patcher](https://github.com/T5ive/libil2cpp-Patcher) by T5ive : A tool that makes hex editing easier.
 
-## Metzger100 doesn't know where to put:
+## miscellaneous projects (to be sorted and categorized): 
 
 [android-modding-tools](https://github.com/jbro129/android-modding-tools) by jbro129 : An android modding tool dump repo.
 
