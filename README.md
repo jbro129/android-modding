@@ -440,6 +440,8 @@ A collection of github repositories related to android modding.
 
 [IL2CPPDumper](https://github.com/kp7742/IL2CPPDumper) by kp7742 : Dump Lib libil2cpp.so from Memory of Game Process and Generate structure dump.cs.
 
+[Il2CppDumper-Linux](https://github.com/BryanGIG/Il2CppDumper-Linux) by BryanGIG : Unity il2cpp reverse engineer [Linux] .
+
 [ARM-Converter](https://github.com/MikaCybertron/ARM-Converter) by MikaCybertron : Offline ARM64, ARM, and THUMB instruction to hex converter.
 
 [Get-New-Offset-with-Pattern-Scan](https://github.com/MikaCybertron/Get-New-Offset-with-Pattern-Scan) by MikaCybertron : Tool to get new offsets with pattern scan for those who don't want to open IDA multiple times for games.
@@ -458,7 +460,11 @@ A collection of github repositories related to android modding.
 
 [APK Medit](https://github.com/aktsk/apk-medit) by aktsk : A memory search and patch tool on debuggable apk without root & ndk.
 
+[android-memorytool](https://github.com/Anonym0usWork1221/android-memorytool) by Anonym0usWork1221 : Android Memory Tools written in python for RAM data reading and writing process of android and linux os's.
+
 [Pubg-Memory-Dumper](https://github.com/sahilbisla/Pubg-Memory-Dumper) by sahilbisla : A memory dumper for making ESP for pubg mobile.
+
+[AGTool](https://github.com/FateHack/AGTool) by FateHack : Dump so file or il2cpp global-metadata.dat. Inline hook and modify libs by offset during runtime..
 
 [Dexter](https://github.com/MikeAndrson/Dexter) by MikeAndrson : A WIP advanced DEX editor for Android.
 
@@ -528,9 +534,11 @@ A collection of github repositories related to android modding.
 
 [UtinyRipper](https://github.com/mafaca/UtinyRipper) by mafaca : GUI and API library to work with Engine assets, serialized and bundle files.
 
-[APKSignReader](https://github.com/aimardcr/APKSignReader) by aimardcr : Android Application to read installed application signature and dump it as Base64 or C++ format.
+[APKSignReader](https://github.com/aimardcr/APKSignReader) by aimardcr : Android Application to read installed application signature and dump it as Base64 or C++ format for APKKiller.
 
 [CS-APKSignReader](https://github.com/aimardcr/CS-APKSignReader) by aimardcr : Windows C# version of APKSignReader.
+
+[APKSignReader-Java](https://github.com/AndnixSH/APKSignReader-Java) by AndnixSH : A modified apksig tool to read signature from an APK file supporting signature scheme v1 and up to v4 for APKKiller.
 
 [APKiD](https://github.com/rednaga/APKiD) by rednaga : Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android.
 
