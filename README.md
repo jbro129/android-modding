@@ -11,46 +11,46 @@ A collection of github repositories related to android modding.
 - [ ] Set Links in the Categories-Index of README.md
 
 # Categories
-- Mod Menu Templates
+- [Mod Menu Templates](https://github.com/jbro129/android-modding/blob/main/ModMenuTemplates.md)
 
-- Dumping and Unpacking
-  - Dumpers and Unpackers
-  - IL2CPP Dumpers and Unpackers
-  - Unreal Dumpers and Unpackers
+- [Dumping and Unpacking](https://github.com/jbro129/android-modding/blob/main/Dumpers&Unpackers.md)
+  - [Dumpers and Unpackers](https://github.com/jbro129/android-modding/blob/main/Dumpers&Unpackers.md#list-below-is-about-dumpers-and-unpackers)
+  - [IL2CPP Dumpers and Unpackers](https://github.com/jbro129/android-modding/blob/main/Dumpers&Unpackers.md#list-below-is-about-il2cpp-dumpers-and-unpackers)
+  - [Unreal Dumpers and Unpackers](https://github.com/jbro129/android-modding/blob/main/Dumpers&Unpackers.md#list-below-is-about-unreal-dumpers-and-unpackers#list-below-is-about-obfuscatorsencryptors)
 
-- Packing and Protection
-  - Obfuscators/Encryptors
-  - other Protection Tools
+- [Packing and Protection](https://github.com/jbro129/android-modding/blob/main/Packers&Protectors.md)
+  - [Obfuscators/Encryptors](https://github.com/jbro129/android-modding/blob/main/Packers&Protectors.md#list-below-is-about-obfuscatorsencryptors)
+  - [other Protection Tools](https://github.com/jbro129/android-modding/blob/main/Packers&Protectors.md#list-below-is-about-other-protection-tools)
 
-- C++ Libraries
-  - C++Libs
-  - IL2CPP/Unity
+- [C++ Libraries](https://github.com/jbro129/android-modding/blob/main/C++Libraries.md)
+  - [C++Libs](https://github.com/jbro129/android-modding/blob/main/C++Libraries.md#list-below-is-about-general-clibs)
+  - [IL2CPP/Unity](https://github.com/jbro129/android-modding/blob/main/C++Libraries.md#list-below-is-about-il2cppunity)
 
-- Frida
-  - Frida and general plugins
-  - IL2CPP for Frida
+- [Frida](https://github.com/jbro129/android-modding/blob/main/Frida.md)
+  - [Frida and general plugins](https://github.com/jbro129/android-modding/blob/main/Frida.md#list-below-is-about-frida-and-general-plugins)
+  - [IL2CPP for Frida](https://github.com/jbro129/android-modding/blob/main/Frida.md#list-below-is-about-il2cpp-for-frida)
 
-- Hooking Libraries and Templates
-  - Android Hooking Libs and Tools
-  - general Hooking Libs
-  - Hooking Templates
+- [Hooking Libraries and Templates](https://github.com/jbro129/android-modding/blob/main/HookingLibs&Templates.md)
+  - [Android Hooking Libs and Tools](https://github.com/jbro129/android-modding/blob/main/HookingLibs&Templates.md#list-below-is-about-android-hooking-libs-and-tools)
+  - [general Hooking Libs](https://github.com/jbro129/android-modding/blob/main/HookingLibs&Templates.md#list-below-is-about-general-hooking-libs)
+  - [Hooking Templates](https://github.com/jbro129/android-modding/blob/main/HookingLibs&Templates.md#list-below-is-about-hooking-templates)
 
-- Modding Projects and Tutorials
-  - Mod Menu Projects
-  - Modding Projects
-  - Modding Tutorials
+- [Modding Projects and Tutorials](https://github.com/jbro129/android-modding/blob/main/ModdingProjects&Tutorials.md)
+  - [Mod Menu Projects](https://github.com/jbro129/android-modding/blob/main/ModdingProjects&Tutorials.md#list-below-is-about-mod-menu-projects)
+  - [Modding Projects](https://github.com/jbro129/android-modding/blob/main/ModdingProjects&Tutorials.md#list-below-is-about-modding-projects)
+  - [Modding Tutorials](https://github.com/jbro129/android-modding/blob/main/ModdingProjects&Tutorials.md#list-below-is-about-modding-tutorials)
 
-- Modding Tools
-  - APK Modding Tools
-  - Unity/IL2CPP Modding Tools
-  - Metzger100 doesn't know where to put
+- [Modding Tools](https://github.com/jbro129/android-modding/blob/main/ModdingTools.md)
+  - [APK Modding Tools](https://github.com/jbro129/android-modding/blob/main/ModdingTools.md#list-below-is-about-apk-modding-tools)
+  - [Unity/IL2CPP Modding Tools](https://github.com/jbro129/android-modding/blob/main/ModdingTools.md#list-below-is-about-unityil2cpp-modding-tools)
+  - [miscellaneous projects (to be sorted and categorized)](https://github.com/jbro129/android-modding/blob/main/ModdingTools.md#miscellaneous-projects-to-be-sorted-and-categorized)
 
-- IDA & reverse-engineering platforms
-  - Actual Software
-  - Plugins for IDA Pro
-  - Tools for IDA
-  - Themes for IDA
+- [IDA & reverse-engineering platforms](https://github.com/jbro129/android-modding/blob/main/IDA&ReverseEngineeringPlatforms.md)
+  - [Actual Software](https://github.com/jbro129/android-modding/blob/main/IDA&ReverseEngineeringPlatforms.md#list-below-is-about-ida--reverse-engineering-platforms)
+  - [Plugins for IDA Pro](https://github.com/jbro129/android-modding/blob/main/IDA&ReverseEngineeringPlatforms.md#list-about-plugins-for-ida-pro)
+  - [Tools for IDA](https://github.com/jbro129/android-modding/blob/main/IDA&ReverseEngineeringPlatforms.md#list-of-tools-for-ida)
+  - [Themes for IDA](https://github.com/jbro129/android-modding/blob/main/IDA&ReverseEngineeringPlatforms.md#list-of-themes-for-ida)
 
-- Other
-  - other android stuff
-  - other stuff
+- [Other](https://github.com/jbro129/android-modding/blob/main/Other.md)
+  - [other android stuff](https://github.com/jbro129/android-modding/blob/main/Other.md#list-below-is-about-other-android-stuff)
+  - [other stuff](https://github.com/jbro129/android-modding/blob/main/Other.md#list-below-is-about-other-stuff)
