@@ -1,4 +1,4 @@
-# IDA / reverse-engineering platforms
+# IDA & reverse-engineering platforms
 
 ## List below is about IDA & reverse-engineering platforms:
 
