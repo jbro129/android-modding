@@ -50,13 +50,17 @@
 
 [ApkSignatureKiller](https://github.com/L-JINBIN/ApkSignatureKiller) by L-JINBIN : One-click cracking APK signature verification.
 
-[APKSignReader](https://github.com/aimardcr/APKSignReader) by aimardcr : Android Application to read installed application signature and dump it as Base64 or C++ format.
+[APKSignReader](https://github.com/aimardcr/APKSignReader) by aimardcr : Android Application to read installed application signature and dump it as Base64 or C++ format for APKKiller.
+
+[APKSignReader-Java](https://github.com/AndnixSH/APKSignReader-Java) by AndnixSH : A modified apksig tool to read signature from an APK file supporting signature scheme v1 and up to v4 for APKKiller.
 
 **Other Tools/Plugins:**
 
 [android-https-patcher](https://github.com/rlxone/android-https-patcher) by rlxone : Patch android apps to allow https traffic sniffing/packet capturing.
 
 [Android-Mem-Edit](https://github.com/mrcang09/Android-Mem-Edit) by mrcang09 : Android memory plug-in, a memory modification tool for application processes.
+
+[android-memorytool](https://github.com/Anonym0usWork1221/android-memorytool) by Anonym0usWork1221 : Android Memory Tools written in python for RAM data reading and writing process of android and linux os's.
 
 [android-ssl-pinning-bypass](https://github.com/ilya-kozyr/android-ssl-pinning-bypass) by ilya-kozyr : Script to patch apk to allow HTTPS traffic inspection and SSL pinning.
 
@@ -116,6 +120,8 @@
 
 ## miscellaneous projects (to be sorted and categorized): 
 
+[AGTool](https://github.com/FateHack/AGTool) by FateHack : Dump so file or il2cpp global-metadata.dat. Inline hook and modify libs by offset during runtime..
+
 [android-modding-tools](https://github.com/jbro129/android-modding-tools) by jbro129 : An android modding tool dump repo.
 
 [apk-mitm](https://github.com/shroudedcode/apk-mitm) by shroudedcode : A CLI application that automatically prepares Android APK files for HTTPS inspection.
@@ -153,6 +159,8 @@
 [Il2Cpp Modding Codegen](https://github.com/sc2ad/Il2Cpp-Modding-Codegen) by sc2ad : Generates code that can be built into a shared library for Il2Cpp modding.
 
 [Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower) by knah : A tool to generate Managed->IL2CPP proxy assemblies.
+
+[Il2CppDumper-Linux](https://github.com/BryanGIG/Il2CppDumper-Linux) by BryanGIG : Unity il2cpp reverse engineer [Linux].
 
 [Il2CppDumperTool](https://github.com/axhlzy/Il2CppDumperTool) by axhlzy : A tool to batch breakpoint functions of libil2cpp.so.
 
