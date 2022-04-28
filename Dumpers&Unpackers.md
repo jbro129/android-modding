@@ -48,6 +48,8 @@
 
 [Riru-Il2CppDumper](https://github.com/Perfare/Riru-Il2CppDumper) by Perfare : Using Riru to dump il2cpp data at runtime.
 
+[Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) by Perfare : Using Zygisk to dump il2cpp data at runtime.
+
 ## List below is about Unreal Dumpers and Unpackers:
 
 [UE4Dumper](https://github.com/kp7742/UE4Dumper) by kp7742 : Unreal Engine 4 Dumper - Dump libUE4.so and Generate Structure SDK.
