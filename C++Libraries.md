@@ -20,6 +20,8 @@
 
 [il2cpp_mono_string](https://github.com/geokar2006/il2cpp_mono_string) by geokar2006 : Working il2cpp(mono) string for hacking unity il2cpp games.
 
+[IL2CPP_Resolver](https://github.com/sneakyevilSK/IL2CPP_Resolver) by sneakyevilSK : A run-time API resolver for IL2CPP Unity.
+
 [IL2CppResolver](https://github.com/MJx0/IL2CppResolver) by  : Resolve il2cpp calls for internal unity engine functions.
 
 [ImGui-Text-Marquee](https://github.com/Rev/ImGui-Text-Marquee) by Rev : An easy way to make a text marquee using ImGui.
