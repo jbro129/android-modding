@@ -16,6 +16,8 @@
 
 [ApktoolFX](https://github.com/oscar0812/ApktoolFX) by oscar0812 : A GUI for Apktool to make reverse engineering of android apps a breeze.
 
+[APKToolGUI](https://github.com/AndnixSH/APKToolGUI) by AndnixSH : GUI for apktool, signapk, zipalign and baksmali utilities.
+
 [ApkToolPlus](https://github.com/linchaolong/ApkToolPlus) by linchaolong : An apk reverse analysis tool (a apk analysis tools).
 
 [raung](https://github.com/skylot/raung) by skylot : Assembler/disassembler for java bytecode.
