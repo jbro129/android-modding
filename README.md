@@ -117,6 +117,8 @@ A collection of github repositories related to android modding.
 
 [LibDumper](https://github.com/BryanGIG/LibDumper) by BryanGIG : APK For Dumping Memory libil2cpp.so / libUE4.so from memory.
 
+[Mem2Dumper](https://github.com/Goxome/Mem2Dumper) by Goxome : Dump Memory Segment From Process Memory and Rebuild ELF So Binaries.
+
 [BlackDex](https://github.com/CodingGay/BlackDex) by CodingGay : An android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment, can run on any Android mobile phones or emulators, and can unpack APK files in several seconds.
 
 [Dumpity](https://github.com/sc2ad/Dumpity) by sc2ad : An IL2CPP Dumper that dumps all types into classes that can support reading and writing from .assets files.
@@ -498,6 +500,8 @@ A collection of github repositories related to android modding.
 
 [AssetRipper](https://github.com/ds5678/AssetRipper) by ds5678 : GUI and API library to work with Engine assets, serialized and bundle files.
 
+[UnityPy](https://github.com/K0lb3/UnityPy) by K0lb3 : A python module that makes it possible to extract/unpack and edit Unity assets.
+
 [AssetStudio](https://github.com/djkaty/AssetStudio) by djkaty : A tool for exploring, extracting and exporting assets and assetbundles.
 
 [UnrealPakTool](https://github.com/allcoolthingsatoneplace/UnrealPakTool) by allcoolthingsatoneplace : A tool that can extract .pak files for Unreal Engine 4.
@@ -624,6 +628,8 @@ A collection of github repositories related to android modding.
 
 [Il2CppParser](https://github.com/tacesrever/Il2CppParser) by tacesrever : libil2cpp symbol parser for ida.
 
+[FindFunc](https://github.com/FelixBer/FindFunc) by FelixBer : An IDA Pro plugin to find code functions that contain a certain assembly or byte pattern, reference a certain name or string, or conform to various other constraints.
+
 [diaphora](https://github.com/joxeankoret/diaphora) by joxeankoret : IDA advanced program diffing tool plugin.
 
 [patching](https://github.com/gaasedelen/patching) by gaasedelen : An Interactive Binary Patching Plugin for IDA Pro.
@@ -633,6 +639,8 @@ A collection of github repositories related to android modding.
 [sigmakerex](https://github.com/kweatherman/sigmakerex) by kweatherman : IDA Pro signature tool.
 
 [HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) by REhints : Hex-Rays Decompiler plugin for better code navigation.
+
+[Classy](https://github.com/RicBent/Classy) by RicBent : IDA Pro plugin to manage classes.
 
 [pr701](https://github.com/pr701/dp701) by dp701 : Dark theme for IDA Pro.
 
@@ -735,6 +743,8 @@ A collection of github repositories related to android modding.
 [Deobfuscated-Il2cpp-Android-Games](https://github.com/SliceCast/Deobfuscated-Il2cpp-Android-Games) by SliceCast : Some de-obfuscated il2cpp game dumps.
 
 [androidMemHack](https://github.com/gooooloo/androidMemHack) by gooooloo : read and write a memory value of other process.
+
+[AndroidPtraceInject](https://github.com/SsageParuders/AndroidPtraceInject) by SsageParuders : Android Ptrace Inject for all ABIs and all APIs.
 
 [injector](https://github.com/flysands/injector) by flysands : android so injector.
 
