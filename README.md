@@ -160,6 +160,8 @@ A collection of github repositories related to android modding.
 
 [AntiDebugandMemoryDump](https://github.com/darvincisec/AntiDebugandMemoryDump) by darvincisec : Anti-Debug and Anti-Memory Dump for Android.
 
+[stopdecompilingmyjava](https://github.com/ItzSomebody/stopdecompilingmyjava) by ItzSomebody : Tricks against mainstream reverse-engineering tools for Java.
+
 [DetectFrida](https://github.com/darvincisec/DetectFrida) by darvincisec : Detect Frida for Android.
 
 [Oo0Proguard](https://github.com/L-JINBIN/Oo0Proguard) by L-JINBIN : Modified version of Proguard, the obfuscated class name is Oo0 combination.
@@ -216,6 +218,8 @@ A collection of github repositories related to android modding.
 
 [UnityStuff](https://github.com/kp7742/UnityStuff) by kp7742 : A collection of structs and other useful things for hacking 64 bit iOS Unity games.
 
+[Emulator-Android-External-Memory-Hacking](https://github.com/Mst1k/Emulator-Android-External-Memory-Hacking) by Mst1k : android process/memory library root.
+
 [XIL2CppDumper](https://github.com/4ch12dy/XIL2CppDumper) by 4ch12dy : IL2CppDumper written in C++.
 
 [NativeIORedirect](https://github.com/dolphinwang/NativeIORedirect) by dolphinwang : Native IO Redirect implementation for Android.
@@ -267,6 +271,8 @@ A collection of github repositories related to android modding.
 [VirtualHook_Mono_SO](https://github.com/cjyanyi/VirtualHook_Mono_SO) by cjyanyi : Unity .apk hooking demo based on VirtualApp.
 
 [FastHook](https://github.com/turing-technician/FastHook) by turing-technician : Android ART Hook.
+
+[DInlineHook](https://github.com/dodola/DInlineHook) by dodola : Simple art inline hook .
 
 [MonoNativeHook](https://github.com/FateHack/MonoNativeHook) by FateHack : Hook image.namespace.class.method.
 
@@ -343,6 +349,8 @@ A collection of github repositories related to android modding.
 [Telekill](https://github.com/Rednick16/Telekill) by Rednick16 : Source code for Telekill peeps.
 
 [ESP Source](https://github.com/busmanl30/ESP-Source) by busmanl30 : ESP Lines and Source.
+
+[Among-Us-Android-ESP](https://github.com/Rev/Among-Us-Android-ESP) by Rev : A basic ESP for the game 'Among Us', made specifically for Android. .
 
 [esp-source-code-for-ios](https://github.com/MobeanIM/esp-source-code-for-ios) by MobeanIM : This esp code is for a box around the enemy, snap lines, distance numbers, and health bars.
 
@@ -502,6 +510,8 @@ A collection of github repositories related to android modding.
 
 [UnityPy](https://github.com/K0lb3/UnityPy) by K0lb3 : A python module that makes it possible to extract/unpack and edit Unity assets.
 
+[AssetBundleDecompressor](https://github.com/lujian101/AssetBundleDecompressor) by lujian101 : Unity AssetBundle decompress library in C.
+
 [AssetStudio](https://github.com/djkaty/AssetStudio) by djkaty : A tool for exploring, extracting and exporting assets and assetbundles.
 
 [UnrealPakTool](https://github.com/allcoolthingsatoneplace/UnrealPakTool) by allcoolthingsatoneplace : A tool that can extract .pak files for Unreal Engine 4.
@@ -632,6 +642,8 @@ A collection of github repositories related to android modding.
 
 [diaphora](https://github.com/joxeankoret/diaphora) by joxeankoret : IDA advanced program diffing tool plugin.
 
+[proc_mem_ida_loader](https://github.com/gamozolabs/proc_mem_ida_loader) by gamozolabs : A /proc/mem IDA loader to snapshot a running process.
+
 [patching](https://github.com/gaasedelen/patching) by gaasedelen : An Interactive Binary Patching Plugin for IDA Pro.
 
 [flare-ida](https://github.com/mandiant/flare-ida) by mandiant : IDA Pro utilities from FLARE team.
@@ -691,6 +703,8 @@ A collection of github repositories related to android modding.
 [VirtualApp](https://github.com/2-young-2-simple/VirtualApp) by 2-young-2-simple : VirtualApp With Compatibility Of Android 10/11/12.
 
 [VirtualApp](https://github.com/ServenScorpion/VirtualApp) by ServenScorpion : VirtualApp that supports android 11 application clone, simulated device, simulated wifi, virtual multi-open, Dingding punch card, enterprise micro punch card, plug-in development, XP plug-in, simulated user operation, java hook, c++ hook.
+
+[OpenVirtualApp](https://github.com/AmySama/OpenVirtualApp) by AmySama : A virtualapp source code project by EA-Reopen. 
 
 [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) by singwhatiwanna : DL: dynamic load framework in android.
 
