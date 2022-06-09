@@ -14,6 +14,8 @@
 
 ## List about Plugins for IDA Pro: 
 
+[Classy](https://github.com/RicBent/Classy) by RicBent : IDA Pro plugin to manage classes.
+
 [diaphora](https://github.com/joxeankoret/diaphora) by joxeankoret : IDA advanced program diffing tool plugin.
 
 [FindFunc](https://github.com/FelixBer/FindFunc) by FelixBer : An IDA Pro plugin to find code functions that contain a certain assembly or byte pattern, reference a certain name or string, or conform to various other constraints.
