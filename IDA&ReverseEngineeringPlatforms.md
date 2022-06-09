@@ -16,6 +16,8 @@
 
 [diaphora](https://github.com/joxeankoret/diaphora) by joxeankoret : IDA advanced program diffing tool plugin.
 
+[FindFunc](https://github.com/FelixBer/FindFunc) by FelixBer : An IDA Pro plugin to find code functions that contain a certain assembly or byte pattern, reference a certain name or string, or conform to various other constraints.
+
 [flare-ida](https://github.com/mandiant/flare-ida) by mandiant : IDA Pro utilities from FLARE team.
 
 [GhIDA](https://github.com/Cisco-Talos/GhIDA) by Cisco-Talos : An IDA Pro plugin that integrates the Ghidra decompiler in IDA.
