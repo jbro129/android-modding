@@ -56,6 +56,8 @@
 
 [8 Ball Pool](https://github.com/jonathansilva/8BallPool) by jonathansilva : 2020 - 8 Ball Pool Guideline Hack.
 
+[Among-Us-Android-ESP](https://github.com/Rev/Among-Us-Android-ESP) by Rev : A basic ESP for the game 'Among Us', made specifically for Android.
+
 [beatsaber-hook](https://github.com/sc2ad/beatsaber-hook) by sc2ad : POC for oculus quest beatsaber function hooking (il2cpp).
 
 [Bullet-Force-Hack-Source](https://github.com/Ioopen/Bullet-Force-Hack-Source) by Ioopen : Telekill for the game called Bullet Force.
