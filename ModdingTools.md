@@ -134,6 +134,8 @@
 
 [AsmResolver](https://github.com/Washi1337/AsmResolver) by Washi1337 : A library for editing PE files with full .NET metadata support.
 
+[AssetBundleDecompressor](https://github.com/lujian101/AssetBundleDecompressor) by lujian101 : Unity AssetBundle decompress library in C.
+
 [AssetRipper](https://github.com/ds5678/AssetRipper) by ds5678 : GUI and API library to work with Engine assets, serialized and bundle files.
 
 [AssetStudio](https://github.com/Perfare/AssetStudio) by Perfare : A tool for exploring, extracting and exporting assets and assetbundles.
