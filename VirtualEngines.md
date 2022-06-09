@@ -22,6 +22,8 @@
 
 [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) by singwhatiwanna : DL: dynamic load framework in android.
 
+[OpenVirtualApp](https://github.com/AmySama/OpenVirtualApp) by AmySama : A virtualapp source code project by EA-Reopen. 
+
 [RePlugin](https://github.com/Qihoo360/RePlugin) by Qihoo360 : A flexible, stable, easy-to-use Android Plug-in Framework.
 
 [SandBoxHookPlugin](https://github.com/ganyao114/SandBoxHookPlugin) by ganyao114 : demo for inject & hook in sandbox.
