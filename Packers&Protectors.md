@@ -47,3 +47,5 @@
 [AntiDebugandMemoryDump](https://github.com/darvincisec/AntiDebugandMemoryDump) by darvincisec : Anti-Debug and Anti-Memory Dump for Android.
 
 [DetectFrida](https://github.com/darvincisec/DetectFrida) by darvincisec : Detect Frida for Android.
+
+[stopdecompilingmyjava](https://github.com/ItzSomebody/stopdecompilingmyjava) by ItzSomebody : Tricks against mainstream reverse-engineering tools for Java.
