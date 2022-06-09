@@ -36,6 +36,8 @@
 
 [patching](https://github.com/gaasedelen/patching) by gaasedelen : An Interactive Binary Patching Plugin for IDA Pro.
 
+[proc_mem_ida_loader](https://github.com/gamozolabs/proc_mem_ida_loader) by gamozolabs : A /proc/mem IDA loader to snapshot a running process.
+
 [SigMaker-x64](https://github.com/ajkhoury/SigMaker-x64) by ajkhoury : IDA SigMaker Plugin.
 
 [sigmakerex](https://github.com/kweatherman/sigmakerex) by kweatherman : IDA Pro signature tool.
