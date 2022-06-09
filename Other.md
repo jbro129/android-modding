@@ -14,6 +14,8 @@
 
 [androidMemHack](https://github.com/gooooloo/androidMemHack) by gooooloo : read and write a memory value of other process.
 
+[AndroidPtraceInject](https://github.com/SsageParuders/AndroidPtraceInject) by SsageParuders : Android Ptrace Inject for all ABIs and all APIs.
+
 [APKDL](https://github.com/TheArmKing/APKDL) by TheArmKing : Download APKs in command line.
 
 [apkeep](https://github.com/EFForg/apkeep) by EFForg : A command-line tool for downloading APK files from various sources.
