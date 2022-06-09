@@ -36,6 +36,8 @@
 
 [Il2CppDumper-HI3](https://github.com/AndnixSH/Il2CppDumper-HI3) by AndnixSH : Modified Il2CppDumper which can decrypt and dump Honkai Impact 3rd games.
 
+[Il2CppDumper-Linux](https://github.com/BryanGIG/Il2CppDumper-Linux) by BryanGIG : Unity il2cpp reverse engineer [Linux] .
+
 [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) by Perfare : An il2cpp dumper.
 
 [Il2CppDumper](https://github.com/Jumboperson/Il2CppDumper) by Jumboperson : Better version of PokemonGoDumper.
