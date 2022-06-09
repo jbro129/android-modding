@@ -40,6 +40,8 @@
 
 [ARMPatch](https://github.com/RusJJ/ARMPatch) by RusJJ : Just a hook for ARM applications based on ARMhook, on Cydia's Substrate and on Rprop's And64InlineHook.
 
+[DInlineHook](https://github.com/dodola/DInlineHook) by dodola : Simple art inline hook .
+
 [Dobby](https://github.com/jmpews/Dobby) by jmpews : A lightweight, multi-platform, multi-architecture hook framework.
 
 [HookUnityEngineMethod](https://github.com/naivetang/HookUnityEngineMethod) by naivetang : Methods in Hook UnityEngine.
